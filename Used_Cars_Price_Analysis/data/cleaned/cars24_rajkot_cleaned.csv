@@ -1,0 +1,368 @@
+,car_name,brand,year_of_manufacture,kms_driven,fuel_type,transmission_type,emi,price,car_age_years,city
+0,Maruti Baleno,Maruti,2021,53477,Petrol,Manual,7767,440000.00000000006,5,Rajkot
+1,Ford Ecosport,Ford,2019,70530,Petrol,Manual,9179,520000.0,7,Rajkot
+2,Maruti Grand Vitara,Maruti,2023,39519,Petrol,Manual,17910,1046000.0000000001,3,Rajkot
+3,Tata ALTROZ,Tata,2020,52169,Petrol,Manual,7591,430000.0,6,Rajkot
+4,Hyundai Elite i20,Hyundai,2018,108000,Petrol,Manual,7029,316000.0,8,Rajkot
+5,Hyundai i20,Hyundai,2011,80250,Petrol,Manual,7029,65000.0,15,Rajkot
+6,Maruti Swift,Maruti,2012,130171,Diesel,Manual,7029,206000.0,14,Rajkot
+7,Maruti Baleno,Maruti,2022,33900,Petrol,Manual,8544,484000.0,4,Rajkot
+8,Volkswagen Polo,Volkswagen,2017,43070,Petrol,Manual,5630,288000.0,9,Rajkot
+9,Volkswagen Polo,Volkswagen,2014,120073,Diesel,Manual,10215,217000.0,12,Rajkot
+10,Honda Brio,Honda,2013,106637,Petrol,Manual,8238,175000.0,13,Rajkot
+11,Maruti Alto 800,Maruti,2013,85724,Petrol,Manual,7061,150000.0,13,Rajkot
+12,Hyundai Eon,Hyundai,2014,218830,Petrol,Manual,3919,118000.0,12,Rajkot
+13,Hyundai i10,Hyundai,2012,83778,Petrol,Manual,13594,153000.0,14,Rajkot
+14,Maruti Wagon R 1.0,Maruti,2011,47782,Petrol,Manual,13594,99000.0,15,Rajkot
+15,Maruti Swift,Maruti,2021,80862,Petrol,Manual,7961,451000.0,5,Rajkot
+16,Volkswagen Vento,Volkswagen,2013,130546,Petrol,Auto,8662,184000.0,13,Rajkot
+17,Tata Indica Vista,Tata,2012,73872,Diesel,Manual,8662,55000.00000000001,14,Rajkot
+18,Nissan Sunny,Nissan,2013,141301,Diesel,Manual,8796,99000.0,13,Rajkot
+19,Maruti Wagon R 1.0,Maruti,2013,63386,Petrol,Manual,10827,229999.99999999997,13,Rajkot
+20,Maruti Alto 800,Maruti,2014,76897,Petrol,Manual,6211,187000.0,12,Rajkot
+21,Hyundai Elite i20,Hyundai,2015,103669,Diesel,Manual,10363,312000.0,11,Rajkot
+22,KIA CARENS,KIA,2024,5031,Petrol,Manual,16814,982000.0,2,Rajkot
+23,Hyundai Verna,Hyundai,2018,90977,Diesel,Manual,9931,508000.0,8,Rajkot
+24,BMW X3,BMW,2011,126584,Diesel,Auto,9931,1211000.0,15,Rajkot
+25,Hyundai i10,Hyundai,2013,88095,Petrol,Manual,6590,140000.0,13,Rajkot
+26,Maruti Celerio,Maruti,2014,92023,Petrol,Auto,6444,194000.0,12,Rajkot
+27,Maruti Swift,Maruti,2013,125431,Diesel,Manual,25855,291000.0,13,Rajkot
+28,Hyundai Elite i20,Hyundai,2015,128568,Diesel,Manual,10861,327000.0,11,Rajkot
+29,Hyundai Eon,Hyundai,2016,56329,Petrol,Manual,3670,165000.0,10,Rajkot
+30,Maruti Swift,Maruti,2013,123663,Diesel,Manual,19991,225000.0,13,Rajkot
+31,Skoda Octavia,Skoda,2015,129686,Diesel,Auto,13053,393000.0,11,Rajkot
+32,Hyundai Grand i10,Hyundai,2014,170490,Petrol,Manual,8104,244000.0,12,Rajkot
+33,Maruti Ritz,Maruti,2015,80186,Petrol,Manual,3818,145000.0,11,Rajkot
+34,Maruti Alto 800,Maruti,2013,187190,Petrol,Manual,6590,140000.0,13,Rajkot
+35,Hyundai AURA,Hyundai,2020,71993,Petrol,Manual,7396,419000.00000000006,6,Rajkot
+36,Hyundai Grand i10,Hyundai,2015,95550,Diesel,Manual,6809,204999.99999999997,11,Rajkot
+37,Hyundai i20,Hyundai,2012,163004,Diesel,Manual,6809,135000.0,14,Rajkot
+38,Honda Amaze,Honda,2017,124339,Petrol,Manual,4427,199000.0,9,Rajkot
+39,Hyundai i10,Hyundai,2013,128890,Petrol,Manual,8756,186000.0,13,Rajkot
+40,Maruti New Wagon-R,Maruti,2019,82950,Petrol,Manual,6073,344000.0,7,Rajkot
+41,Mahindra XUV500,Mahindra,2015,141110,Diesel,Manual,12123,365000.0,11,Rajkot
+42,Hyundai Verna,Hyundai,2012,123236,Diesel,Manual,12123,145000.0,14,Rajkot
+43,Hyundai Xcent,Hyundai,2015,115423,Diesel,Manual,7673,231000.0,11,Rajkot
+44,Maruti Alto K10,Maruti,2013,122783,Petrol,Manual,7438,158000.0,13,Rajkot
+45,Hyundai Verna,Hyundai,2018,42329,Petrol,Auto,11404,646000.0,8,Rajkot
+46,Hyundai Grand i10,Hyundai,2015,100865,Petrol,Auto,7136,271000.0,11,Rajkot
+47,Renault Duster,Renault,2014,67136,Diesel,Manual,10497,223000.0,12,Rajkot
+48,Mahindra XUV500,Mahindra,2012,181360,Diesel,Manual,10497,220000.00000000003,14,Rajkot
+49,Maruti Swift Dzire,Maruti,2012,170148,Diesel,Manual,10497,131000.0,14,Rajkot
+50,Hyundai Grand i10,Hyundai,2015,80283,Petrol,Manual,7084,269000.0,11,Rajkot
+51,Volkswagen Vento,Volkswagen,2016,94859,Diesel,Auto,9401,357000.0,10,Rajkot
+52,Hyundai Creta,Hyundai,2017,100655,Diesel,Auto,11856,533000.0,9,Rajkot
+53,Maruti Wagon R 1.0,Maruti,2012,61032,Petrol,Manual,14038,158000.0,14,Rajkot
+54,Tata TIGOR,Tata,2018,173502,Petrol,Manual,6562,295000.0,8,Rajkot
+55,Maruti Wagon R 1.0,Maruti,2015,104222,Petrol,Manual,6267,238000.0,11,Rajkot
+56,Hyundai i10,Hyundai,2012,122679,Petrol,Manual,12528,141000.0,14,Rajkot
+57,Honda Jazz,Honda,2016,117697,Diesel,Manual,6162,234000.0,10,Rajkot
+58,Maruti Swift,Maruti,2012,92772,Diesel,Manual,6162,291000.0,14,Rajkot
+59,Datsun Go,Datsun,2017,62517,Petrol,Manual,2678,137000.0,9,Rajkot
+60,Hyundai Verna,Hyundai,2012,147238,Diesel,Manual,2678,178000.0,14,Rajkot
+61,Toyota Innova Crysta,Toyota,2017,136111,Diesel,Manual,26808,1233000.0,9,Rajkot
+62,Maruti Swift,Maruti,2022,135444,Petrol,Manual,9899,445000.0,4,Rajkot
+63,Maruti Eeco,Maruti,2018,122235,Petrol,Manual,6384,287000.0,8,Rajkot
+64,Hyundai Xcent,Hyundai,2014,82764,Diesel,Manual,7955,169000.0,12,Rajkot
+65,Hyundai Elite i20,Hyundai,2014,94350,Petrol,Manual,10562,318000.0,12,Rajkot
+66,Honda Amaze,Honda,2023,29803,Petrol,Manual,9815,556000.0,3,Rajkot
+67,Nissan Sunny,Nissan,2014,152765,Petrol,Manual,5779,174000.0,12,Rajkot
+68,Maruti Alto K10,Maruti,2017,154282,Petrol,Manual,4938,222000.00000000003,9,Rajkot
+69,Maruti Alto 800,Maruti,2018,85381,Petrol,Manual,3831,217000.0,8,Rajkot
+70,Maruti Wagon R 1.0,Maruti,2017,147560,Petrol,Manual,5450,245000.00000000003,9,Rajkot
+71,Hyundai i20,Hyundai,2014,109379,Diesel,Manual,8897,189000.0,12,Rajkot
+72,Hyundai Verna,Hyundai,2013,126433,Diesel,Auto,21324,240000.0,13,Rajkot
+73,Tata Hexa,Tata,2018,96181,Diesel,Manual,10831,554000.0,8,Rajkot
+74,Hyundai Elite i20,Hyundai,2017,78936,Petrol,Manual,7879,403000.0,9,Rajkot
+75,Hyundai Creta,Hyundai,2018,150538,Diesel,Manual,11500,517000.0,8,Rajkot
+76,Hyundai i10,Hyundai,2011,65594,Petrol,Manual,11500,84000.0,15,Rajkot
+77,Nissan Micra,Nissan,2011,89828,Petrol,Manual,11500,105000.0,15,Rajkot
+78,Maruti Wagon R 1.0,Maruti,2012,132733,Petrol,Manual,13061,147000.0,14,Rajkot
+79,Chevrolet Spark,Chevrolet,2012,73832,Petrol,Manual,4620,52000.0,14,Rajkot
+80,Renault Kwid,Renault,2016,87379,Petrol,Auto,3648,164000.0,10,Rajkot
+81,Maruti Alto 800,Maruti,2018,80001,Petrol,Manual,3192,181000.0,8,Rajkot
+82,Hyundai Eon,Hyundai,2013,110680,Petrol,Manual,4630,98000.0,13,Rajkot
+83,Honda Amaze,Honda,2014,126000,Diesel,Manual,9132,194000.0,12,Rajkot
+84,Hyundai i10,Hyundai,2013,75758,Petrol,Auto,6732,143000.0,13,Rajkot
+85,Hyundai i20,Hyundai,2012,105427,Diesel,Manual,6732,153000.0,14,Rajkot
+86,Maruti Alto 800,Maruti,2017,77689,Petrol,Manual,3670,165000.0,9,Rajkot
+87,Maruti Ertiga,Maruti,2014,120280,Diesel,Manual,14781,314000.0,12,Rajkot
+88,Tata Safari,Tata,2011,248507,Diesel,Manual,14781,229000.0,15,Rajkot
+89,Nissan Sunny,Nissan,2013,154820,Diesel,Manual,12261,138000.0,13,Rajkot
+90,Maruti Swift Dzire,Maruti,2011,164185,Diesel,Manual,12261,183000.0,15,Rajkot
+91,Hyundai AURA,Hyundai,2020,82976,Petrol,Manual,7061,400000.0,6,Rajkot
+92,Hyundai i20,Hyundai,2013,110383,Diesel,Manual,16704,188000.0,13,Rajkot
+93,Mahindra XUV500,Mahindra,2012,246518,Diesel,Manual,16704,234000.0,14,Rajkot
+94,Maruti S PRESSO,Maruti,2020,64856,Petrol,Manual,5119,290000.0,6,Rajkot
+95,Maruti Wagon R 1.0,Maruti,2011,90866,Petrol,Manual,5119,131000.0,15,Rajkot
+96,Mahindra XUV500,Mahindra,2014,95515,Diesel,Manual,16852,358000.0,12,Rajkot
+97,Hyundai i10,Hyundai,2015,107517,Petrol,Manual,5820,221000.0,11,Rajkot
+98,Ford Figo,Ford,2011,99257,Diesel,Manual,5820,76000.0,15,Rajkot
+99,Hyundai Verna,Hyundai,2014,136816,Diesel,Manual,12474,265000.0,12,Rajkot
+100,Tata Zest,Tata,2017,131029,Diesel,Manual,5583,250999.99999999997,9,Rajkot
+101,Hyundai Grand i10,Hyundai,2015,80566,Diesel,Manual,8270,249000.00000000003,11,Rajkot
+102,Hyundai Verna,Hyundai,2012,153254,Diesel,Manual,8270,150000.0,14,Rajkot
+103,Hyundai i10,Hyundai,2011,80112,Petrol,Manual,8270,127000.0,15,Rajkot
+104,Maruti Wagon R 1.0,Maruti,2013,63101,Petrol,Manual,9415,200000.0,13,Rajkot
+105,Hyundai Eon,Hyundai,2017,120418,Petrol,Manual,3871,174000.0,9,Rajkot
+106,Maruti Celerio,Maruti,2016,66881,Petrol,Manual,5561,250000.0,10,Rajkot
+107,Hyundai Verna,Hyundai,2011,84839,Petrol,Manual,5561,152000.0,15,Rajkot
+108,Hyundai i20,Hyundai,2014,109978,Diesel,Manual,10921,231999.99999999997,12,Rajkot
+109,Mahindra Kuv100,Mahindra,2016,76842,Petrol,Manual,4471,200999.99999999997,10,Rajkot
+110,Maruti Vitara Brezza,Maruti,2018,57450,Diesel,Manual,10123,518000.0,8,Rajkot
+111,Tata NEXON,Tata,2020,85516,Diesel,Manual,8826,500000.0,6,Rajkot
+112,Hyundai Santro Xing,Hyundai,2011,139813,Petrol,Manual,8826,94000.0,15,Rajkot
+113,Tata PUNCH,Tata,2022,46304,Petrol,Manual,9162,519000.00000000006,4,Rajkot
+114,Hyundai Xcent,Hyundai,2015,114188,Petrol,Manual,8980,341000.0,11,Rajkot
+115,Maruti Ertiga,Maruti,2021,128510,Petrol,Manual,17394,800000.0,5,Rajkot
+116,Maruti Alto 800,Maruti,2014,45887,Petrol,Manual,5646,170000.0,12,Rajkot
+117,KIA SELTOS,KIA,2023,21419,Petrol,Manual,16609,969999.9999999999,3,Rajkot
+118,Hyundai Verna,Hyundai,2015,240940,Diesel,Manual,11858,357000.0,11,Rajkot
+119,Maruti Alto 800,Maruti,2017,48614,Petrol,Manual,4145,212000.0,9,Rajkot
+120,Chevrolet Enjoy,Chevrolet,2014,114485,Diesel,Manual,6967,148000.0,12,Rajkot
+121,Honda City,Honda,2014,95419,Diesel,Manual,13840,294000.0,12,Rajkot
+122,Honda Amaze,Honda,2019,134581,Petrol,Manual,9498,426999.99999999994,7,Rajkot
+123,Hyundai i20,Hyundai,2011,47745,Petrol,Manual,9498,132000.0,15,Rajkot
+124,Honda City,Honda,2010,148312,Petrol,Auto,9498,150000.0,16,Rajkot
+125,Hyundai i10,Hyundai,2010,143760,Petrol,Manual,9498,59000.0,16,Rajkot
+126,Honda Brio,Honda,2011,79486,Petrol,Manual,9498,115999.99999999999,15,Rajkot
+127,Honda Amaze,Honda,2017,166723,Petrol,Manual,6673,300000.0,9,Rajkot
+128,Hyundai Elite i20,Hyundai,2016,101641,Diesel,Manual,9575,364000.0,10,Rajkot
+129,Tata PUNCH,Tata,2024,21244,Petrol,Manual,12992,736000.0,2,Rajkot
+130,Tata Harrier,Tata,2022,129013,Diesel,Manual,27178,1250000.0,4,Rajkot
+131,Hyundai Elite i20,Hyundai,2018,94357,Diesel,Manual,8719,446000.0,8,Rajkot
+132,Tata PUNCH,Tata,2022,66000,Petrol,Manual,9250,524000.0,4,Rajkot
+133,Maruti Swift,Maruti,2017,143790,Diesel,Manual,8364,376000.0,9,Rajkot
+134,Hyundai Santro Xing,Hyundai,2013,147909,Petrol,Manual,7155,152000.0,13,Rajkot
+135,Hyundai Santro Xing,Hyundai,2012,86253,Petrol,Manual,11373,128000.0,14,Rajkot
+136,Maruti Celerio,Maruti,2022,88540,Petrol,Manual,7061,400000.0,4,Rajkot
+137,Hyundai Eon,Hyundai,2017,25937,Petrol,Manual,4418,225999.99999999997,9,Rajkot
+138,Hyundai i20,Hyundai,2011,153393,Petrol,Manual,4418,140000.0,15,Rajkot
+139,Hyundai Grand i10,Hyundai,2015,103912,Petrol,Manual,7637,290000.0,11,Rajkot
+140,Maruti Swift,Maruti,2015,25044,Diesel,Manual,13485,405999.99999999994,11,Rajkot
+141,Honda Amaze,Honda,2015,155393,Diesel,Manual,9400,283000.0,11,Rajkot
+142,Hyundai Xcent,Hyundai,2014,73823,Diesel,Manual,13228,281000.0,12,Rajkot
+143,Maruti Alto,Maruti,2021,38578,Petrol,Manual,4519,256000.0,5,Rajkot
+144,Hyundai Tucson,Hyundai,2020,124990,Diesel,Auto,32070,1475000.0,6,Rajkot
+145,Hyundai Elite i20,Hyundai,2019,93167,Petrol,Manual,7926,449000.0,7,Rajkot
+146,Maruti Wagon R 1.0,Maruti,2017,19336,Petrol,Manual,5103,261000.0,9,Rajkot
+147,Maruti Baleno,Maruti,2021,101386,Petrol,Manual,11612,522000.0,5,Rajkot
+148,Tata NEXON,Tata,2020,96601,Diesel,Manual,10715,607000.0,6,Rajkot
+149,Hyundai Grand i10,Hyundai,2014,136224,Petrol,Manual,8304,250000.0,12,Rajkot
+150,Maruti Alto,Maruti,2021,28115,Petrol,Manual,4943,280000.0,5,Rajkot
+151,Maruti Zen Estilo,Maruti,2012,178484,Petrol,Manual,4190,47000.0,14,Rajkot
+152,Maruti Dzire,Maruti,2018,140040,Petrol,Manual,9053,407000.0,8,Rajkot
+153,Tata NEXON,Tata,2024,13439,Petrol,Manual,18287,1068000.0,2,Rajkot
+154,Honda Amaze,Honda,2013,117946,Petrol,Manual,11203,238000.0,13,Rajkot
+155,Fiat Grand Punto,Fiat,2016,112581,Diesel,Manual,4319,164000.0,10,Rajkot
+156,Maruti Swift,Maruti,2022,36558,Petrol,Manual,9515,539000.0,4,Rajkot
+157,Volkswagen Ameo,Volkswagen,2018,86809,Petrol,Manual,6549,371000.0,8,Rajkot
+158,Hyundai Santro Xing,Hyundai,2013,146162,Petrol,Manual,8191,174000.0,13,Rajkot
+159,Honda Amaze,Honda,2017,185125,Diesel,Manual,6451,290000.0,9,Rajkot
+160,Hyundai i20,Hyundai,2013,133758,Diesel,Manual,15810,178000.0,13,Rajkot
+161,Toyota Etios Liva,Toyota,2015,115314,Diesel,Manual,8470,254999.99999999997,11,Rajkot
+162,Tata Tiago,Tata,2019,83175,Petrol,Manual,6814,386000.0,7,Rajkot
+163,Hyundai Creta,Hyundai,2016,103600,Diesel,Manual,15642,594000.0,10,Rajkot
+164,Volkswagen Vento,Volkswagen,2011,156104,Diesel,Manual,15642,122000.0,15,Rajkot
+165,Hyundai Xcent,Hyundai,2014,118368,Petrol,Manual,10031,302000.0,12,Rajkot
+166,Maruti Alto,Maruti,2011,80663,Petrol,Manual,10031,81000.0,15,Rajkot
+167,Honda Jazz,Honda,2017,67817,Petrol,Auto,7273,372000.0,9,Rajkot
+168,Hyundai i20,Hyundai,2010,99348,Petrol,Manual,7273,92000.0,16,Rajkot
+169,Hyundai i20,Hyundai,2013,151539,Diesel,Manual,20879,235000.0,13,Rajkot
+170,Hyundai Xcent,Hyundai,2018,95489,Petrol,Manual,5561,315000.0,8,Rajkot
+171,Maruti Swift Dzire,Maruti,2011,105396,Petrol,Manual,5561,171000.0,15,Rajkot
+172,Hyundai i20,Hyundai,2011,101473,Diesel,Manual,5561,99000.0,15,Rajkot
+173,Maruti Baleno,Maruti,2020,92000,Petrol,Manual,8261,468000.0,6,Rajkot
+174,Maruti Wagon R 1.0,Maruti,2014,202512,Petrol,Manual,5447,164000.0,12,Rajkot
+175,Hyundai Elite i20,Hyundai,2018,196896,Diesel,Manual,9343,420000.0,8,Rajkot
+176,Hyundai Creta,Hyundai,2023,50314,Petrol,Manual,15051,878999.9999999999,3,Rajkot
+177,Maruti Ertiga,Maruti,2017,189016,Diesel,Manual,11144,501000.0,9,Rajkot
+178,Hyundai GRAND I10 NIOS,Hyundai,2021,70992,Petrol,Manual,8826,500000.0,5,Rajkot
+179,Nissan Sunny,Nissan,2012,183479,Diesel,Manual,8826,99000.0,14,Rajkot
+180,Hyundai Xcent,Hyundai,2014,235266,Petrol,Manual,8735,263000.0,12,Rajkot
+181,Maruti Dzire,Maruti,2019,47610,Petrol,Auto,8032,455000.0,7,Rajkot
+182,Skoda Rapid,Skoda,2017,100376,Diesel,Manual,10722,482000.0,9,Rajkot
+183,Hyundai Elite i20,Hyundai,2020,57317,Petrol,Manual,9179,520000.0,6,Rajkot
+184,Chevrolet Sail,Chevrolet,2013,139253,Diesel,Manual,10662,120000.0,13,Rajkot
+185,Maruti Baleno,Maruti,2021,89743,Petrol,Manual,9232,523000.00000000006,5,Rajkot
+186,Maruti Swift,Maruti,2018,115079,Petrol,Auto,9988,449000.0,8,Rajkot
+187,Maruti Vitara Brezza,Maruti,2017,107752,Diesel,Manual,11300,508000.0,9,Rajkot
+188,Mahindra SCORPIO CLASSIC,Mahindra,2025,5622,Diesel,Manual,27875,1628000.0,1,Rajkot
+189,Honda City,Honda,2015,120855,Petrol,Auto,9928,377000.0,11,Rajkot
+190,Tata ALTROZ,Tata,2022,64234,Petrol,Manual,9974,565000.0,4,Rajkot
+191,Mahindra Verito,Mahindra,2011,197427,Diesel,Manual,9974,121000.0,15,Rajkot
+192,Hyundai Santro Xing,Hyundai,2011,115000,Petrol,Manual,9974,91000.0,15,Rajkot
+193,Honda Amaze,Honda,2020,42079,Petrol,Manual,8297,470000.0,6,Rajkot
+194,Hyundai Verna,Hyundai,2021,99049,Petrol,Manual,13469,763000.0,5,Rajkot
+195,Maruti Vitara Brezza,Maruti,2021,88154,Petrol,Manual,9744,552000.0,5,Rajkot
+196,Fiat Punto EVO,Fiat,2016,136592,Petrol,Manual,3670,165000.0,10,Rajkot
+197,Honda Amaze,Honda,2020,79894,Petrol,Manual,7379,418000.0,6,Rajkot
+198,Volkswagen Jetta,Volkswagen,2014,124618,Diesel,Manual,14734,313000.0,12,Rajkot
+199,Hyundai Grand i10,Hyundai,2017,59750,Petrol,Manual,6745,345000.0,9,Rajkot
+200,Renault Captur,Renault,2017,71374,Diesel,Manual,7288,328000.0,9,Rajkot
+201,Maruti Swift,Maruti,2010,206161,Diesel,Manual,7288,94000.0,16,Rajkot
+202,Maruti Ertiga,Maruti,2014,177214,Diesel,Manual,17323,368000.0,12,Rajkot
+203,Toyota Etios,Toyota,2011,165582,Petrol,Manual,17323,127000.0,15,Rajkot
+204,Maruti Swift,Maruti,2023,114830,Petrol,Manual,15460,695000.0,3,Rajkot
+205,Maruti Wagon R 1.0,Maruti,2011,122334,Petrol,Manual,15460,110000.00000000001,15,Rajkot
+206,KIA CARENS,KIA,2022,100899,Petrol,Manual,17590,809000.0,4,Rajkot
+207,Mahindra Quanto,Mahindra,2013,137730,Diesel,Manual,9951,112000.00000000001,13,Rajkot
+208,Maruti Alto 800,Maruti,2018,27892,Petrol,Manual,4537,256999.99999999997,8,Rajkot
+209,Hyundai i10,Hyundai,2015,68330,Petrol,Manual,6899,262000.0,11,Rajkot
+210,Hyundai Grand i10,Hyundai,2014,136747,Petrol,Manual,9732,293000.0,12,Rajkot
+211,Chevrolet Sail UVA,Chevrolet,2014,180894,Diesel,Manual,6214,132000.0,12,Rajkot
+212,Maruti Alto K10,Maruti,2024,40993,Petrol,Manual,8120,459999.99999999994,2,Rajkot
+213,Honda City,Honda,2018,103102,Petrol,Auto,12724,572000.0,8,Rajkot
+214,Maruti Alto K10,Maruti,2010,106208,Petrol,Manual,12724,109000.00000000001,16,Rajkot
+215,Maruti Baleno,Maruti,2025,4935,Petrol,Manual,11474,650000.0,1,Rajkot
+216,Honda WR-V,Honda,2018,127273,Diesel,Manual,11656,524000.0,8,Rajkot
+217,Mahindra BOLERO NEO,Mahindra,2022,73242,Diesel,Manual,11880,673000.0,4,Rajkot
+218,Maruti Ciaz,Maruti,2018,29936,Petrol,Manual,9833,557000.0,8,Rajkot
+219,Jeep Compass,Jeep,2017,49000,Diesel,Manual,14815,666000.0,9,Rajkot
+220,Tata NEXON,Tata,2022,42186,Petrol,Manual,13240,750000.0,4,Rajkot
+221,Maruti Swift Dzire,Maruti,2014,131842,Diesel,Manual,15252,324000.0,12,Rajkot
+222,KIA SONET,KIA,2020,141808,Petrol,Manual,12657,569000.0,6,Rajkot
+223,Hyundai Grand i10,Hyundai,2019,67785,Petrol,Auto,6955,394000.0,7,Rajkot
+224,Tata Tiago,Tata,2023,15325,Petrol,Manual,8209,465000.00000000006,3,Rajkot
+225,Jeep Compass,Jeep,2018,200912,Diesel,Manual,14948,672000.0,8,Rajkot
+226,Hyundai Creta,Hyundai,2018,114191,Diesel,Manual,13992,629000.0,8,Rajkot
+227,Maruti Swift,Maruti,2015,105224,Diesel,Manual,11459,345000.0,11,Rajkot
+228,Toyota Corolla Altis,Toyota,2014,104101,Diesel,Manual,20242,430000.0,12,Rajkot
+229,Hyundai Grand i10,Hyundai,2018,78178,Petrol,Manual,6496,368000.0,8,Rajkot
+230,Hyundai Verna,Hyundai,2011,161084,Diesel,Manual,6496,174000.0,15,Rajkot
+231,Tata NEXON,Tata,2019,51741,Petrol,Auto,9462,536000.0,7,Rajkot
+232,Maruti Alto,Maruti,2019,31102,Petrol,Manual,4731,268000.0,7,Rajkot
+233,Maruti S Cross,Maruti,2016,146458,Diesel,Manual,9875,375000.0,10,Rajkot
+234,Honda City,Honda,2011,109023,Petrol,Manual,9875,184000.0,15,Rajkot
+235,Maruti Eeco,Maruti,2015,211425,Petrol,Manual,5003,190000.0,11,Rajkot
+236,Hyundai Grand i10,Hyundai,2016,95342,Petrol,Auto,7163,322000.0,10,Rajkot
+237,Hyundai VENUE,Hyundai,2021,49476,Petrol,Manual,12339,699000.0,5,Rajkot
+238,Nissan MAGNITE,Nissan,2021,100523,Petrol,Auto,11144,501000.0,5,Rajkot
+239,Maruti S Cross,Maruti,2019,92593,Diesel,Manual,10044,569000.0,7,Rajkot
+240,Hyundai Xcent,Hyundai,2018,60742,Petrol,Manual,6461,366000.0,8,Rajkot
+241,Hyundai Grand i10,Hyundai,2017,65802,Petrol,Manual,7234,370000.0,9,Rajkot
+242,Toyota Camry,Toyota,2017,179259,Hybrid,Auto,17394,800000.0,9,Rajkot
+243,Mercedes Benz GLA Class,Mercedes,2016,129288,Diesel,Auto,21710,840000.0,10,Rajkot
+244,BMW X1,BMW,2016,166343,Diesel,Auto,24915,964000.0,10,Rajkot
+245,Honda City,Honda,2015,80776,Petrol,Auto,10534,400000.0,11,Rajkot
+246,Audi Q3,Audi,2018,113249,Diesel,Auto,26461,1217000.0,8,Rajkot
+247,Tata NEXON,Tata,2020,87755,Petrol,Manual,10380,588000.0,6,Rajkot
+248,Hyundai Verna,Hyundai,2024,10627,Petrol,Auto,22721,1327000.0,2,Rajkot
+249,Maruti Dzire,Maruti,2021,131771,Petrol,Manual,10388,467000.0,5,Rajkot
+250,Maruti Vitara Brezza,Maruti,2021,74428,Petrol,Auto,11633,659000.0,5,Rajkot
+251,Tata TIGOR,Tata,2023,65255,Petrol,Manual,11298,640000.0,3,Rajkot
+252,Honda City,Honda,2015,89729,Petrol,Manual,9112,346000.0,11,Rajkot
+253,Maruti Ertiga,Maruti,2016,65442,Diesel,Manual,17854,678000.0,10,Rajkot
+254,Honda City,Honda,2021,75943,Petrol,Auto,13698,800000.0,5,Rajkot
+255,Ford Ecosport,Ford,2016,120295,Diesel,Manual,9691,368000.0,10,Rajkot
+256,Ford Ecosport,Ford,2018,85092,Diesel,Manual,11359,581000.0,8,Rajkot
+257,Maruti Baleno,Maruti,2018,71000,Petrol,Auto,7855,445000.0,8,Rajkot
+258,Hyundai NEW SANTRO,Hyundai,2019,71842,Petrol,Manual,5737,325000.0,7,Rajkot
+259,Hyundai Grand i10,Hyundai,2015,65763,Petrol,Manual,9085,345000.0,11,Rajkot
+260,Hyundai NEW SANTRO,Hyundai,2019,54144,Petrol,Manual,7238,409999.99999999994,7,Rajkot
+261,Tata PUNCH,Tata,2021,45248,Petrol,Manual,9285,526000.0,5,Rajkot
+262,Maruti Eeco,Maruti,2019,64402,Petrol,Manual,5636,319000.0,7,Rajkot
+263,Mahindra Thar,Mahindra,2023,19190,Diesel,Manual,23920,1397000.0,3,Rajkot
+264,Hyundai Creta,Hyundai,2018,94015,Diesel,Manual,13060,668000.0,8,Rajkot
+265,Renault Kiger,Renault,2022,29175,Petrol,Manual,9744,552000.0,4,Rajkot
+266,Toyota Innova Crysta,Toyota,2017,155901,Diesel,Manual,25308,1164000.0,9,Rajkot
+267,Maruti Ertiga,Maruti,2016,97639,Diesel,Manual,13615,517000.0,10,Rajkot
+268,Hyundai Creta,Hyundai,2022,41633,Petrol,Manual,15068,880000.0000000001,4,Rajkot
+269,Honda City,Honda,2019,117233,Petrol,Manual,11678,525000.0,7,Rajkot
+270,Hyundai ALCAZAR,Hyundai,2022,44268,Petrol,Auto,21386,1249000.0,4,Rajkot
+271,Hyundai Creta,Hyundai,2018,63425,Petrol,Manual,11633,659000.0,8,Rajkot
+272,Audi Q3,Audi,2017,162022,Diesel,Auto,24265,1116000.0,9,Rajkot
+273,Tata NEXON,Tata,2023,42187,Petrol,Auto,15496,905000.0000000001,3,Rajkot
+274,Honda Civic,Honda,2012,68345,Petrol,Auto,28698,323000.0,14,Rajkot
+275,Jeep Compass,Jeep,2018,136735,Diesel,Manual,15660,704000.0,8,Rajkot
+276,Maruti New Wagon-R,Maruti,2020,152416,Petrol,Manual,9432,424000.0,6,Rajkot
+277,Maruti S Cross,Maruti,2021,72888,Petrol,Auto,11916,675000.0,5,Rajkot
+278,MG ASTOR,MG,2023,25141,Petrol,Manual,17996,1051000.0,3,Rajkot
+279,Maruti S PRESSO,Maruti,2025,5300,Petrol,Manual,8138,461000.00000000006,1,Rajkot
+280,Tata NEXON,Tata,2022,39058,Petrol,Manual,11015,624000.0,4,Rajkot
+281,Maruti Eeco,Maruti,2017,264893,Petrol,Manual,6696,301000.0,9,Rajkot
+282,Maruti Eeco,Maruti,2017,165831,Petrol,Manual,6251,281000.0,9,Rajkot
+283,Maruti S Cross,Maruti,2016,134855,Diesel,Manual,11798,448000.00000000006,10,Rajkot
+284,Maruti Swift,Maruti,2012,130459,Diesel,Manual,11798,290000.0,14,Rajkot
+285,Maruti Eeco,Maruti,2024,32321,Petrol,Manual,8831,500000.0,2,Rajkot
+286,Maruti Baleno,Maruti,2020,75485,Petrol,Manual,8297,470000.0,6,Rajkot
+287,Hyundai Creta,Hyundai,2020,65685,Diesel,Manual,16164,944000.0,6,Rajkot
+288,Mercedes Benz GLA Class,Mercedes,2017,125147,Diesel,Auto,25460,1171000.0,9,Rajkot
+289,Tata NEXON,Tata,2023,40143,Diesel,Auto,17122,1000000.0,3,Rajkot
+290,KIA SELTOS,KIA,2020,63196,Diesel,Manual,17379,1015000.0,6,Rajkot
+291,Hyundai NEW SANTRO,Hyundai,2020,90827,Petrol,Auto,7061,400000.0,6,Rajkot
+292,Maruti Vitara Brezza,Maruti,2019,126536,Diesel,Manual,12568,565000.0,7,Rajkot
+293,Tata Safari,Tata,2021,117883,Diesel,Auto,34201,1573000.0,5,Rajkot
+294,Toyota Innova Crysta,Toyota,2022,81520,Diesel,Auto,29536,1725000.0,4,Rajkot
+295,Hyundai VENUE,Hyundai,2019,127840,Diesel,Manual,15771,709000.0,7,Rajkot
+296,Maruti BREZZA,Maruti,2023,17133,Petrol,Manual,17482,1021000.0000000001,3,Rajkot
+297,Honda Mobilio,Honda,2015,111126,Petrol,Manual,9375,356000.0,11,Rajkot
+298,Tata NEXON,Tata,2023,54555,Diesel,Manual,18150,1060000.0,3,Rajkot
+299,Hyundai VENUE,Hyundai,2021,139850,Diesel,Manual,17328,779000.0,5,Rajkot
+300,KIA SONET,KIA,2024,13200,Petrol,Manual,15444,902000.0,2,Rajkot
+301,Mercedes Benz C Class,Mercedes,2019,44686,Diesel,Auto,43748,2555000.0,7,Rajkot
+302,Mahindra MARAZZO,Mahindra,2018,135461,Diesel,Manual,10010,450000.0,8,Rajkot
+303,Maruti S PRESSO,Maruti,2023,30263,Petrol,Manual,7697,436000.00000000006,3,Rajkot
+304,Maruti Swift,Maruti,2021,95637,Petrol,Manual,8385,475000.0,5,Rajkot
+305,KIA SELTOS,KIA,2021,18391,Petrol,Manual,17414,1017000.0,5,Rajkot
+306,Maruti Vitara Brezza,Maruti,2018,176462,Diesel,Manual,11856,533000.0,8,Rajkot
+307,Mahindra XUV700,Mahindra,2025,10628,Diesel,Manual,36351,2123000.0,1,Rajkot
+308,Mahindra Thar,Mahindra,2025,4864,Diesel,Manual,20598,1203000.0,1,Rajkot
+309,Hyundai Creta,Hyundai,2015,189192,Diesel,Manual,20759,625000.0,11,Rajkot
+310,Maruti BREZZA,Maruti,2022,44549,Petrol,Manual,17259,1008000.0,4,Rajkot
+311,Maruti Alto,Maruti,2023,64647,Petrol,Manual,7361,417000.0,3,Rajkot
+312,KIA SONET,KIA,2022,120338,Petrol,Manual,16416,738000.0,4,Rajkot
+313,Mahindra SCORPIO-N,Mahindra,2025,22142,Diesel,Manual,29588,1728000.0,1,Rajkot
+314,Tata NEXON,Tata,2023,43398,Diesel,Auto,20478,1196000.0,3,Rajkot
+315,Volkswagen TAIGUN,Volkswagen,2022,134916,Petrol,Auto,22503,1035000.0,4,Rajkot
+316,MG HECTOR,MG,2020,97494,Diesel,Manual,16609,969999.9999999999,6,Rajkot
+317,MG HECTOR,MG,2021,93065,Diesel,Manual,17979,1050000.0,5,Rajkot
+318,Tata TIAGO EV,Tata,2023,25977,Electric,Auto,14105,799000.0,3,Rajkot
+319,Volkswagen Polo,Volkswagen,2014,167420,Petrol,Manual,34965,1068000.0,12,Rajkot
+320,Renault Duster,Renault,2019,121364,Petrol,Manual,9370,421000.0,7,Rajkot
+321,Hyundai Creta,Hyundai,2021,50591,Diesel,Manual,22739,1328000.0,5,Rajkot
+322,Mercedes Benz GLC CLASS,Mercedes,2020,99272,Diesel,Auto,63490,3708000.0,6,Rajkot
+323,Tata Safari,Tata,2021,144512,Diesel,Auto,28635,1317000.0,5,Rajkot
+324,Honda Mobilio,Honda,2015,183303,Diesel,Manual,10894,328000.0,11,Rajkot
+325,Landrover DISCOVERY SPORT,Landrover,2017,178930,Diesel,Auto,32614,1500000.0,9,Rajkot
+326,Hyundai Creta,Hyundai,2023,30749,Petrol,Manual,21249,1241000.0,3,Rajkot
+327,Mercedes Benz GLA Class,Mercedes,2015,63913,Diesel,Auto,41120,1256000.0,11,Rajkot
+328,Volkswagen VIRTUS,Volkswagen,2024,30765,Petrol,Auto,23971,1400000.0,2,Rajkot
+329,Audi A4,Audi,2017,49797,Diesel,Auto,38941,1791000.0,9,Rajkot
+330,Toyota Innova Crysta,Toyota,2016,357487,Diesel,Manual,19750,750000.0,10,Rajkot
+331,Hyundai Santa Fe,Hyundai,2014,121224,Diesel,Auto,26220,557000.0,12,Rajkot
+332,Tata Harrier,Tata,2023,101535,Diesel,Manual,24547,1129000.0,3,Rajkot
+333,Volvo XC 60,Volvo,2018,45695,Diesel,Auto,37116,1950000.0,8,Rajkot
+334,MG GLOSTER,MG,2023,151259,Diesel,Auto,66249,3047000.0,3,Rajkot
+335,BMW X3,BMW,2011,126432,Diesel,Auto,66249,750000.0,15,Rajkot
+336,Hyundai Creta,Hyundai,2025,13000,Diesel,Manual,26608,1554000.0,1,Rajkot
+337,Jeep Compass,Jeep,2021,86909,Diesel,Auto,34913,2039000.0,5,Rajkot
+338,Volkswagen VIRTUS,Volkswagen,2023,39188,Petrol,Manual,17773,1038000.0000000001,3,Rajkot
+339,Maruti Eeco,Maruti,2021,83980,Petrol,Manual,6832,387000.0,5,Rajkot
+340,Volkswagen VIRTUS,Volkswagen,2022,17761,Petrol,Auto,19691,1150000.0,4,Rajkot
+341,MG HECTOR,MG,2020,84591,Diesel,Manual,20598,1203000.0,6,Rajkot
+342,Volkswagen TIGUAN,Volkswagen,2022,36763,Petrol,Auto,39947,2333000.0,4,Rajkot
+343,Hyundai ALCAZAR,Hyundai,2021,123304,Diesel,Auto,27308,1256000.0,5,Rajkot
+344,Tata Harrier,Tata,2021,81474,Diesel,Manual,19263,1125000.0,5,Rajkot
+345,Toyota Fortuner,Toyota,2019,126234,Diesel,Auto,48094,2212000.0,7,Rajkot
+346,Tata Harrier,Tata,2023,96633,Diesel,Manual,16266,950000.0,3,Rajkot
+347,Mercedes Benz GLA Class,Mercedes,2017,72001,Diesel,Auto,27982,1287000.0,9,Rajkot
+348,Toyota Fortuner,Toyota,2014,221629,Diesel,Manual,45210,969999.9999999999,12,Rajkot
+349,Tata Harrier,Tata,2023,150324,Diesel,Auto,27178,1250000.0,3,Rajkot
+350,Tata Harrier,Tata,2024,53565,Diesel,Auto,31694,1851000.0000000002,2,Rajkot
+351,Tata Harrier,Tata,2019,88412,Diesel,Manual,18407,1075000.0,7,Rajkot
+352,Volvo XC 90,Volvo,2024,14374,Petrol,Auto,128418,7500000.0,2,Rajkot
+353,Landrover DISCOVERY SPORT,Landrover,2016,135229,Diesel,Auto,40681,1574000.0,10,Rajkot
+354,Mahindra SCORPIO-N,Mahindra,2025,14316,Diesel,Auto,37550,2193000.0,1,Rajkot
+355,Mahindra Thar Roxx,Mahindra,2024,42510,Diesel,Auto,33337,1947000.0,2,Rajkot
+356,Mercedes Benz GLA Class,Mercedes,2018,125316,Diesel,Auto,31157,1433000.0,8,Rajkot
+357,Mercedes Benz GLC CLASS,Mercedes,2020,51026,Petrol,Auto,43063,2515000.0,6,Rajkot
+358,Tata NEXON EV,Tata,2023,102000,Electric,Auto,28896,1329000.0,3,Rajkot
+359,Mahindra XUV300,Mahindra,2023,23828,Petrol,Manual,11827,670000.0,3,Rajkot
+360,Tata ALTROZ,Tata,2025,20015,Petrol,Manual,12445,705000.0,1,Rajkot
+361,Maruti Ertiga,Maruti,2022,57600,Petrol,Auto,16095,940000.0,4,Rajkot
+362,Renault Kiger,Renault,2022,66134,Petrol,Manual,6708,380000.0,4,Rajkot
+363,Maruti Wagon R 1.0,Maruti,2011,159417,Petrol,Manual,6708,114999.99999999999,15,Rajkot
+364,Renault Duster,Renault,2013,229337,Diesel,Manual,15460,174000.0,13,Rajkot
+365,Hyundai Grand i10,Hyundai,2016,78194,Petrol,Auto,10121,455000.0,10,Rajkot
+366,Maruti Eeco,Maruti,2015,192643,Petrol,Manual,1606,61000.0,11,Rajkot

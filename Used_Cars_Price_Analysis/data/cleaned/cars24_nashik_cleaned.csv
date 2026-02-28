@@ -1,0 +1,156 @@
+,car_name,brand,year_of_manufacture,kms_driven,fuel_type,transmission_type,emi,price,car_age_years,city
+0,Mahindra Thar,Mahindra,2023,50012,Diesel,Manual,25684,1500000.0,3,Nashik
+1,Hyundai Elite i20,Hyundai,2014,71885,Diesel,Manual,16476,350000.0,12,Nashik
+2,Maruti Wagon R 1.0,Maruti,2013,108873,Petrol,Manual,9226,196000.0,13,Nashik
+3,Mahindra Kuv100,Mahindra,2016,83488,Diesel,Manual,5925,225000.0,10,Nashik
+4,Maruti Wagon R 1.0,Maruti,2014,88368,Petrol,Manual,7307,220000.00000000003,12,Nashik
+5,Mahindra XUV500,Mahindra,2015,335111,Diesel,Manual,16541,498000.00000000006,11,Nashik
+6,Mahindra XUV500,Mahindra,2012,123510,Diesel,Manual,16541,317000.0,14,Nashik
+7,Tata Tiago,Tata,2020,139697,Petrol,Manual,10188,458000.0,6,Nashik
+8,Honda WR-V,Honda,2017,50021,Petrol,Manual,11026,564000.0,9,Nashik
+9,Maruti Zen Estilo,Maruti,2012,58061,Petrol,Manual,12705,143000.0,14,Nashik
+10,Hyundai i10,Hyundai,2016,48740,Petrol,Manual,6673,300000.0,10,Nashik
+11,Tata Manza,Tata,2011,149542,Diesel,Manual,6673,127000.0,15,Nashik
+12,Maruti Alto K10,Maruti,2011,36729,Petrol,Manual,6673,118000.0,15,Nashik
+13,Mahindra MARAZZO,Mahindra,2019,201027,Diesel,Manual,14459,650000.0,7,Nashik
+14,Hyundai ALCAZAR,Hyundai,2022,66316,Diesel,Auto,28457,1662000.0,4,Nashik
+15,Maruti S Cross,Maruti,2016,85321,Diesel,Manual,14326,544000.0,10,Nashik
+16,Mahindra Kuv100,Mahindra,2017,204010,Diesel,Manual,6940,312000.0,9,Nashik
+17,Hyundai Verna,Hyundai,2015,98469,Petrol,Auto,8796,334000.0,11,Nashik
+18,Maruti Wagon R 1.0,Maruti,2017,68458,Petrol,Manual,5172,233000.0,9,Nashik
+19,Mahindra XUV500,Mahindra,2017,92511,Diesel,Manual,9966,448000.00000000006,9,Nashik
+20,Volkswagen Vento,Volkswagen,2012,137850,Diesel,Manual,9966,211000.0,14,Nashik
+21,Ford Figo,Ford,2012,119269,Diesel,Manual,9966,125000.0,14,Nashik
+22,Honda Amaze,Honda,2017,128366,Diesel,Manual,6562,295000.0,9,Nashik
+23,Maruti Swift,Maruti,2011,220272,Diesel,Manual,6562,200000.0,15,Nashik
+24,Tata TIGOR,Tata,2022,70267,Petrol,Manual,9250,524000.0,4,Nashik
+25,Maruti Alto 800,Maruti,2016,89864,Petrol,Manual,4071,183000.0,10,Nashik
+26,Hyundai i20,Hyundai,2010,151672,Diesel,Manual,4071,144000.0,16,Nashik
+27,Maruti Swift,Maruti,2011,116318,Diesel,Manual,4071,175000.0,15,Nashik
+28,Ford Figo,Ford,2012,107175,Diesel,Manual,4071,113999.99999999999,14,Nashik
+29,Maruti Wagon R 1.0,Maruti,2014,77272,Petrol,Manual,7174,216000.0,12,Nashik
+30,Tata Zest,Tata,2015,117858,Diesel,Auto,8237,248000.0,11,Nashik
+31,Volkswagen Polo,Volkswagen,2011,82270,Diesel,Manual,8237,147000.0,15,Nashik
+32,Hyundai Verna,Hyundai,2013,132800,Diesel,Manual,24256,273000.0,13,Nashik
+33,Ford Ecosport,Ford,2014,130360,Diesel,Manual,14781,314000.0,12,Nashik
+34,Hyundai i20,Hyundai,2013,71497,Petrol,Manual,10356,220000.00000000003,13,Nashik
+35,Renault Kwid,Renault,2017,90151,Petrol,Manual,4712,241000.0,9,Nashik
+36,Mahindra Verito,Mahindra,2012,132882,Diesel,Manual,4712,134000.0,14,Nashik
+37,Datsun Go,Datsun,2014,82422,Petrol,Manual,3919,118000.0,12,Nashik
+38,Datsun Go Plus,Datsun,2015,48028,Petrol,Manual,4371,166000.0,11,Nashik
+39,Maruti Swift,Maruti,2019,74223,Petrol,Auto,9003,509999.99999999994,7,Nashik
+40,Maruti Ertiga,Maruti,2014,162250,Petrol,Manual,12920,389000.0,12,Nashik
+41,Volkswagen Polo,Volkswagen,2016,89977,Petrol,Manual,8052,362000.0,10,Nashik
+42,Hyundai i20,Hyundai,2011,131370,Diesel,Manual,8052,208000.0,15,Nashik
+43,Maruti Swift Dzire,Maruti,2013,129221,Diesel,Manual,34029,383000.0,13,Nashik
+44,Renault Kwid,Renault,2020,58382,Petrol,Manual,5278,299000.0,6,Nashik
+45,Hyundai i10,Hyundai,2011,7201,Petrol,Manual,5278,184000.0,15,Nashik
+46,Maruti Swift,Maruti,2011,96745,Diesel,Manual,5278,221000.0,15,Nashik
+47,Maruti Swift Dzire,Maruti,2012,145766,Diesel,Manual,5278,319000.0,14,Nashik
+48,Hyundai Elite i20,Hyundai,2016,118922,Diesel,Manual,11692,444000.00000000006,10,Nashik
+49,Maruti Swift,Maruti,2012,75072,Petrol,Manual,22034,248000.0,14,Nashik
+50,Hyundai i10,Hyundai,2013,100238,Petrol,Manual,8097,172000.0,13,Nashik
+51,Hyundai Grand i10,Hyundai,2015,50859,Petrol,Manual,8348,317000.0,11,Nashik
+52,Skoda Superb,Skoda,2011,91150,Diesel,Auto,8348,265000.0,15,Nashik
+53,Jeep Compass,Jeep,2017,98643,Diesel,Manual,20460,941000.0,9,Nashik
+54,Honda WR-V,Honda,2017,69253,Petrol,Manual,10772,551000.0,9,Nashik
+55,Volkswagen Jetta,Volkswagen,2012,106285,Diesel,Manual,10772,293000.0,14,Nashik
+56,Tata NEXON,Tata,2020,63315,Petrol,Manual,12357,700000.0,6,Nashik
+57,Honda City,Honda,2017,67729,Petrol,Auto,10459,535000.0,9,Nashik
+58,Honda Amaze,Honda,2016,123065,Diesel,Manual,7979,303000.0,10,Nashik
+59,Mahindra XUV500,Mahindra,2012,113742,Diesel,Manual,7979,305000.0,14,Nashik
+60,Renault Kwid,Renault,2020,7206,Petrol,Manual,6284,356000.0,6,Nashik
+61,Tata TIGOR,Tata,2017,129740,Petrol,Manual,7786,350000.0,9,Nashik
+62,BMW X1,BMW,2013,174751,Diesel,Auto,44602,501999.99999999994,13,Nashik
+63,Mahindra SCORPIO-N,Mahindra,2023,31051,Diesel,Auto,40238,2350000.0,3,Nashik
+64,Mahindra KUV 100 NXT,Mahindra,2018,93715,Diesel,Manual,7058,361000.0,8,Nashik
+65,Ford New Figo,Ford,2015,156643,Diesel,Manual,7573,227999.99999999997,11,Nashik
+66,Hyundai NEW I20,Hyundai,2022,14024,Petrol,Manual,12304,697000.0,4,Nashik
+67,Tata PUNCH,Tata,2023,29641,Petrol,Auto,13769,780000.0,3,Nashik
+68,Maruti Swift Dzire,Maruti,2011,100927,Diesel,Manual,13769,202999.99999999997,15,Nashik
+69,Volkswagen Polo,Volkswagen,2020,62975,Petrol,Manual,7944,450000.0,6,Nashik
+70,Tata NEXON,Tata,2024,51999,Diesel,Manual,19691,1150000.0,2,Nashik
+71,Hyundai Creta,Hyundai,2015,89955,Petrol,Manual,11982,455000.0,11,Nashik
+72,Honda Amaze,Honda,2016,123070,Diesel,Manual,8032,305000.0,10,Nashik
+73,Maruti Wagon R 1.0,Maruti,2014,94441,Petrol,Manual,8038,242000.0,12,Nashik
+74,Maruti Grand Vitara,Maruti,2024,40044,Petrol,Manual,17088,998000.0,2,Nashik
+75,Maruti Dzire,Maruti,2020,94983,Petrol,Auto,10397,589000.0,6,Nashik
+76,Maruti Baleno,Maruti,2020,126745,Petrol,Manual,9432,424000.0,6,Nashik
+77,Volkswagen Jetta,Volkswagen,2015,89946,Petrol,Manual,8927,339000.0,11,Nashik
+78,Honda Amaze,Honda,2014,102875,Diesel,Manual,15016,319000.0,12,Nashik
+79,Maruti Baleno,Maruti,2019,60492,Diesel,Manual,9568,542000.0,7,Nashik
+80,Maruti Ertiga,Maruti,2020,70269,Petrol,Manual,15119,883000.0,6,Nashik
+81,Maruti Ertiga,Maruti,2015,150671,Diesel,Manual,19264,580000.0,11,Nashik
+82,Tata TIGOR,Tata,2022,39906,Petrol,Manual,11298,640000.0,4,Nashik
+83,Maruti Swift Dzire,Maruti,2011,101539,Diesel,Manual,11298,220000.00000000003,15,Nashik
+84,Tata TIGOR,Tata,2018,91280,Petrol,Manual,7202,408000.0,8,Nashik
+85,Skoda Rapid,Skoda,2015,94872,Diesel,Manual,10695,322000.0,11,Nashik
+86,Mahindra XUV 3XO,Mahindra,2025,22573,Diesel,Manual,18287,1068000.0,1,Nashik
+87,Maruti Ertiga,Maruti,2012,100265,Diesel,Manual,18287,409999.99999999994,14,Nashik
+88,Tata TIGOR,Tata,2023,10702,Petrol,Manual,11969,678000.0,3,Nashik
+89,Mahindra XUV700,Mahindra,2021,50632,Petrol,Auto,23115,1350000.0,5,Nashik
+90,Toyota Glanza,Toyota,2022,80000,Petrol,Manual,10945,620000.0,4,Nashik
+91,Tata NEXON,Tata,2023,55570,Diesel,Manual,20855,1218000.0,3,Nashik
+92,Hyundai VENUE,Hyundai,2019,115611,Diesel,Manual,16928,761000.0,7,Nashik
+93,Hyundai Elite i20,Hyundai,2014,114397,Petrol,Manual,12123,365000.0,12,Nashik
+94,Mahindra XUV500,Mahindra,2013,161209,Diesel,Manual,26477,298000.0,13,Nashik
+95,Mahindra XUV500,Mahindra,2013,243028,Diesel,Manual,30031,338000.0,13,Nashik
+96,Tata NEXON,Tata,2022,190015,Diesel,Manual,23591,1085000.0,4,Nashik
+97,Hyundai Elite i20,Hyundai,2020,90573,Petrol,Manual,9868,559000.0,6,Nashik
+98,Mahindra XUV700,Mahindra,2023,34911,Petrol,Auto,35358,2064999.9999999998,3,Nashik
+99,Mahindra XUV500,Mahindra,2016,96105,Diesel,Manual,18855,716000.0,10,Nashik
+100,Volkswagen Vento,Volkswagen,2014,208290,Diesel,Manual,18453,392000.0,12,Nashik
+101,Skoda Rapid,Skoda,2017,106459,Diesel,Auto,11856,533000.0,9,Nashik
+102,Toyota URBAN CRUISER,Toyota,2022,52048,Petrol,Manual,13240,750000.0,4,Nashik
+103,Audi A4,Audi,2013,96700,Diesel,Auto,59706,672000.0,13,Nashik
+104,Renault Kiger,Renault,2023,40955,Petrol,Auto,12163,689000.0,3,Nashik
+105,Hyundai Creta,Hyundai,2016,111631,Diesel,Manual,16590,630000.0,10,Nashik
+106,Tata Tiago,Tata,2022,73817,Petrol,Manual,10345,586000.0,4,Nashik
+107,Maruti Ciaz,Maruti,2015,92292,Diesel,Manual,15943,480000.0,11,Nashik
+108,CITROEN C3,CITROEN,2022,25495,Petrol,Manual,8826,500000.0,4,Nashik
+109,Tata Tiago,Tata,2024,46321,Petrol,Manual,8826,500000.0,2,Nashik
+110,Jeep Compass,Jeep,2019,191746,Diesel,Manual,25004,1150000.0,7,Nashik
+111,Toyota Innova Crysta,Toyota,2018,217887,Diesel,Manual,33766,1553000.0,8,Nashik
+112,Ford Endeavour,Ford,2017,118227,Diesel,Auto,48312,2222000.0,9,Nashik
+113,Audi Q3,Audi,2016,54771,Diesel,Auto,36158,1399000.0,10,Nashik
+114,Chevrolet Cruze,Chevrolet,2015,86274,Diesel,Auto,15744,474000.0,11,Nashik
+115,Hyundai VENUE,Hyundai,2021,114503,Diesel,Manual,17394,800000.0,5,Nashik
+116,Hyundai Creta,Hyundai,2022,43168,Diesel,Manual,17996,1051000.0,4,Nashik
+117,KIA SONET,KIA,2023,10366,Diesel,Manual,26814,1566000.0,3,Nashik
+118,Skoda Superb,Skoda,2014,150723,Diesel,Auto,25937,551000.0,12,Nashik
+119,Ford Ecosport,Ford,2015,108806,Diesel,Manual,14282,430000.0,11,Nashik
+120,Mahindra XUV500,Mahindra,2016,232407,Diesel,Manual,15827,601000.0,10,Nashik
+121,Toyota Fortuner,Toyota,2023,93589,Diesel,Auto,71914,4200000.0,3,Nashik
+122,Maruti Dzire,Maruti,2022,82984,Petrol,Manual,12357,700000.0,4,Nashik
+123,Mitsubishi Pajero Sport,Mitsubishi,2014,340989,Diesel,Manual,29562,628000.0,12,Nashik
+124,Skoda Octavia,Skoda,2015,158887,Diesel,Auto,21623,651000.0,11,Nashik
+125,MG HECTOR,MG,2020,168469,Diesel,Manual,28917,1330000.0,6,Nashik
+126,Maruti Eeco,Maruti,2022,56392,Petrol,Manual,10486,594000.0,4,Nashik
+127,Ford Endeavour,Ford,2017,245181,Diesel,Auto,31244,1437000.0,9,Nashik
+128,Skoda KUSHAQ,Skoda,2023,62950,Petrol,Manual,17979,1050000.0,3,Nashik
+129,KIA SONET,KIA,2021,160852,Diesel,Manual,17937,825000.0,5,Nashik
+130,KIA SELTOS,KIA,2022,37131,Diesel,Auto,22088,1290000.0,4,Nashik
+131,Maruti Vitara Brezza,Maruti,2018,7774,Diesel,Manual,14917,763000.0,8,Nashik
+132,Tata NEXON EV,Tata,2021,53241,Electric,Auto,19982,1167000.0,5,Nashik
+133,Toyota Innova Crysta,Toyota,2022,36120,Petrol,Auto,30820,1800000.0,4,Nashik
+134,Ford Endeavour,Ford,2017,999999,Diesel,Auto,49638,2283000.0,9,Nashik
+135,KIA SELTOS,KIA,2020,92197,Diesel,Auto,23475,1371000.0,6,Nashik
+136,Tata Hexa,Tata,2017,272583,Diesel,Auto,15571,700000.0,9,Nashik
+137,Audi Q7,Audi,2014,66849,Diesel,Auto,72242,1550000.0,12,Nashik
+138,Skoda Kodiaq,Skoda,2017,108127,Diesel,Auto,35745,1644000.0000000002,9,Nashik
+139,Toyota Fortuner,Toyota,2013,148394,Diesel,Auto,96071,1087000.0,13,Nashik
+140,Honda City,Honda,2014,147553,Diesel,Manual,18829,400000.0,12,Nashik
+141,Nissan Micra Active,Nissan,2016,67823,Petrol,Manual,5205,234000.0,10,Nashik
+142,Hyundai Elite i20,Hyundai,2015,113326,Diesel,Manual,12655,381000.0,11,Nashik
+143,Maruti IGNIS,Maruti,2019,38836,Petrol,Manual,6426,364000.0,7,Nashik
+144,Maruti S PRESSO,Maruti,2024,18150,Petrol,Auto,9003,509999.99999999994,2,Nashik
+145,Chevrolet Sail,Chevrolet,2015,68663,Diesel,Manual,6809,204999.99999999997,11,Nashik
+146,Chevrolet Beat,Chevrolet,2016,93758,Diesel,Manual,4477,170000.0,10,Nashik
+147,Maruti Swift,Maruti,2017,100174,Diesel,Manual,10232,459999.99999999994,9,Nashik
+148,KIA SELTOS,KIA,2023,62610,Diesel,Auto,29194,1705000.0,3,Nashik
+149,Chevrolet Cruze,Chevrolet,2012,100296,Diesel,Auto,29194,206000.0,14,Nashik
+150,Maruti Swift Dzire,Maruti,2016,136220,Petrol,Manual,7563,340000.0,10,Nashik
+151,Maruti XL6,Maruti,2022,56730,Petrol,Auto,19280,1126000.0,4,Nashik
+152,Hyundai Verna,Hyundai,2014,119335,Petrol,Manual,11060,333000.0,12,Nashik
+153,Honda City,Honda,2015,156844,Diesel,Manual,13319,401000.0,11,Nashik
+154,Tata Tiago,Tata,2021,13500,Petrol,Manual,10539,597000.0,5,Nashik

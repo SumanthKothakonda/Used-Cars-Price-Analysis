@@ -1,0 +1,432 @@
+,car_name,brand,year_of_manufacture,kms_driven,fuel_type,transmission_type,emi,price,car_age_years,city
+0,Maruti Alto 800,Maruti,2013,59183,Petrol,Manual,8084,172000.0,13,Agra
+1,Tata TIGOR,Tata,2018,60000,Petrol,Manual,5737,325000.0,8,Agra
+2,Hyundai Creta,Hyundai,2018,77164,Diesel,Manual,12871,658000.0,8,Agra
+3,Mahindra Kuv100,Mahindra,2016,92583,Diesel,Manual,6683,254000.0,10,Agra
+4,Mahindra Kuv100,Mahindra,2018,44360,Petrol,Manual,5649,320000.0,8,Agra
+5,Maruti Vitara Brezza,Maruti,2018,92123,Diesel,Manual,11364,581000.0,8,Agra
+6,Maruti Alto 800,Maruti,2018,73600,Petrol,Manual,3566,202000.0,8,Agra
+7,Maruti Dzire,Maruti,2018,103640,Diesel,Manual,9231,415000.00000000006,8,Agra
+8,Maruti Dzire,Maruti,2019,76870,Petrol,Manual,7321,415000.00000000006,7,Agra
+9,Volkswagen Ameo,Volkswagen,2017,68386,Diesel,Manual,6673,300000.0,9,Agra
+10,Honda Civic,Honda,2019,26631,Petrol,Auto,16266,950000.0,7,Agra
+11,Datsun Go,Datsun,2015,30000,Petrol,Manual,2844,108000.0,11,Agra
+12,Toyota Etios,Toyota,2013,233633,Diesel,Manual,17859,200999.99999999997,13,Agra
+13,Maruti Swift,Maruti,2019,72828,Petrol,Manual,6584,373000.0,7,Agra
+14,Hyundai Verna,Hyundai,2012,155731,Diesel,Manual,6584,183000.0,14,Agra
+15,Tata TIGOR,Tata,2017,77000,Petrol,Manual,4653,238000.0,9,Agra
+16,Tata Tiago,Tata,2019,82203,Petrol,Manual,3884,220000.00000000003,7,Agra
+17,Maruti Eeco,Maruti,2023,63134,Petrol,Manual,6161,349000.0,3,Agra
+18,Maruti Swift,Maruti,2012,51449,Diesel,Manual,6161,196000.0,14,Agra
+19,Maruti Swift,Maruti,2012,95641,Diesel,Manual,6161,220000.00000000003,14,Agra
+20,Renault Kwid,Renault,2018,40927,Petrol,Manual,3125,177000.0,8,Agra
+21,Maruti Swift Dzire,Maruti,2013,61591,Petrol,Manual,10356,220000.00000000003,13,Agra
+22,Mahindra Thar,Mahindra,2021,39177,Petrol,Manual,16078,939000.0,5,Agra
+23,Maruti Wagon R 1.0,Maruti,2014,68222,Petrol,Manual,6244,188000.0,12,Agra
+24,Hyundai Eon,Hyundai,2015,32494,Petrol,Manual,4398,167000.0,11,Agra
+25,Maruti Swift Dzire,Maruti,2013,113897,Petrol,Manual,9462,200999.99999999997,13,Agra
+26,Maruti Swift,Maruti,2013,189478,Diesel,Manual,20435,229999.99999999997,13,Agra
+27,Maruti Swift Dzire,Maruti,2014,111693,Diesel,Manual,11721,249000.00000000003,12,Agra
+28,Maruti Vitara Brezza,Maruti,2016,75779,Diesel,Manual,9770,371000.0,10,Agra
+29,Maruti Wagon R 1.0,Maruti,2013,72501,Petrol,Manual,7626,162000.0,13,Agra
+30,Hyundai Verna,Hyundai,2013,139497,Diesel,Manual,19280,217000.0,13,Agra
+31,Maruti Swift,Maruti,2013,105754,Petrol,Manual,9980,212000.0,13,Agra
+32,Maruti Swift,Maruti,2012,119457,Diesel,Manual,9980,194000.0,14,Agra
+33,MG HECTOR,MG,2019,39851,Petrol,Auto,13823,783000.0,7,Agra
+34,Hyundai Elite i20,Hyundai,2019,27918,Petrol,Manual,6514,369000.0,7,Agra
+35,Maruti Swift,Maruti,2013,64368,Petrol,Manual,11062,235000.0,13,Agra
+36,Maruti Wagon R 1.0,Maruti,2013,46000,Petrol,Manual,9132,194000.0,13,Agra
+37,Maruti Swift,Maruti,2013,89036,Petrol,Manual,11298,240000.0,13,Agra
+38,Honda Amaze,Honda,2014,82695,Diesel,Manual,8520,181000.0,12,Agra
+39,Maruti Alto 800,Maruti,2013,77746,Petrol,Manual,5215,111000.00000000001,13,Agra
+40,Maruti Swift Dzire,Maruti,2013,62136,Diesel,Manual,20435,229999.99999999997,13,Agra
+41,Jaguar XF,Jaguar,2015,155950,Diesel,Auto,26191,800000.0,11,Agra
+42,Renault Pulse,Renault,2014,131341,Diesel,Manual,7249,154000.0,12,Agra
+43,Honda Amaze,Honda,2014,90232,Petrol,Manual,9333,281000.0,12,Agra
+44,Tata TIGOR,Tata,2018,59901,Petrol,Manual,4678,265000.0,8,Agra
+45,Maruti Alto,Maruti,2021,42757,Petrol,Manual,4413,250000.0,5,Agra
+46,Mahindra XUV500,Mahindra,2013,73010,Diesel,Manual,20169,227000.0,13,Agra
+47,Maruti Dzire,Maruti,2020,116330,Petrol,Manual,9031,405999.99999999994,6,Agra
+48,Maruti Swift Dzire,Maruti,2012,88220,Petrol,Manual,17592,198000.0,14,Agra
+49,Maruti Swift,Maruti,2021,36911,Petrol,Manual,8738,495000.0,5,Agra
+50,Maruti Swift,Maruti,2015,129375,Petrol,Manual,5267,200000.0,11,Agra
+51,Datsun Go,Datsun,2014,21521,Petrol,Manual,3355,101000.0,12,Agra
+52,Maruti Dzire,Maruti,2017,108512,Diesel,Manual,8210,369000.0,9,Agra
+53,Honda Amaze,Honda,2014,148355,Diesel,Manual,7908,168000.0,12,Agra
+54,Hyundai Verna,Hyundai,2012,138968,Diesel,Manual,7908,187000.0,14,Agra
+55,Maruti Celerio,Maruti,2016,46191,Diesel,Manual,4687,178000.0,10,Agra
+56,Renault Kwid,Renault,2021,23962,Petrol,Manual,4590,260000.0,5,Agra
+57,Maruti Swift,Maruti,2017,124852,Diesel,Manual,5116,229999.99999999997,9,Agra
+58,Honda Amaze,Honda,2018,144830,Diesel,Manual,8720,392000.0,8,Agra
+59,Maruti Wagon R 1.0,Maruti,2014,288683,Petrol,Manual,6676,200999.99999999997,12,Agra
+60,Renault Kwid,Renault,2018,46915,Petrol,Manual,3954,224000.00000000003,8,Agra
+61,Maruti Celerio,Maruti,2015,38742,Petrol,Manual,5530,210000.0,11,Agra
+62,Tata NEXON,Tata,2019,33803,Diesel,Manual,9815,556000.0,7,Agra
+63,Maruti Wagon R 1.0,Maruti,2015,41625,Petrol,Manual,6083,231000.0,11,Agra
+64,Maruti Wagon R 1.0,Maruti,2013,105962,Petrol,Manual,7296,155000.0,13,Agra
+65,Hyundai Elite i20,Hyundai,2017,81375,Diesel,Manual,7452,335000.0,9,Agra
+66,Hyundai i10,Hyundai,2012,111061,Petrol,Manual,10040,112999.99999999999,14,Agra
+67,Maruti Swift Dzire,Maruti,2013,71212,Petrol,Manual,8140,173000.0,13,Agra
+68,Hyundai i10,Hyundai,2013,21752,Petrol,Manual,7249,154000.0,13,Agra
+69,Honda Brio,Honda,2014,83979,Petrol,Manual,6344,191000.0,12,Agra
+70,Tata Safari Storme,Tata,2016,215508,Diesel,Manual,9717,369000.0,10,Agra
+71,Mahindra Thar,Mahindra,2024,20822,Diesel,Manual,23389,1366000.0,2,Agra
+72,Maruti Wagon R 1.0,Maruti,2013,41029,Petrol,Manual,7532,160000.0,13,Agra
+73,Maruti Wagon R 1.0,Maruti,2012,45156,Petrol,Manual,13238,149000.0,14,Agra
+74,Mahindra XUV500,Mahindra,2014,111297,Diesel,Manual,11203,238000.0,12,Agra
+75,Renault Kwid,Renault,2018,58144,Petrol,Manual,3871,174000.0,8,Agra
+76,Hyundai Grand i10,Hyundai,2015,101931,Diesel,Manual,5713,172000.0,11,Agra
+77,Maruti Swift,Maruti,2014,190884,Diesel,Manual,10121,215000.0,12,Agra
+78,Maruti Wagon R 1.0,Maruti,2017,72009,Petrol,Manual,5103,261000.0,9,Agra
+79,Honda City,Honda,2013,126540,Petrol,Manual,12616,268000.0,13,Agra
+80,Maruti Dzire,Maruti,2018,82047,Diesel,Manual,8309,425000.0,8,Agra
+81,Hyundai New Elantra,Hyundai,2013,91480,Diesel,Auto,20258,227999.99999999997,13,Agra
+82,Maruti Ertiga,Maruti,2015,37757,Petrol,Manual,10086,383000.0,11,Agra
+83,Maruti Celerio,Maruti,2014,80160,Petrol,Manual,6444,194000.0,12,Agra
+84,Maruti Swift Dzire,Maruti,2014,75803,Petrol,Manual,11226,338000.0,12,Agra
+85,Renault Duster,Renault,2014,106882,Diesel,Manual,8285,176000.0,12,Agra
+86,Maruti Swift,Maruti,2020,102514,Petrol,Manual,9676,434999.99999999994,6,Agra
+87,Mahindra XUV700,Mahindra,2022,31984,Petrol,Manual,19811,1157000.0,4,Agra
+88,Maruti Alto 800,Maruti,2018,63838,Petrol,Manual,3283,186000.0,8,Agra
+89,Maruti Swift,Maruti,2014,92894,Petrol,Manual,7805,235000.0,12,Agra
+90,Maruti Swift Dzire,Maruti,2015,84872,Petrol,Manual,6636,252000.0,11,Agra
+91,Chevrolet Beat,Chevrolet,2012,86902,Petrol,Manual,6664,75000.0,14,Agra
+92,Hyundai i10,Hyundai,2013,85613,Petrol,Manual,6449,137000.0,13,Agra
+93,Honda Amaze,Honda,2014,62531,Petrol,Manual,6576,198000.0,12,Agra
+94,Hyundai Eon,Hyundai,2013,75376,Petrol,Manual,6167,131000.0,13,Agra
+95,Honda Amaze,Honda,2015,88294,Diesel,Manual,7374,222000.00000000003,11,Agra
+96,Maruti BREZZA,Maruti,2023,54000,Petrol,Manual,12992,736000.0,3,Agra
+97,Hyundai Grand i10,Hyundai,2017,83125,Diesel,Manual,5072,227999.99999999997,9,Agra
+98,Hyundai GRAND I10 NIOS,Hyundai,2022,15421,Petrol,Manual,8597,487000.0,4,Agra
+99,Maruti Ritz,Maruti,2013,38391,Petrol,Manual,6402,136000.0,13,Agra
+100,KIA CARENS,KIA,2024,13681,Petrol,Manual,19348,1130000.0,2,Agra
+101,Mercedes Benz A Class,Mercedes,2015,90269,Diesel,Auto,14515,437000.0,11,Agra
+102,Tata NEXON,Tata,2019,61904,Petrol,Manual,8703,493000.0,7,Agra
+103,Honda City,Honda,2015,84961,Diesel,Manual,8968,270000.0,11,Agra
+104,Maruti Swift Dzire,Maruti,2013,277140,Diesel,Manual,10573,119000.0,13,Agra
+105,Hyundai Grand i10,Hyundai,2014,57608,Petrol,Manual,9499,286000.0,12,Agra
+106,Hyundai i10,Hyundai,2011,91911,Petrol,Manual,9499,71000.0,15,Agra
+107,Honda Amaze,Honda,2013,168500,Diesel,Manual,13327,150000.0,13,Agra
+108,Maruti Swift Dzire,Maruti,2012,72056,Petrol,Manual,14660,165000.0,14,Agra
+109,Hyundai i10,Hyundai,2011,31485,Petrol,Manual,14660,110000.00000000001,15,Agra
+110,Honda City,Honda,2014,170742,Diesel,Manual,10921,231999.99999999997,12,Agra
+111,Hyundai GRAND I10 NIOS,Hyundai,2019,50152,Petrol,Manual,6267,355000.0,7,Agra
+112,Maruti Swift,Maruti,2011,136449,Diesel,Manual,6267,100000.0,15,Agra
+113,Honda City,Honda,2013,119411,Petrol,Manual,10639,225999.99999999997,13,Agra
+114,Maruti Swift,Maruti,2014,105831,Diesel,Manual,11533,245000.00000000003,12,Agra
+115,Maruti Wagon R 1.0,Maruti,2015,40019,Petrol,Manual,6294,239000.0,11,Agra
+116,Ford Ecosport,Ford,2019,65454,Petrol,Manual,8348,473000.00000000006,7,Agra
+117,Maruti Wagon R 1.0,Maruti,2015,33447,Petrol,Manual,6083,231000.0,11,Agra
+118,Chevrolet Beat,Chevrolet,2013,83045,Diesel,Manual,6664,75000.0,13,Agra
+119,Maruti Eeco,Maruti,2018,77243,Petrol,Manual,6037,342000.0,8,Agra
+120,Maruti Wagon R 1.0,Maruti,2015,18663,Petrol,Manual,6346,241000.0,11,Agra
+121,Hyundai GRAND I10 NIOS,Hyundai,2020,51791,Petrol,Manual,7061,400000.0,6,Agra
+122,Volkswagen Ameo,Volkswagen,2016,106042,Diesel,Auto,7215,274000.0,10,Agra
+123,Chevrolet Enjoy,Chevrolet,2015,186634,Diesel,Manual,4584,138000.0,11,Agra
+124,Maruti Wagon R 1.0,Maruti,2018,28111,Petrol,Manual,4890,277000.0,8,Agra
+125,Maruti Vitara Brezza,Maruti,2021,79258,Petrol,Manual,9656,547000.0,5,Agra
+126,Maruti Swift Dzire,Maruti,2015,37274,Petrol,Manual,8954,340000.0,11,Agra
+127,Honda Jazz,Honda,2012,36003,Petrol,Manual,14482,163000.0,14,Agra
+128,Volkswagen Vento,Volkswagen,2010,65542,Petrol,Manual,14482,104000.0,16,Agra
+129,Maruti Celerio,Maruti,2018,2248,Petrol,Manual,4766,270000.0,8,Agra
+130,Maruti Eeco,Maruti,2012,202686,Petrol,Manual,4967,56000.00000000001,14,Agra
+131,Hyundai Verna,Hyundai,2013,103760,Diesel,Manual,27810,313000.0,13,Agra
+132,Maruti Swift,Maruti,2014,90991,Diesel,Manual,12145,258000.0,12,Agra
+133,Honda Brio,Honda,2012,57950,Petrol,Manual,13327,150000.0,14,Agra
+134,Maruti Baleno,Maruti,2023,144481,Petrol,Manual,13369,601000.0,3,Agra
+135,Maruti Wagon R 1.0,Maruti,2011,72453,Petrol,Manual,13369,100000.0,15,Agra
+136,Maruti Baleno,Maruti,2017,53082,Petrol,Manual,8915,455999.99999999994,9,Agra
+137,Maruti Swift Dzire,Maruti,2015,65695,Petrol,Manual,7057,268000.0,11,Agra
+138,Maruti Ritz,Maruti,2011,123456,Petrol,Manual,7057,117000.0,15,Agra
+139,Maruti Vitara Brezza,Maruti,2017,87749,Diesel,Manual,10789,484999.99999999994,9,Agra
+140,Maruti Swift Dzire,Maruti,2016,60000,Diesel,Manual,6899,262000.0,10,Agra
+141,Tata Tiago,Tata,2018,111762,Diesel,Manual,5339,240000.0,8,Agra
+142,Toyota Etios Liva,Toyota,2011,116930,Petrol,Manual,5339,162000.0,15,Agra
+143,Mercedes Benz C Class,Mercedes,2012,118395,Diesel,Auto,5339,256999.99999999997,14,Agra
+144,Ford Ecosport,Ford,2014,117059,Diesel,Manual,8756,186000.0,12,Agra
+145,Maruti Celerio,Maruti,2015,124050,Petrol,Manual,5319,202000.0,11,Agra
+146,Hyundai i20,Hyundai,2011,42678,Petrol,Manual,5319,133000.0,15,Agra
+147,Maruti Swift Dzire,Maruti,2015,75892,Petrol,Manual,8348,317000.0,11,Agra
+148,Maruti Baleno,Maruti,2022,63547,Petrol,Manual,8067,457000.0,4,Agra
+149,Hyundai GRAND I10 NIOS,Hyundai,2020,65571,Petrol,Manual,7467,423000.00000000006,6,Agra
+150,Maruti Swift,Maruti,2015,140480,Petrol,Manual,8111,308000.0,11,Agra
+151,Mahindra XUV700,Mahindra,2024,20950,Diesel,Manual,28423,1660000.0000000002,2,Agra
+152,Hyundai Santro Xing,Hyundai,2012,69890,Petrol,Manual,8529,96000.0,14,Agra
+153,Maruti New Wagon-R,Maruti,2020,52243,Petrol,Manual,6549,371000.0,6,Agra
+154,Honda City,Honda,2015,83277,Diesel,Manual,10230,308000.0,11,Agra
+155,Renault TRIBER,Renault,2023,53091,Petrol,Manual,9038,512000.0,3,Agra
+156,Maruti Swift,Maruti,2020,50819,Petrol,Manual,7432,421000.0,6,Agra
+157,Ford Figo,Ford,2012,82348,Diesel,Manual,7432,83000.0,14,Agra
+158,Maruti Wagon R 1.0,Maruti,2016,102548,Petrol,Manual,4805,216000.0,10,Agra
+159,Maruti Swift,Maruti,2015,114614,Diesel,Manual,9798,295000.0,11,Agra
+160,Maruti Dzire,Maruti,2018,82549,Petrol,Manual,7061,400000.0,8,Agra
+161,Honda City,Honda,2014,194057,Diesel,Manual,13416,285000.0,12,Agra
+162,Maruti Celerio,Maruti,2018,41833,Petrol,Manual,5225,296000.0,8,Agra
+163,Maruti Wagon R 1.0,Maruti,2012,69977,Petrol,Manual,11461,129000.0,14,Agra
+164,Mahindra XUV700,Mahindra,2022,42129,Petrol,Auto,25752,1504000.0,4,Agra
+165,Mahindra XUV500,Mahindra,2015,185386,Diesel,Manual,12854,387000.0,11,Agra
+166,Maruti Swift Dzire,Maruti,2015,121198,Diesel,Manual,10595,319000.0,11,Agra
+167,Chevrolet Cruze,Chevrolet,2012,125356,Diesel,Auto,10595,165000.0,14,Agra
+168,Mahindra XUV500,Mahindra,2016,54188,Diesel,Manual,12008,455999.99999999994,10,Agra
+169,Maruti Swift,Maruti,2020,36770,Petrol,Manual,7591,430000.0,6,Agra
+170,Landrover Freelander 2,Landrover,2013,139022,Diesel,Auto,41759,470000.0,13,Agra
+171,Maruti Swift,Maruti,2019,22876,Petrol,Manual,8562,484999.99999999994,7,Agra
+172,Maruti Wagon R 1.0,Maruti,2012,50826,Petrol,Manual,13949,157000.0,14,Agra
+173,Maruti Wagon R 1.0,Maruti,2017,87640,Petrol,Manual,5005,256000.0,9,Agra
+174,Maruti Swift,Maruti,2016,115962,Diesel,Manual,8190,311000.0,10,Agra
+175,Maruti Swift Dzire,Maruti,2015,88830,Petrol,Manual,7479,284000.0,11,Agra
+176,Hyundai New Elantra,Hyundai,2012,144467,Diesel,Manual,7479,227000.0,14,Agra
+177,Hyundai i10,Hyundai,2011,87818,Petrol,Manual,7479,101000.0,15,Agra
+178,Chevrolet Beat,Chevrolet,2012,100000,Diesel,Manual,7479,44000.0,14,Agra
+179,Honda Amaze,Honda,2015,102753,Diesel,Manual,6909,208000.0,11,Agra
+180,Maruti Wagon R 1.0,Maruti,2016,102308,Petrol,Manual,5339,240000.0,10,Agra
+181,Mahindra XUV500,Mahindra,2015,83523,Diesel,Manual,14183,426999.99999999994,11,Agra
+182,Mahindra Scorpio,Mahindra,2011,115920,Diesel,Manual,14183,234000.0,15,Agra
+183,Renault Duster,Renault,2015,45985,Diesel,Manual,10330,311000.0,11,Agra
+184,Ford Ecosport,Ford,2017,141391,Diesel,Manual,7140,321000.0,9,Agra
+185,Maruti S Cross,Maruti,2015,105456,Diesel,Manual,9566,288000.0,11,Agra
+186,Honda Amaze,Honda,2020,92787,Diesel,Manual,9179,520000.0,6,Agra
+187,KIA SELTOS,KIA,2025,5744,Petrol,Manual,18835,1100000.0,1,Agra
+188,Renault Duster,Renault,2015,101599,Diesel,Manual,7839,236000.0,11,Agra
+189,Honda Jazz,Honda,2012,204296,Petrol,Manual,13683,154000.0,14,Agra
+190,Tata NEXON,Tata,2024,24724,Petrol,Manual,14657,856000.0,2,Agra
+191,Tata NEXON,Tata,2024,39056,Petrol,Manual,15410,900000.0,2,Agra
+192,Skoda Fabia,Skoda,2012,132489,Diesel,Manual,15410,68000.0,14,Agra
+193,Maruti Ciaz,Maruti,2020,122604,Petrol,Manual,9454,425000.0,6,Agra
+194,Tata Tiago,Tata,2019,82198,Petrol,Manual,6161,349000.0,7,Agra
+195,Maruti Swift,Maruti,2011,75236,Petrol,Manual,6161,142000.0,15,Agra
+196,Maruti Baleno,Maruti,2017,168168,Petrol,Manual,7630,343000.0,9,Agra
+197,Tata NEXON,Tata,2024,12741,Diesel,Manual,16112,941000.0,2,Agra
+198,Maruti Wagon R 1.0,Maruti,2015,20085,Petrol,Manual,6267,238000.0,11,Agra
+199,Maruti Swift Dzire,Maruti,2011,48835,Petrol,Manual,6267,106000.0,15,Agra
+200,Hyundai Grand i10,Hyundai,2014,16196,Petrol,Manual,9068,273000.0,12,Agra
+201,Maruti New Wagon-R,Maruti,2019,65493,Petrol,Manual,6337,359000.0,7,Agra
+202,Maruti Baleno,Maruti,2019,44624,Petrol,Manual,8032,455000.0,7,Agra
+203,Honda City,Honda,2015,83289,Diesel,Manual,10330,311000.0,11,Agra
+204,Maruti Vitara Brezza,Maruti,2017,115024,Diesel,Manual,10677,480000.0,9,Agra
+205,Mahindra Xylo,Mahindra,2012,91531,Diesel,Manual,10677,87000.0,14,Agra
+206,Honda Amaze,Honda,2016,117507,Diesel,Manual,6952,264000.0,10,Agra
+207,Mahindra XUV500,Mahindra,2017,83456,Diesel,Manual,13858,623000.0,9,Agra
+208,Audi Q3,Audi,2013,103373,Diesel,Auto,51710,582000.0,13,Agra
+209,Honda Amaze,Honda,2016,76093,Petrol,Manual,5984,269000.0,10,Agra
+210,Mahindra XUV500,Mahindra,2016,147207,Diesel,Manual,12482,474000.0,10,Agra
+211,Hyundai Grand i10,Hyundai,2017,107230,Petrol,Manual,5784,260000.0,9,Agra
+212,Maruti Baleno,Maruti,2016,86455,Petrol,Manual,7786,350000.0,10,Agra
+213,Maruti Ritz,Maruti,2013,160283,Diesel,Manual,13150,148000.0,13,Agra
+214,Honda Amaze,Honda,2018,77520,Diesel,Manual,8055,412000.0,8,Agra
+215,Tata Harrier,Tata,2022,46216,Diesel,Manual,25461,1487000.0,4,Agra
+216,Maruti Vitara Brezza,Maruti,2018,134647,Diesel,Manual,8898,400000.0,8,Agra
+217,Honda Amaze,Honda,2017,72525,Petrol,Manual,5787,296000.0,9,Agra
+218,Honda City,Honda,2014,221896,Diesel,Manual,12474,265000.0,12,Agra
+219,Maruti Wagon R 1.0,Maruti,2015,78066,Petrol,Manual,4687,178000.0,11,Agra
+220,Hyundai Verna,Hyundai,2014,168894,Diesel,Auto,15440,328000.0,12,Agra
+221,Mahindra XUV500,Mahindra,2019,152283,Diesel,Manual,14481,651000.0,7,Agra
+222,Toyota Etios Liva,Toyota,2012,110472,Diesel,Manual,14481,160000.0,14,Agra
+223,Hyundai i10,Hyundai,2011,59749,Petrol,Manual,14481,107000.0,15,Agra
+224,Tata Tiago,Tata,2022,48682,Petrol,Manual,8791,498000.00000000006,4,Agra
+225,Hyundai Elite i20,Hyundai,2019,17783,Petrol,Manual,7944,450000.0,7,Agra
+226,Mahindra XUV700,Mahindra,2025,268,Petrol,Manual,24417,1426000.0,1,Agra
+227,Ford Classic,Ford,2012,207867,Diesel,Manual,24417,93000.0,14,Agra
+228,Renault Lodgy,Renault,2017,75122,Diesel,Manual,7786,350000.0,9,Agra
+229,Maruti Alto K10,Maruti,2022,27105,Petrol,Manual,5755,326000.0,4,Agra
+230,Hyundai Elite i20,Hyundai,2016,201721,Diesel,Manual,9375,356000.0,10,Agra
+231,Renault Duster,Renault,2014,114624,Diesel,Manual,9791,208000.0,12,Agra
+232,Hyundai Elite i20,Hyundai,2017,59420,Petrol,Manual,7820,400000.0,9,Agra
+233,Maruti Alto,Maruti,2021,45344,Petrol,Manual,5119,290000.0,5,Agra
+234,Tata NEXON,Tata,2020,58807,Petrol,Manual,12463,706000.0,6,Agra
+235,Hyundai Grand i10,Hyundai,2015,55249,Petrol,Manual,6847,260000.0,11,Agra
+236,Hyundai Eon,Hyundai,2011,64769,Petrol,Manual,6847,106000.0,15,Agra
+237,Nissan Micra,Nissan,2012,133949,Diesel,Manual,6847,107000.0,14,Agra
+238,Hyundai VENUE,Hyundai,2022,44589,Petrol,Manual,11527,653000.0,4,Agra
+239,Chevrolet Enjoy,Chevrolet,2013,113248,Diesel,Manual,10928,123000.0,13,Agra
+240,Volkswagen Vento,Volkswagen,2015,124935,Diesel,Auto,10130,305000.0,11,Agra
+241,Hyundai EXTER,Hyundai,2024,7037,Petrol,Manual,12322,698000.0,2,Agra
+242,KIA CARENS,KIA,2022,100915,Diesel,Manual,22699,1044000.0,4,Agra
+243,Hyundai i20,Hyundai,2011,111584,Petrol,Manual,22699,100000.0,15,Agra
+244,Honda City,Honda,2016,41809,Petrol,Manual,9142,411000.00000000006,10,Agra
+245,Maruti Grand Vitara,Maruti,2024,26590,Hybrid,Auto,25170,1470000.0,2,Agra
+246,Maruti Dzire,Maruti,2017,103891,Diesel,Manual,9498,426999.99999999994,9,Agra
+247,Honda City,Honda,2018,153000,Petrol,Manual,10789,484999.99999999994,8,Agra
+248,Maruti Dzire,Maruti,2018,118492,Petrol,Auto,9076,408000.0,8,Agra
+249,Maruti Swift Dzire,Maruti,2016,34953,Petrol,Manual,6896,310000.0,10,Agra
+250,Hyundai Creta,Hyundai,2021,54608,Petrol,Manual,19109,1116000.0,5,Agra
+251,Hyundai i20 Active,Hyundai,2019,61467,Petrol,Manual,8014,454000.0,7,Agra
+252,Tata NEXON,Tata,2018,129149,Diesel,Manual,10677,480000.0,8,Agra
+253,Hyundai Creta,Hyundai,2019,167966,Diesel,Manual,13347,600000.0,7,Agra
+254,Hyundai GRAND I10 NIOS,Hyundai,2022,102349,Petrol,Manual,8787,395000.0,4,Agra
+255,Maruti Swift Dzire,Maruti,2015,39299,Petrol,Manual,7847,298000.0,11,Agra
+256,Maruti Swift,Maruti,2013,9964,Petrol,Manual,12804,272000.0,13,Agra
+257,Maruti Baleno,Maruti,2019,126959,Petrol,Manual,10010,450000.0,7,Agra
+258,Tata Hexa,Tata,2018,79013,Diesel,Manual,11515,589000.0,8,Agra
+259,Ford Figo,Ford,2013,111890,Diesel,Manual,7730,87000.0,13,Agra
+260,Maruti Baleno,Maruti,2018,110021,Petrol,Manual,9298,418000.0,8,Agra
+261,Ford Ecosport,Ford,2019,128547,Diesel,Manual,12034,541000.0,7,Agra
+262,Hyundai Verna,Hyundai,2019,59834,Diesel,Manual,10150,575000.0,7,Agra
+263,Tata ALTROZ,Tata,2023,25562,Petrol,Manual,11386,645000.0,3,Agra
+264,Maruti Swift Dzire,Maruti,2016,155868,Diesel,Manual,8875,337000.0,10,Agra
+265,Hyundai Creta,Hyundai,2016,57664,Petrol,Manual,12257,551000.0,10,Agra
+266,Maruti Baleno,Maruti,2018,120084,Diesel,Manual,8898,400000.0,8,Agra
+267,Honda Amaze,Honda,2020,51770,Petrol,Manual,7555,428000.0,6,Agra
+268,Maruti Vitara Brezza,Maruti,2017,106331,Diesel,Manual,12079,543000.0,9,Agra
+269,Mahindra BOLERO NEO,Mahindra,2024,4733,Diesel,Manual,18287,1068000.0,2,Agra
+270,Hyundai Creta,Hyundai,2017,209123,Diesel,Manual,13013,585000.0,9,Agra
+271,Toyota Etios Liva,Toyota,2015,40553,Petrol,Manual,6373,242000.0,11,Agra
+272,Hyundai Verna,Hyundai,2014,175394,Diesel,Manual,14357,305000.0,12,Agra
+273,Honda WR-V,Honda,2017,112928,Diesel,Manual,8609,387000.0,9,Agra
+274,Hyundai VENUE,Hyundai,2021,100421,Diesel,Manual,15571,700000.0,5,Agra
+275,Hyundai NEW SANTRO,Hyundai,2018,61669,Petrol,Manual,5578,316000.0,8,Agra
+276,Maruti Vitara Brezza,Maruti,2019,248440,Diesel,Manual,9610,432000.0,7,Agra
+277,Hyundai Verna,Hyundai,2014,156094,Diesel,Auto,15723,334000.0,12,Agra
+278,Toyota Innova Crysta,Toyota,2020,178152,Diesel,Manual,36375,1673000.0,6,Agra
+279,Honda Jazz,Honda,2017,63145,Petrol,Manual,6843,350000.0,9,Agra
+280,Maruti Vitara Brezza,Maruti,2020,55484,Diesel,Manual,11245,637000.0,6,Agra
+281,Maruti Swift Dzire,Maruti,2015,35243,Diesel,Manual,11691,352000.0,11,Agra
+282,Maruti Grand Vitara,Maruti,2024,20807,Petrol,Manual,18150,1060000.0,2,Agra
+283,Ford Ecosport,Ford,2017,110002,Diesel,Manual,8342,375000.0,9,Agra
+284,KIA SONET,KIA,2025,1822,Petrol,Manual,15444,902000.0,1,Agra
+285,Honda Amaze,Honda,2018,54440,Petrol,Manual,7573,429000.0,8,Agra
+286,Skoda KUSHAQ,Skoda,2022,63820,Petrol,Manual,13963,791000.0,4,Agra
+287,Tata NEXON,Tata,2021,61767,Petrol,Manual,10256,581000.0,5,Agra
+288,Honda WR-V,Honda,2021,86789,Diesel,Manual,13240,750000.0,5,Agra
+289,Maruti Dzire,Maruti,2017,96409,Diesel,Manual,10032,451000.0,9,Agra
+290,Hyundai VENUE,Hyundai,2024,10237,Petrol,Manual,15153,885000.0,2,Agra
+291,Maruti IGNIS,Maruti,2019,42567,Petrol,Manual,6479,367000.0,7,Agra
+292,Tata NEXON,Tata,2022,53199,Diesel,Manual,15599,911000.0,4,Agra
+293,Ford Figo Aspire,Ford,2018,78585,Petrol,Manual,5649,320000.0,8,Agra
+294,KIA CARENS,KIA,2022,104000,Diesel,Manual,21090,969999.9999999999,4,Agra
+295,Tata Tiago,Tata,2022,64287,Petrol,Manual,7944,450000.0,4,Agra
+296,Jeep Compass,Jeep,2017,168684,Petrol,Auto,14459,650000.0,9,Agra
+297,Tata Safari,Tata,2022,107322,Diesel,Auto,33701,1550000.0,4,Agra
+298,Ford Ecosport,Ford,2020,89412,Petrol,Manual,10874,616000.0,6,Agra
+299,Hyundai Creta,Hyundai,2019,92483,Diesel,Manual,11969,678000.0,7,Agra
+300,Maruti Vitara Brezza,Maruti,2019,95330,Diesel,Auto,10415,590000.0,7,Agra
+301,Mahindra Scorpio,Mahindra,2017,133298,Diesel,Manual,16906,760000.0,9,Agra
+302,Honda City,Honda,2015,154733,Diesel,Manual,10263,309000.0,11,Agra
+303,Nissan Micra,Nissan,2012,73760,Diesel,Manual,10263,130000.0,14,Agra
+304,Hyundai Grand i10,Hyundai,2016,53813,Petrol,Manual,6940,312000.0,10,Agra
+305,Mahindra XUV300,Mahindra,2022,74870,Diesel,Manual,11421,647000.0,4,Agra
+306,Hyundai NEW I20,Hyundai,2020,105612,Petrol,Auto,14615,657000.0,6,Agra
+307,Maruti Ciaz,Maruti,2014,142000,Diesel,Manual,12663,269000.0,12,Agra
+308,Mahindra XUV300,Mahindra,2021,60764,Petrol,Manual,9991,566000.0,5,Agra
+309,Mahindra XUV700,Mahindra,2022,125493,Diesel,Manual,29678,1365000.0,4,Agra
+310,Hyundai XCENT PRIME,Hyundai,2021,60516,Petrol,Manual,7944,450000.0,5,Agra
+311,Maruti Alto,Maruti,2022,45796,Petrol,Manual,6178,350000.0,4,Agra
+312,Maruti IGNIS,Maruti,2025,4030,Petrol,Manual,9497,538000.0,1,Agra
+313,Maruti Baleno,Maruti,2018,48531,Petrol,Manual,7644,433000.0,8,Agra
+314,Honda Amaze,Honda,2022,13048,Petrol,Manual,11232,636000.0,4,Agra
+315,Maruti Dzire,Maruti,2020,66955,Petrol,Manual,9074,513999.99999999994,6,Agra
+316,MG HECTOR,MG,2021,91767,Petrol,Auto,21369,1248000.0,5,Agra
+317,Maruti Vitara Brezza,Maruti,2018,66160,Diesel,Manual,9462,484000.0,8,Agra
+318,Maruti Grand Vitara,Maruti,2024,16098,Petrol,Manual,20222,1181000.0,2,Agra
+319,Tata NEXON,Tata,2022,15686,Petrol,Manual,14034,795000.0,4,Agra
+320,Maruti S Cross,Maruti,2017,60615,Diesel,Manual,9298,418000.0,9,Agra
+321,Hyundai VENUE,Hyundai,2020,126475,Diesel,Manual,14325,644000.0,6,Agra
+322,Tata ALTROZ,Tata,2022,52324,Petrol,Manual,11757,666000.0,4,Agra
+323,Hyundai Creta,Hyundai,2019,63293,Diesel,Manual,12692,719000.0,7,Agra
+324,Hyundai Verna,Hyundai,2024,22349,Petrol,Auto,26557,1551000.0,2,Agra
+325,Nissan Sunny,Nissan,2017,69665,Petrol,Auto,6667,341000.0,9,Agra
+326,Hyundai Creta,Hyundai,2021,69136,Diesel,Auto,19725,1152000.0,5,Agra
+327,Hyundai Creta,Hyundai,2018,89859,Diesel,Manual,12805,655000.0,8,Agra
+328,Mahindra XUV700,Mahindra,2022,67280,Diesel,Auto,27345,1597000.0,4,Agra
+329,Maruti Vitara Brezza,Maruti,2021,60717,Petrol,Manual,10009,567000.0,5,Agra
+330,Maruti Ciaz,Maruti,2020,60436,Petrol,Manual,10150,575000.0,6,Agra
+331,Hyundai Creta,Hyundai,2018,100765,Petrol,Manual,14592,656000.0,8,Agra
+332,Toyota Innova Crysta,Toyota,2017,122976,Diesel,Manual,20460,941000.0,9,Agra
+333,MG HECTOR,MG,2021,40842,Petrol,Manual,18818,1099000.0,5,Agra
+334,KIA SONET,KIA,2021,41988,Petrol,Manual,13434,761000.0,5,Agra
+335,Honda City,Honda,2015,19932,Petrol,Manual,11192,425000.0,11,Agra
+336,KIA SELTOS,KIA,2023,25614,Petrol,Manual,19708,1151000.0,3,Agra
+337,Honda City,Honda,2017,52538,Petrol,Manual,11984,613000.0,9,Agra
+338,Mahindra XUV700,Mahindra,2023,47061,Diesel,Manual,29433,1719000.0000000002,3,Agra
+339,Toyota Innova,Toyota,2015,56554,Diesel,Manual,17183,517000.0,11,Agra
+340,MG ASTOR,MG,2021,72722,Petrol,Auto,13240,750000.0,5,Agra
+341,KIA SONET,KIA,2025,21203,Petrol,Manual,17910,1046000.0000000001,1,Agra
+342,Maruti Baleno,Maruti,2019,149377,Petrol,Manual,9187,413000.0,7,Agra
+343,Maruti Swift,Maruti,2023,54210,Petrol,Manual,18287,1068000.0,3,Agra
+344,Maruti Dzire,Maruti,2017,111836,Diesel,Manual,9409,423000.00000000006,9,Agra
+345,KIA SELTOS,KIA,2022,27841,Petrol,Manual,18681,1091000.0,4,Agra
+346,Ford Ecosport,Ford,2020,61666,Petrol,Manual,10751,609000.0,6,Agra
+347,Maruti Ciaz,Maruti,2014,60341,Petrol,Manual,11193,337000.0,12,Agra
+348,Skoda SLAVIA,Skoda,2023,13821,Petrol,Auto,20650,1206000.0,3,Agra
+349,Hyundai Verna,Hyundai,2016,49247,Diesel,Manual,10534,400000.0,10,Agra
+350,Mahindra XUV300,Mahindra,2022,66787,Petrol,Manual,11969,678000.0,4,Agra
+351,BMW 3 Series,BMW,2016,155692,Diesel,Auto,28430,1100000.0,10,Agra
+352,Toyota Innova,Toyota,2015,157784,Diesel,Manual,18567,559000.0,11,Agra
+353,Ford Ecosport,Ford,2016,164174,Diesel,Manual,7979,303000.0,10,Agra
+354,Hyundai XCENT PRIME,Hyundai,2021,60726,Petrol,Manual,7944,450000.0,5,Agra
+355,Hyundai Creta,Hyundai,2023,26833,Petrol,Manual,16848,984000.0,3,Agra
+356,Tata NEXON,Tata,2022,30316,Petrol,Manual,12745,722000.0,4,Agra
+357,MG HECTOR,MG,2020,165080,Diesel,Manual,23917,1100000.0,6,Agra
+358,Tata Harrier,Tata,2019,70624,Diesel,Manual,14982,875000.0,7,Agra
+359,Hyundai Creta,Hyundai,2022,100001,Petrol,Manual,19568,900000.0,4,Agra
+360,Jeep MERIDIAN,Jeep,2022,64489,Diesel,Auto,35207,2055999.9999999998,4,Agra
+361,Toyota Innova Crysta,Toyota,2022,110742,Diesel,Auto,33701,1550000.0,4,Agra
+362,Landrover Range Rover Evoque,Landrover,2020,30833,Petrol,Auto,43988,2569000.0,6,Agra
+363,Mahindra MARAZZO,Mahindra,2019,187820,Diesel,Manual,15794,710000.0,7,Agra
+364,KIA SELTOS,KIA,2020,106297,Diesel,Auto,26678,1227000.0,6,Agra
+365,Maruti Eeco,Maruti,2021,165973,Petrol,Manual,7496,337000.0,5,Agra
+366,MG HECTOR PLUS,MG,2021,76702,Diesel,Manual,27242,1591000.0,5,Agra
+367,Jeep Compass,Jeep,2020,126854,Diesel,Manual,33483,1540000.0,6,Agra
+368,KIA SONET,KIA,2022,35709,Diesel,Manual,15393,899000.0,4,Agra
+369,Hyundai Creta,Hyundai,2024,25365,Petrol,Manual,18835,1100000.0,2,Agra
+370,Hyundai Creta,Hyundai,2017,80164,Diesel,Manual,14348,645000.0,9,Agra
+371,Mahindra Scorpio,Mahindra,2020,97808,Diesel,Manual,16266,950000.0,6,Agra
+372,Mahindra XUV300,Mahindra,2024,79778,Diesel,Manual,20975,1225000.0,2,Agra
+373,KIA SONET,KIA,2021,89392,Diesel,Manual,13063,740000.0,5,Agra
+374,Toyota Fortuner,Toyota,2013,100000000,Diesel,Manual,57752,650000.0,13,Agra
+375,Audi Q3,Audi,2012,240658,Diesel,Auto,57752,484000.0,14,Agra
+376,Toyota Etios,Toyota,2018,221769,Diesel,Manual,7852,353000.0,8,Agra
+377,Mahindra XUV300,Mahindra,2020,48728,Petrol,Manual,13928,789000.0,6,Agra
+378,Mahindra SCORPIO-N,Mahindra,2023,25796,Diesel,Manual,27687,1617000.0000000002,3,Agra
+379,Honda Mobilio,Honda,2015,155533,Diesel,Manual,11891,358000.0,11,Agra
+380,Maruti Vitara Brezza,Maruti,2018,102027,Diesel,Auto,11790,530000.0,8,Agra
+381,KIA SONET,KIA,2024,10765,Petrol,Auto,20016,1169000.0,2,Agra
+382,MG HECTOR,MG,2019,76778,Diesel,Manual,19263,1125000.0,7,Agra
+383,Mahindra XUV300,Mahindra,2022,102667,Diesel,Manual,17394,800000.0,4,Agra
+384,Tata TIAGO EV,Tata,2023,105000,Electric,Auto,13324,599000.0,3,Agra
+385,MG HECTOR,MG,2024,5935,Diesel,Manual,31677,1850000.0,2,Agra
+386,BMW X5,BMW,2016,67324,Diesel,Auto,55697,2155000.0,10,Agra
+387,Toyota Innova Crysta,Toyota,2018,116207,Diesel,Manual,23917,1100000.0,8,Agra
+388,BMW X1,BMW,2024,34566,Petrol,Auto,76315,4457000.0,2,Agra
+389,MG HECTOR PLUS,MG,2022,79435,Diesel,Manual,23971,1400000.0,4,Agra
+390,Hyundai Creta,Hyundai,2023,24142,Diesel,Manual,26095,1524000.0,3,Agra
+391,MG HECTOR,MG,2021,59117,Petrol,Auto,20547,1200000.0,5,Agra
+392,Maruti S Cross,Maruti,2018,86810,Diesel,Manual,10811,553000.0,8,Agra
+393,Audi A3,Audi,2014,121578,Diesel,Auto,43951,943000.0,12,Agra
+394,Mercedes Benz E Class,Mercedes,2012,82597,Diesel,Auto,43951,902999.9999999999,14,Agra
+395,Toyota Fortuner,Toyota,2017,256000,Diesel,Auto,41311,1900000.0,9,Agra
+396,Mahindra XUV300,Mahindra,2023,41245,Diesel,Manual,20530,1199000.0,3,Agra
+397,Tata Harrier,Tata,2021,62117,Diesel,Auto,28457,1662000.0,5,Agra
+398,Mercedes Benz Ml Class,Mercedes,2014,246866,Diesel,Auto,48612,1043000.0,12,Agra
+399,Toyota Innova Crysta,Toyota,2022,70036,Diesel,Manual,28286,1652000.0,4,Agra
+400,Hyundai VENUE,Hyundai,2023,25345,Petrol,Auto,17893,1044999.9999999999,3,Agra
+401,Tata Safari,Tata,2023,77542,Diesel,Auto,34245,2000000.0,3,Agra
+402,Tata Harrier,Tata,2023,82259,Diesel,Auto,27396,1600000.0,3,Agra
+403,Tata Safari,Tata,2024,49793,Diesel,Manual,35957,2100000.0,2,Agra
+404,Mercedes Benz GLS,Mercedes,2017,200424,Diesel,Auto,47833,2200000.0,9,Agra
+405,Mahindra XUV300,Mahindra,2023,31889,Petrol,Manual,13963,791000.0,3,Agra
+406,MG HECTOR,MG,2023,61919,Diesel,Manual,25684,1500000.0,3,Agra
+407,Tata Curvv EV,Tata,2024,39154,Electric,Auto,32224,1882000.0,2,Agra
+408,Tata NEXON EV,Tata,2023,48860,Electric,Auto,21780,1272000.0,3,Agra
+409,Mercedes Benz GLA Class,Mercedes,2018,106214,Diesel,Auto,33983,1563000.0,8,Agra
+410,Mercedes Benz E Class,Mercedes,2019,61866,Diesel,Auto,51367,3000000.0,7,Agra
+411,Mahindra Scorpio,Mahindra,2018,79144,Diesel,Manual,20328,1068000.0,8,Agra
+412,Mahindra XUV300,Mahindra,2023,40219,Diesel,Manual,15410,900000.0,3,Agra
+413,Tata Safari,Tata,2024,22188,Diesel,Manual,38902,2272000.0,2,Agra
+414,KIA CARNIVAL,KIA,2020,252681,Diesel,Auto,47616,2190000.0,6,Agra
+415,Toyota Innova Crysta,Toyota,2021,113526,Diesel,Manual,39549,1819000.0000000002,5,Agra
+416,Hyundai VENUE,Hyundai,2019,57047,Petrol,Manual,8826,500000.0,7,Agra
+417,Mahindra TUV300,Mahindra,2018,120160,Diesel,Manual,7207,324000.0,8,Agra
+418,MG HECTOR,MG,2021,52900,Diesel,Manual,17893,1044999.9999999999,5,Agra
+419,Hyundai Grand i10,Hyundai,2014,98941,Petrol,Manual,7008,211000.0,12,Agra
+420,Hyundai VENUE,Hyundai,2023,35131,Petrol,Manual,18681,1091000.0,3,Agra
+421,Ford Ecosport,Ford,2016,62580,Diesel,Manual,7531,286000.0,10,Agra
+422,Maruti Dzire,Maruti,2019,58242,Petrol,Manual,8509,482000.0,7,Agra
+423,KIA SELTOS,KIA,2019,114165,Diesel,Manual,17506,787000.0,7,Agra
+424,Mahindra Bolero,Mahindra,2019,85558,Diesel,Manual,8791,498000.00000000006,7,Agra
+425,Maruti Ertiga,Maruti,2013,63111,Diesel,Manual,39271,442000.0,13,Agra
+426,Mahindra NUVOSPORT,Mahindra,2017,152410,Diesel,Manual,8297,373000.0,9,Agra
+427,Maruti Wagon R 1.0,Maruti,2017,25383,Petrol,Manual,5318,272000.0,9,Agra
+428,Maruti Wagon R 1.0,Maruti,2014,42240,Petrol,Manual,6875,206999.99999999997,12,Agra
+429,Maruti Swift,Maruti,2013,62498,Diesel,Manual,19014,214000.0,13,Agra
+430,Honda City,Honda,2012,95345,Petrol,Manual,16437,185000.0,14,Agra

@@ -1,0 +1,485 @@
+,car_name,brand,year_of_manufacture,kms_driven,fuel_type,transmission_type,emi,price,car_age_years,city
+0,Maruti Swift Dzire,Maruti,2016,95523,Diesel,Manual,6636,252000.0,10,Nagpur
+1,Tata NEXON,Tata,2025,3580,Petrol,Auto,23201,1355000.0,1,Nagpur
+2,Maruti Alto 800,Maruti,2014,83959,Petrol,Manual,6311,190000.0,12,Nagpur
+3,Hyundai Eon,Hyundai,2015,25925,Petrol,Manual,6004,227999.99999999997,11,Nagpur
+4,Honda Amaze,Honda,2015,199432,Petrol,Manual,6057,229999.99999999997,11,Nagpur
+5,Tata NEXON,Tata,2019,137815,Petrol,Manual,12012,540000.0,7,Nagpur
+6,Mahindra XUV500,Mahindra,2015,46300,Diesel,Manual,15744,474000.0,11,Nagpur
+7,Chevrolet Sail,Chevrolet,2014,110174,Petrol,Manual,4351,131000.0,12,Nagpur
+8,Tata Nano,Tata,2011,44875,Petrol,Manual,4351,31000.0,15,Nagpur
+9,Honda Amaze,Honda,2021,48002,Petrol,Manual,10856,615000.0,5,Nagpur
+10,Maruti S PRESSO,Maruti,2021,26822,Petrol,Manual,7132,404000.0,5,Nagpur
+11,Maruti Dzire,Maruti,2019,129297,Diesel,Manual,10010,450000.0,7,Nagpur
+12,Maruti Alto K10,Maruti,2013,72901,Petrol,Manual,7249,154000.0,13,Nagpur
+13,Maruti Swift,Maruti,2016,48200,Petrol,Manual,7385,332000.0,10,Nagpur
+14,Maruti Swift Dzire,Maruti,2016,120767,Diesel,Manual,7584,288000.0,10,Nagpur
+15,Maruti Alto K10,Maruti,2014,24840,Petrol,Manual,6311,190000.0,12,Nagpur
+16,Datsun Go,Datsun,2014,93291,Petrol,Manual,4650,140000.0,12,Nagpur
+17,Hyundai VENUE,Hyundai,2019,18235,Petrol,Manual,12357,700000.0,7,Nagpur
+18,Hyundai i20,Hyundai,2012,53431,Petrol,Manual,19191,216000.0,14,Nagpur
+19,Maruti Alto 800,Maruti,2012,29897,Petrol,Manual,14216,160000.0,14,Nagpur
+20,Hyundai i10,Hyundai,2012,22802,Petrol,Manual,15815,178000.0,14,Nagpur
+21,Tata NEXON,Tata,2025,14243,Petrol,Manual,20547,1200000.0,1,Nagpur
+22,Hyundai i10,Hyundai,2012,60688,Petrol,Auto,17414,196000.0,14,Nagpur
+23,Hyundai i10,Hyundai,2012,53941,Petrol,Manual,14038,158000.0,14,Nagpur
+24,Maruti Wagon R 1.0,Maruti,2013,82334,Petrol,Manual,9415,200000.0,13,Nagpur
+25,Maruti Eeco,Maruti,2023,3641,Petrol,Manual,9709,550000.0,3,Nagpur
+26,Hyundai i10,Hyundai,2012,79066,Petrol,Auto,13860,156000.0,14,Nagpur
+27,Nissan MAGNITE,Nissan,2023,39582,Petrol,Manual,9038,512000.0,3,Nagpur
+28,Maruti Alto 800,Maruti,2016,49156,Petrol,Manual,4246,191000.0,10,Nagpur
+29,Maruti New Wagon-R,Maruti,2024,35033,Petrol,Manual,9886,560000.0,2,Nagpur
+30,Hyundai i10,Hyundai,2012,78744,Petrol,Manual,17770,200000.0,14,Nagpur
+31,Hyundai Santro Xing,Hyundai,2011,90143,Petrol,Manual,17770,114999.99999999999,15,Nagpur
+32,Hyundai Verna,Hyundai,2012,99999,Diesel,Manual,17770,295000.0,14,Nagpur
+33,Renault Duster,Renault,2014,117605,Diesel,Manual,12945,275000.0,12,Nagpur
+34,Volkswagen Polo,Volkswagen,2015,100800,Diesel,Manual,9964,300000.0,11,Nagpur
+35,Hyundai Verna,Hyundai,2012,75046,Petrol,Manual,20613,231999.99999999997,14,Nagpur
+36,Tata Tiago,Tata,2025,3647,Petrol,Manual,9603,544000.0,1,Nagpur
+37,Renault Kwid,Renault,2017,82913,Petrol,Manual,4301,220000.00000000003,9,Nagpur
+38,Toyota Etios,Toyota,2013,131857,Diesel,Manual,22212,250000.0,13,Nagpur
+39,Mahindra XUV500,Mahindra,2014,90092,Diesel,Manual,17464,371000.0,12,Nagpur
+40,Volkswagen Polo,Volkswagen,2011,43938,Petrol,Manual,17464,145000.0,15,Nagpur
+41,Hyundai Eon,Hyundai,2012,38389,Petrol,Manual,13061,147000.0,14,Nagpur
+42,Maruti Swift,Maruti,2012,92537,Diesel,Manual,13061,292000.0,14,Nagpur
+43,Honda Brio,Honda,2013,28192,Petrol,Manual,8473,180000.0,13,Nagpur
+44,Volkswagen Polo,Volkswagen,2013,100000,Diesel,Manual,18658,210000.0,13,Nagpur
+45,Hyundai Eon,Hyundai,2012,52225,Petrol,Manual,12883,145000.0,14,Nagpur
+46,Maruti Swift Dzire,Maruti,2012,93845,Petrol,Manual,20435,229999.99999999997,14,Nagpur
+47,Hyundai Elite i20,Hyundai,2014,181173,Petrol,Manual,9964,300000.0,12,Nagpur
+48,Mahindra XUV300,Mahindra,2020,52753,Diesel,Manual,11245,637000.0,6,Nagpur
+49,Maruti Wagon R 1.0,Maruti,2013,62900,Petrol,Manual,10027,213000.0,13,Nagpur
+50,Maruti Wagon R 1.0,Maruti,2013,74659,Petrol,Manual,8238,175000.0,13,Nagpur
+51,Hyundai Elite i20,Hyundai,2017,58406,Petrol,Manual,7976,408000.0,9,Nagpur
+52,Volkswagen Vento,Volkswagen,2013,177450,Diesel,Manual,23101,260000.0,13,Nagpur
+53,Skoda Superb,Skoda,2011,95088,Petrol,Auto,23101,222000.00000000003,15,Nagpur
+54,KIA CARENS,KIA,2024,17811,Petrol,Manual,20239,1182000.0,2,Nagpur
+55,Renault Lodgy,Renault,2015,137009,Diesel,Manual,7971,240000.0,11,Nagpur
+56,Nissan Micra Active,Nissan,2015,66000,Petrol,Manual,5267,200000.0,11,Nagpur
+57,Chevrolet Sail UVA,Chevrolet,2013,96335,Petrol,Manual,3860,82000.0,13,Nagpur
+58,Hyundai Verna,Hyundai,2012,7766,Petrol,Manual,24433,275000.0,14,Nagpur
+59,Hyundai i10,Hyundai,2012,76931,Petrol,Manual,12794,144000.0,14,Nagpur
+60,Maruti Swift Dzire,Maruti,2016,172465,Diesel,Manual,7505,285000.0,10,Nagpur
+61,Maruti Dzire,Maruti,2018,71000,Petrol,Manual,9120,409999.99999999994,8,Nagpur
+62,Maruti Celerio,Maruti,2015,106643,Petrol,Manual,6320,240000.0,11,Nagpur
+63,Volkswagen Polo,Volkswagen,2015,125153,Petrol,Auto,9480,360000.0,11,Nagpur
+64,Maruti Wagon R 1.0,Maruti,2013,66521,Petrol,Manual,12851,273000.0,13,Nagpur
+65,Hyundai i10,Hyundai,2012,103774,Petrol,Manual,15549,175000.0,14,Nagpur
+66,Ford Figo,Ford,2012,128519,Diesel,Manual,15549,130000.0,14,Nagpur
+67,Hyundai Eon,Hyundai,2014,62926,Petrol,Manual,4816,145000.0,12,Nagpur
+68,Maruti Alto 800,Maruti,2015,66736,Petrol,Manual,4345,165000.0,11,Nagpur
+69,Hyundai Eon,Hyundai,2015,38766,Petrol,Manual,4898,186000.0,11,Nagpur
+70,Maruti Swift,Maruti,2011,117800,Diesel,Manual,4898,215000.0,15,Nagpur
+71,Skoda KUSHAQ,Skoda,2021,13715,Petrol,Manual,13698,800000.0,5,Nagpur
+72,Maruti Wagon R 1.0,Maruti,2014,222900,Petrol,Manual,9167,276000.0,12,Nagpur
+73,Chevrolet Spark,Chevrolet,2011,103960,Petrol,Manual,9167,63000.0,15,Nagpur
+74,Mahindra Bolero,Mahindra,2018,189095,Diesel,Manual,4605,206999.99999999997,8,Nagpur
+75,Honda Amaze,Honda,2013,110593,Diesel,Manual,19458,219000.0,13,Nagpur
+76,Datsun Go,Datsun,2018,20132,Petrol,Manual,3177,180000.0,8,Nagpur
+77,Hyundai Grand i10,Hyundai,2017,73966,Diesel,Manual,6228,280000.0,9,Nagpur
+78,Maruti Vitara Brezza,Maruti,2016,159253,Diesel,Manual,15010,570000.0,10,Nagpur
+79,Nissan Terrano,Nissan,2014,102279,Petrol,Manual,7805,235000.0,12,Nagpur
+80,Honda Brio,Honda,2012,83127,Petrol,Manual,17059,192000.0,14,Nagpur
+81,Ford Fiesta,Ford,2012,91828,Diesel,Manual,17059,101000.0,14,Nagpur
+82,Maruti Alto 800,Maruti,2013,127983,Petrol,Manual,8097,172000.0,13,Nagpur
+83,Hyundai Eon,Hyundai,2014,116055,Petrol,Manual,6145,185000.0,12,Nagpur
+84,Hyundai Elite i20,Hyundai,2017,39299,Petrol,Manual,8309,425000.0,9,Nagpur
+85,Maruti Wagon R 1.0,Maruti,2015,47056,Petrol,Manual,7610,289000.0,11,Nagpur
+86,Maruti Baleno,Maruti,2018,118946,Petrol,Manual,9343,420000.0,8,Nagpur
+87,Maruti Swift Dzire,Maruti,2013,165343,Petrol,Manual,12715,270000.0,13,Nagpur
+88,Hyundai Verna,Hyundai,2015,82100,Petrol,Auto,8690,330000.0,11,Nagpur
+89,Tata Tiago,Tata,2016,77452,Petrol,Manual,6540,294000.0,10,Nagpur
+90,Tata Tiago,Tata,2018,116430,Petrol,Manual,6735,303000.0,8,Nagpur
+91,Volkswagen Vento,Volkswagen,2011,113024,Diesel,Manual,6735,136000.0,15,Nagpur
+92,Tata NEXON,Tata,2018,160014,Diesel,Auto,10010,450000.0,8,Nagpur
+93,Maruti Swift,Maruti,2015,55138,Petrol,Manual,9103,346000.0,11,Nagpur
+94,Maruti Dzire,Maruti,2017,97243,Diesel,Auto,9454,425000.0,9,Nagpur
+95,Hyundai i20,Hyundai,2011,137861,Diesel,Manual,9454,160000.0,15,Nagpur
+96,Hyundai Eon,Hyundai,2014,53016,Petrol,Manual,5979,180000.0,12,Nagpur
+97,Renault Kwid,Renault,2016,85635,Petrol,Manual,4449,200000.0,10,Nagpur
+98,Honda Brio,Honda,2012,44647,Petrol,Manual,13327,150000.0,14,Nagpur
+99,Volkswagen Vento,Volkswagen,2014,91873,Diesel,Manual,11768,250000.0,12,Nagpur
+100,BMW X1,BMW,2012,161764,Diesel,Auto,11768,310000.0,14,Nagpur
+101,Maruti Alto K10,Maruti,2012,66191,Petrol,Manual,10218,114999.99999999999,14,Nagpur
+102,Maruti FRONX,Maruti,2024,74427,Petrol,Manual,12357,700000.0,2,Nagpur
+103,Mahindra XUV500,Mahindra,2015,117122,Diesel,Manual,16009,482000.0,11,Nagpur
+104,Hyundai i20,Hyundai,2010,78929,Petrol,Manual,16009,146000.0,16,Nagpur
+105,Fiat Linea,Fiat,2011,123457,Diesel,Manual,16009,91000.0,15,Nagpur
+106,Maruti Ritz,Maruti,2011,159007,Diesel,Manual,16009,157000.0,15,Nagpur
+107,Maruti Ritz,Maruti,2011,179458,Diesel,Manual,16009,135000.0,15,Nagpur
+108,Maruti Ertiga,Maruti,2013,98880,Petrol,Manual,15864,337000.0,13,Nagpur
+109,Hyundai i10,Hyundai,2015,140280,Petrol,Manual,6320,240000.0,11,Nagpur
+110,Hyundai Elite i20,Hyundai,2017,118690,Petrol,Manual,8898,400000.0,9,Nagpur
+111,Maruti Swift,Maruti,2013,67337,Petrol,Manual,12569,267000.0,13,Nagpur
+112,Hyundai ALCAZAR,Hyundai,2021,20892,Diesel,Manual,24828,1450000.0,5,Nagpur
+113,Hyundai Creta,Hyundai,2018,43136,Diesel,Manual,15227,800000.0,8,Nagpur
+114,Maruti Alto 800,Maruti,2014,40600,Petrol,Manual,7141,215000.0,12,Nagpur
+115,Maruti XL6,Maruti,2022,23974,Petrol,Manual,16780,980000.0000000001,4,Nagpur
+116,Hyundai Xcent,Hyundai,2014,88745,Petrol,Manual,6643,200000.0,12,Nagpur
+117,Maruti Grand Vitara,Maruti,2024,11654,Petrol,Manual,16266,950000.0,2,Nagpur
+118,Tata Indica EV2,Tata,2016,50899,Diesel,Manual,3739,142000.0,10,Nagpur
+119,Maruti Ritz,Maruti,2010,65057,Petrol,Manual,3739,140000.0,16,Nagpur
+120,Maruti Alto,Maruti,2010,15257,Petrol,Manual,3739,152000.0,16,Nagpur
+121,Fiat Linea,Fiat,2014,54827,Petrol,Manual,4584,138000.0,12,Nagpur
+122,Maruti S PRESSO,Maruti,2020,46656,Petrol,Manual,5719,324000.0,6,Nagpur
+123,Honda City,Honda,2014,138307,Petrol,Manual,11459,345000.0,12,Nagpur
+124,Honda Civic,Honda,2010,71130,Petrol,Manual,11459,150000.0,16,Nagpur
+125,Ford Figo Aspire,Ford,2017,138069,Diesel,Manual,6228,280000.0,9,Nagpur
+126,Fiat Linea,Fiat,2014,88190,Petrol,Manual,5015,151000.0,12,Nagpur
+127,Maruti Vitara Brezza,Maruti,2017,162268,Diesel,Manual,11790,530000.0,9,Nagpur
+128,Chevrolet Beat,Chevrolet,2012,125000,Diesel,Manual,11790,94000.0,14,Nagpur
+129,Hyundai i20,Hyundai,2012,104967,Diesel,Manual,11790,210000.0,14,Nagpur
+130,Renault TRIBER,Renault,2022,41619,Petrol,Manual,9179,520000.0,4,Nagpur
+131,Tata Zest,Tata,2014,162583,Diesel,Manual,14028,298000.0,12,Nagpur
+132,Renault Kwid,Renault,2016,75184,Petrol,Manual,5561,250000.0,10,Nagpur
+133,Ford Ecosport,Ford,2014,137194,Diesel,Manual,14028,298000.0,12,Nagpur
+134,Mahindra XUV500,Mahindra,2011,199416,Diesel,Manual,14028,224000.00000000003,15,Nagpur
+135,Maruti Wagon R 1.0,Maruti,2011,58869,Petrol,Manual,14028,160000.0,15,Nagpur
+136,Tata Manza,Tata,2010,201650,Diesel,Manual,14028,70000.0,16,Nagpur
+137,Maruti Wagon R 1.0,Maruti,2014,97726,Petrol,Manual,8337,250999.99999999997,12,Nagpur
+138,Hyundai i20,Hyundai,2013,66671,Petrol,Manual,10827,229999.99999999997,13,Nagpur
+139,Hyundai NEW SANTRO,Hyundai,2018,70149,Petrol,Auto,5561,315000.0,8,Nagpur
+140,Hyundai Grand i10,Hyundai,2013,114048,Petrol,Manual,11298,240000.0,13,Nagpur
+141,Volkswagen Vento,Volkswagen,2012,25502,Diesel,Manual,11298,163000.0,14,Nagpur
+142,Hyundai Elite i20,Hyundai,2015,67297,Diesel,Manual,13186,397000.0,11,Nagpur
+143,Maruti Swift,Maruti,2018,94950,Diesel,Manual,10753,550000.0,8,Nagpur
+144,Nissan Sunny,Nissan,2011,56165,Petrol,Manual,10753,110000.00000000001,15,Nagpur
+145,Maruti Dzire,Maruti,2017,73170,Petrol,Manual,9169,469000.00000000006,9,Nagpur
+146,Hyundai i10,Hyundai,2010,54031,Petrol,Manual,9169,140000.0,16,Nagpur
+147,Chevrolet Sail,Chevrolet,2014,104088,Petrol,Manual,4318,130000.0,12,Nagpur
+148,Fiat Linea,Fiat,2016,65850,Petrol,Manual,6384,287000.0,10,Nagpur
+149,Maruti Wagon R 1.0,Maruti,2015,106814,Petrol,Manual,6847,260000.0,11,Nagpur
+150,Honda City,Honda,2011,67157,Petrol,Manual,6847,190000.0,15,Nagpur
+151,Ford Ecosport,Ford,2014,98880,Diesel,Manual,16005,340000.0,12,Nagpur
+152,MG HECTOR PLUS,MG,2021,46416,Petrol,Auto,16266,950000.0,5,Nagpur
+153,Tata Harrier,Tata,2022,75622,Diesel,Auto,23287,1360000.0,4,Nagpur
+154,Maruti Vitara Brezza,Maruti,2016,101464,Diesel,Manual,17170,652000.0,10,Nagpur
+155,Maruti Baleno,Maruti,2018,93845,Petrol,Manual,6973,395000.0,8,Nagpur
+156,Honda Brio,Honda,2012,69842,Petrol,Manual,17503,197000.0,14,Nagpur
+157,Maruti Ritz,Maruti,2012,88119,Diesel,Manual,17503,159000.0,14,Nagpur
+158,Maruti Wagon R 1.0,Maruti,2016,38528,Petrol,Manual,7608,342000.0,10,Nagpur
+159,Hyundai i20,Hyundai,2010,1010197,Petrol,Manual,7608,125000.0,16,Nagpur
+160,Mahindra XUV 3XO,Mahindra,2024,28614,Petrol,Manual,12622,715000.0,2,Nagpur
+161,Renault Duster,Renault,2012,103074,Diesel,Manual,12622,200000.0,14,Nagpur
+162,Maruti A Star,Maruti,2010,50056,Petrol,Manual,12622,150000.0,16,Nagpur
+163,Mahindra TUV300,Mahindra,2016,107277,Diesel,Auto,11192,425000.0,10,Nagpur
+164,Hyundai Verna,Hyundai,2012,195984,Diesel,Manual,11192,278000.0,14,Nagpur
+165,Tata NEXON,Tata,2019,136000,Petrol,Manual,12234,550000.0,7,Nagpur
+166,Honda City,Honda,2018,60374,Petrol,Manual,9886,560000.0,8,Nagpur
+167,Honda WR-V,Honda,2017,78277,Petrol,Manual,8602,440000.00000000006,9,Nagpur
+168,Volkswagen Vento,Volkswagen,2011,191005,Diesel,Manual,8602,155000.0,15,Nagpur
+169,Skoda Rapid,Skoda,2013,111069,Diesel,Manual,23634,266000.0,13,Nagpur
+170,Hyundai Elite i20,Hyundai,2015,50995,Petrol,Manual,10270,390000.0,11,Nagpur
+171,Volkswagen Polo,Volkswagen,2016,62592,Petrol,Manual,7719,347000.0,10,Nagpur
+172,Maruti Zen Estilo,Maruti,2010,24822,Petrol,Manual,7719,110000.00000000001,16,Nagpur
+173,Renault TRIBER,Renault,2022,30955,Petrol,Manual,10150,575000.0,4,Nagpur
+174,Mahindra TUV300,Mahindra,2015,67814,Diesel,Manual,13286,400000.0,11,Nagpur
+175,Mahindra XUV500,Mahindra,2012,151653,Diesel,Manual,13286,324000.0,14,Nagpur
+176,Chevrolet Spark,Chevrolet,2010,3,Petrol,Manual,13286,66000.0,16,Nagpur
+177,Hyundai Verna,Hyundai,2015,120122,Diesel,Manual,14282,430000.0,11,Nagpur
+178,Renault Duster,Renault,2013,95855,Diesel,Manual,19991,225000.0,13,Nagpur
+179,Renault Duster,Renault,2015,96500,Diesel,Manual,11426,344000.0,11,Nagpur
+180,Honda City,Honda,2010,110425,Petrol,Manual,11426,126000.0,16,Nagpur
+181,Renault Kiger,Renault,2021,23834,Petrol,Auto,9091,515000.00000000006,5,Nagpur
+182,Hyundai Creta,Hyundai,2017,120008,Diesel,Auto,15059,677000.0,9,Nagpur
+183,Chevrolet Cruze,Chevrolet,2011,79808,Diesel,Auto,15059,180000.0,15,Nagpur
+184,Hyundai Grand i10,Hyundai,2017,150000,Petrol,Manual,7719,347000.0,9,Nagpur
+185,Maruti S Cross,Maruti,2017,115927,Diesel,Manual,12835,577000.0,9,Nagpur
+186,Hyundai Elite i20,Hyundai,2019,72066,Petrol,Manual,9179,520000.0,7,Nagpur
+187,Hyundai Grand i10,Hyundai,2016,64883,Petrol,Manual,7563,340000.0,10,Nagpur
+188,Maruti Alto 800,Maruti,2014,48063,Petrol,Manual,6643,200000.0,12,Nagpur
+189,Mahindra Scorpio,Mahindra,2017,100000,Diesel,Manual,16505,742000.0,9,Nagpur
+190,Maruti Ciaz,Maruti,2015,73683,Petrol,Manual,10402,395000.0,11,Nagpur
+191,Tata Tiago,Tata,2021,63986,Petrol,Manual,10239,580000.0,5,Nagpur
+192,Maruti Celerio,Maruti,2019,158894,Petrol,Manual,7118,320000.0,7,Nagpur
+193,Honda Brio,Honda,2016,61023,Petrol,Manual,6451,290000.0,10,Nagpur
+194,Hyundai AURA,Hyundai,2024,17502,Petrol,Manual,11916,675000.0,2,Nagpur
+195,Hyundai Creta,Hyundai,2016,68990,Petrol,Manual,15571,700000.0,10,Nagpur
+196,Mahindra Kuv100,Mahindra,2015,108526,Petrol,Manual,6504,247000.00000000003,11,Nagpur
+197,Ford Figo,Ford,2010,101121,Petrol,Manual,6504,86000.0,16,Nagpur
+198,Maruti Swift,Maruti,2015,48103,Petrol,Manual,10534,400000.0,11,Nagpur
+199,Maruti Dzire,Maruti,2020,68344,Petrol,Manual,9709,550000.0,6,Nagpur
+200,Maruti Baleno,Maruti,2019,50653,Petrol,Manual,8826,500000.0,7,Nagpur
+201,Ford Ecosport,Ford,2015,79600,Diesel,Manual,13286,400000.0,11,Nagpur
+202,Tata Hexa,Tata,2018,395607,Diesel,Manual,13347,600000.0,8,Nagpur
+203,Maruti Grand Vitara,Maruti,2023,46206,Petrol,Manual,16917,988000.0000000001,3,Nagpur
+204,Maruti Wagon R 1.0,Maruti,2011,84728,Petrol,Manual,16917,150000.0,15,Nagpur
+205,Ford New Figo,Ford,2017,84926,Diesel,Manual,7163,322000.0,9,Nagpur
+206,Maruti Wagon R 1.0,Maruti,2017,111468,Petrol,Manual,6865,309000.0,9,Nagpur
+207,Maruti A Star,Maruti,2010,100210,Petrol,Manual,6865,129000.0,16,Nagpur
+208,Mahindra XUV500,Mahindra,2012,131993,Diesel,Manual,6865,293000.0,14,Nagpur
+209,Maruti Wagon R 1.0,Maruti,2014,65215,Petrol,Manual,7971,240000.0,12,Nagpur
+210,Maruti Swift,Maruti,2014,213960,Diesel,Manual,18123,385000.0,12,Nagpur
+211,Maruti Ertiga,Maruti,2012,149854,Diesel,Manual,18123,400000.0,14,Nagpur
+212,Ford Figo,Ford,2013,161465,Diesel,Manual,13683,154000.0,13,Nagpur
+213,Maruti Swift Dzire,Maruti,2014,88536,Diesel,Manual,15440,328000.0,12,Nagpur
+214,Maruti Ritz,Maruti,2011,82233,Petrol,Manual,15440,148000.0,15,Nagpur
+215,Tata NEXON,Tata,2022,84426,Petrol,Manual,14212,830000.0000000001,4,Nagpur
+216,Hyundai NEW SANTRO,Hyundai,2019,40761,Petrol,Manual,6355,360000.0,7,Nagpur
+217,Maruti Baleno,Maruti,2022,88989,Petrol,Manual,9532,540000.0,4,Nagpur
+218,Hyundai Creta,Hyundai,2022,46774,Diesel,Manual,16266,950000.0,4,Nagpur
+219,Maruti Baleno,Maruti,2017,104586,Petrol,Manual,9788,440000.00000000006,9,Nagpur
+220,Hyundai Grand i10,Hyundai,2015,92950,Petrol,Manual,8163,310000.0,11,Nagpur
+221,Hyundai Creta,Hyundai,2017,82290,Petrol,Manual,14272,730000.0,9,Nagpur
+222,Maruti Celerio,Maruti,2018,34700,Petrol,Auto,5984,339000.0,8,Nagpur
+223,Hyundai Santro Xing,Hyundai,2010,75335,Petrol,Manual,5984,114999.99999999999,16,Nagpur
+224,Hyundai i20 Active,Hyundai,2015,89769,Diesel,Manual,12323,371000.0,11,Nagpur
+225,Ford FREESTYLE,Ford,2019,113486,Petrol,Manual,9743,438000.0,7,Nagpur
+226,Volkswagen Polo,Volkswagen,2015,80434,Petrol,Manual,10534,400000.0,11,Nagpur
+227,Hyundai Verna,Hyundai,2012,188719,Diesel,Auto,10534,245000.00000000003,14,Nagpur
+228,Honda Amaze,Honda,2020,30081,Petrol,Manual,8826,500000.0,6,Nagpur
+229,Ford Ecosport,Ford,2017,112227,Diesel,Manual,10010,450000.0,9,Nagpur
+230,Maruti Swift,Maruti,2014,45254,Petrol,Manual,11957,360000.0,12,Nagpur
+231,Maruti Celerio,Maruti,2017,53113,Petrol,Auto,6608,338000.0,9,Nagpur
+232,Hyundai i20,Hyundai,2010,82696,Petrol,Manual,6608,140000.0,16,Nagpur
+233,Maruti Celerio,Maruti,2016,95150,Petrol,Auto,6940,312000.0,10,Nagpur
+234,Ford Ecosport,Ford,2014,138000,Diesel,Manual,14122,300000.0,12,Nagpur
+235,Honda City,Honda,2014,77333,Petrol,Manual,11393,343000.0,12,Nagpur
+236,Mahindra Bolero,Mahindra,2020,125269,Diesel,Manual,17082,768000.0,6,Nagpur
+237,Mahindra TUV300,Mahindra,2016,143583,Diesel,Manual,12351,469000.00000000006,10,Nagpur
+238,Maruti Celerio,Maruti,2017,69067,Petrol,Auto,6745,345000.0,9,Nagpur
+239,Skoda Rapid,Skoda,2013,116770,Diesel,Manual,23723,267000.0,13,Nagpur
+240,Maruti Ritz,Maruti,2013,125866,Diesel,Manual,22390,252000.0,13,Nagpur
+241,Maruti Ritz,Maruti,2012,51204,Petrol,Manual,18214,204999.99999999997,14,Nagpur
+242,Maruti Ritz,Maruti,2016,72221,Petrol,Manual,5784,260000.0,10,Nagpur
+243,Honda WR-V,Honda,2017,92456,Diesel,Manual,11901,535000.0,9,Nagpur
+244,Maruti Dzire,Maruti,2023,53869,Petrol,Manual,11810,669000.0,3,Nagpur
+245,Ford Ecosport,Ford,2014,117697,Diesel,Manual,16523,351000.0,12,Nagpur
+246,Honda Jazz,Honda,2010,107395,Petrol,Manual,16523,150000.0,16,Nagpur
+247,Maruti Ciaz,Maruti,2019,49302,Petrol,Manual,10150,575000.0,7,Nagpur
+248,Tata NEXON,Tata,2019,91142,Diesel,Manual,8544,484000.0,7,Nagpur
+249,Maruti Eeco,Maruti,2012,66913,Petrol,Manual,23101,260000.0,14,Nagpur
+250,Renault TRIBER,Renault,2022,48500,Petrol,Manual,8826,500000.0,4,Nagpur
+251,Mahindra Bolero,Mahindra,2012,61450,Diesel,Manual,8826,236000.0,14,Nagpur
+252,Honda City,Honda,2014,120397,Diesel,Manual,17558,373000.0,12,Nagpur
+253,Hyundai Elite i20,Hyundai,2017,94825,Petrol,Manual,8270,423000.00000000006,9,Nagpur
+254,Ford Ecosport,Ford,2017,86162,Petrol,Manual,8993,459999.99999999994,9,Nagpur
+255,Hyundai Creta,Hyundai,2021,90308,Diesel,Manual,16420,959000.0,5,Nagpur
+256,CITROEN C3,CITROEN,2023,34284,Petrol,Manual,10062,570000.0,3,Nagpur
+257,Honda Jazz,Honda,2016,211797,Diesel,Manual,8558,325000.0,10,Nagpur
+258,Honda Jazz,Honda,2017,108750,Petrol,Manual,8008,360000.0,9,Nagpur
+259,Ford Ecosport,Ford,2018,115080,Diesel,Manual,14459,650000.0,8,Nagpur
+260,Toyota Glanza,Toyota,2020,49393,Petrol,Manual,9709,550000.0,6,Nagpur
+261,Maruti New Wagon-R,Maruti,2022,56859,Petrol,Auto,8650,490000.00000000006,4,Nagpur
+262,Maruti Alto K10,Maruti,2022,64674,Petrol,Manual,6443,365000.0,4,Nagpur
+263,Maruti Vitara Brezza,Maruti,2021,29932,Petrol,Manual,12357,700000.0,5,Nagpur
+264,Maruti Ciaz,Maruti,2014,50312,Petrol,Manual,12788,385000.0,12,Nagpur
+265,Hyundai Grand i10,Hyundai,2016,58406,Petrol,Manual,7652,344000.0,10,Nagpur
+266,Maruti Swift,Maruti,2021,34864,Petrol,Manual,10592,600000.0,5,Nagpur
+267,Maruti Celerio,Maruti,2020,102159,Petrol,Manual,8453,380000.0,6,Nagpur
+268,Mahindra BOLERO NEO,Mahindra,2021,58920,Diesel,Manual,15496,905000.0000000001,5,Nagpur
+269,Honda City,Honda,2015,58352,Petrol,Manual,11798,448000.00000000006,11,Nagpur
+270,Maruti Ertiga,Maruti,2014,116947,Diesel,Manual,26644,566000.0,12,Nagpur
+271,Mercedes Benz B Class,Mercedes,2013,150683,Diesel,Auto,31097,350000.0,13,Nagpur
+272,Maruti IGNIS,Maruti,2017,84215,Petrol,Manual,6667,341000.0,9,Nagpur
+273,Renault TRIBER,Renault,2024,10248,Petrol,Manual,10803,612000.0,2,Nagpur
+274,Maruti S PRESSO,Maruti,2020,47313,Petrol,Manual,6178,350000.0,6,Nagpur
+275,Maruti New Wagon-R,Maruti,2023,15970,Petrol,Manual,9003,509999.99999999994,3,Nagpur
+276,Hyundai GRAND I10 NIOS,Hyundai,2023,31424,Petrol,Manual,11121,630000.0,3,Nagpur
+277,Maruti Swift Dzire,Maruti,2014,102268,Diesel,Manual,17041,362000.0,12,Nagpur
+278,Maruti Swift Dzire,Maruti,2014,169108,Diesel,Manual,18123,385000.0,12,Nagpur
+279,Hyundai Creta,Hyundai,2016,96715,Diesel,Auto,19434,738000.0,10,Nagpur
+280,Nissan MAGNITE,Nissan,2021,58535,Petrol,Manual,10062,570000.0,5,Nagpur
+281,Maruti Wagon R 1.0,Maruti,2017,49167,Petrol,Manual,6843,350000.0,9,Nagpur
+282,Mahindra XUV500,Mahindra,2015,135174,Diesel,Manual,21091,635000.0,11,Nagpur
+283,Tata NEXON,Tata,2022,51074,Diesel,Manual,17979,1050000.0,4,Nagpur
+284,Hyundai Creta,Hyundai,2016,135566,Diesel,Manual,21041,799000.0,10,Nagpur
+285,Mahindra Scorpio,Mahindra,2013,221300,Diesel,Manual,40959,461000.00000000006,13,Nagpur
+286,Honda Amaze,Honda,2020,65596,Petrol,Manual,9268,525000.0,6,Nagpur
+287,Ford Ecosport,Ford,2014,180696,Diesel,Manual,17653,375000.0,12,Nagpur
+288,Maruti Dzire,Maruti,2023,14992,Petrol,Manual,12198,691000.0,3,Nagpur
+289,Mahindra XUV300,Mahindra,2020,115832,Diesel,Manual,21090,969999.9999999999,6,Nagpur
+290,Hyundai Elite i20,Hyundai,2015,46405,Petrol,Manual,10797,409999.99999999994,11,Nagpur
+291,Hyundai Verna,Hyundai,2011,138073,Petrol,Manual,10797,250000.0,15,Nagpur
+292,Maruti Celerio,Maruti,2022,104351,Petrol,Manual,10010,450000.0,4,Nagpur
+293,Maruti Celerio X,Maruti,2019,32221,Petrol,Auto,8050,455999.99999999994,7,Nagpur
+294,Maruti Dzire,Maruti,2017,52662,Petrol,Manual,9726,497000.0,9,Nagpur
+295,CITROEN C3,CITROEN,2023,34504,Petrol,Manual,8826,500000.0,3,Nagpur
+296,Mahindra XUV500,Mahindra,2020,112168,Diesel,Manual,28939,1331000.0,6,Nagpur
+297,Hyundai Creta,Hyundai,2017,65593,Petrol,Manual,12805,655000.0,9,Nagpur
+298,Maruti S Cross,Maruti,2017,94959,Diesel,Manual,12791,575000.0,9,Nagpur
+299,Maruti Ciaz,Maruti,2017,81685,Petrol,Manual,9208,471000.0,9,Nagpur
+300,Ford Ecosport,Ford,2013,105522,Diesel,Manual,28698,323000.0,13,Nagpur
+301,Maruti Baleno,Maruti,2018,35110,Petrol,Auto,10327,585000.0,8,Nagpur
+302,Mahindra XUV300,Mahindra,2023,12473,Petrol,Manual,12781,724000.0,3,Nagpur
+303,Hyundai Creta,Hyundai,2019,90348,Diesel,Manual,16095,940000.0,7,Nagpur
+304,Renault Lodgy,Renault,2015,98496,Diesel,Manual,11625,350000.0,11,Nagpur
+305,Renault TRIBER,Renault,2023,21042,Petrol,Manual,10415,590000.0,3,Nagpur
+306,Maruti Vitara Brezza,Maruti,2018,221254,Diesel,Manual,12234,550000.0,8,Nagpur
+307,Maruti Swift,Maruti,2011,16610,Petrol,Manual,12234,248000.0,15,Nagpur
+308,Hyundai Grand i10,Hyundai,2015,22061,Petrol,Manual,9217,350000.0,11,Nagpur
+309,Hyundai NEW I20,Hyundai,2022,22750,Petrol,Auto,13698,800000.0,4,Nagpur
+310,Mahindra XUV500,Mahindra,2012,138523,Diesel,Manual,13698,334000.0,14,Nagpur
+311,Renault Duster,Renault,2015,112253,Diesel,Manual,10629,320000.0,11,Nagpur
+312,Skoda KUSHAQ,Skoda,2023,36131,Petrol,Manual,16266,950000.0,3,Nagpur
+313,Renault Duster,Renault,2013,140922,Diesel,Manual,21146,238000.0,13,Nagpur
+314,Mahindra XUV700,Mahindra,2022,36713,Diesel,Manual,32190,1880000.0,4,Nagpur
+315,Tata NEXON,Tata,2021,62780,Petrol,Manual,13240,750000.0,5,Nagpur
+316,Maruti Vitara Brezza,Maruti,2020,34641,Petrol,Manual,12110,686000.0,6,Nagpur
+317,Maruti S PRESSO,Maruti,2021,80500,Petrol,Auto,7061,400000.0,5,Nagpur
+318,Hyundai Creta,Hyundai,2016,164009,Diesel,Manual,19092,725000.0,10,Nagpur
+319,Maruti Baleno,Maruti,2023,45918,Petrol,Manual,12357,700000.0,3,Nagpur
+320,Mahindra Thar,Mahindra,2021,74635,Diesel,Manual,21900,1279000.0,5,Nagpur
+321,MG ASTOR,MG,2022,23930,Petrol,Auto,22379,1307000.0,4,Nagpur
+322,Ford Ecosport,Ford,2017,147264,Diesel,Manual,11122,500000.0,9,Nagpur
+323,Honda Jazz,Honda,2016,81098,Petrol,Manual,8008,360000.0,10,Nagpur
+324,Maruti Dzire,Maruti,2022,23647,Petrol,Manual,12886,730000.0,4,Nagpur
+325,Mahindra XUV500,Mahindra,2013,98377,Diesel,Manual,26655,300000.0,13,Nagpur
+326,Mahindra Bolero,Mahindra,2012,71648,Diesel,Manual,26655,285000.0,14,Nagpur
+327,Maruti Baleno,Maruti,2017,135416,Petrol,Manual,9788,440000.00000000006,9,Nagpur
+328,Maruti Swift,Maruti,2023,47746,Petrol,Manual,9585,543000.0,3,Nagpur
+329,Hyundai NEW SANTRO,Hyundai,2019,85918,Petrol,Manual,6796,385000.0,7,Nagpur
+330,Ford Ecosport,Ford,2019,102375,Diesel,Manual,14459,650000.0,7,Nagpur
+331,Tata NEXON,Tata,2020,92511,Diesel,Manual,13593,770000.0,6,Nagpur
+332,Ford Endeavour,Ford,2011,101224,Diesel,Manual,13593,252999.99999999997,15,Nagpur
+333,Mahindra XUV500,Mahindra,2015,153107,Diesel,Manual,23084,695000.0,11,Nagpur
+334,Hyundai Grand i10,Hyundai,2016,200744,Petrol,Manual,7007,315000.0,10,Nagpur
+335,Volkswagen VIRTUS,Volkswagen,2023,36072,Petrol,Manual,24656,1440000.0,3,Nagpur
+336,Ford Figo,Ford,2015,47818,Petrol,Manual,6847,260000.0,11,Nagpur
+337,Audi A6,Audi,2015,89121,Diesel,Auto,28908,883000.0,11,Nagpur
+338,Maruti S Cross,Maruti,2018,119688,Diesel,Manual,12012,540000.0,8,Nagpur
+339,Mahindra XUV300,Mahindra,2022,101009,Diesel,Manual,18481,850000.0,4,Nagpur
+340,Renault Kwid,Renault,2022,45091,Petrol,Manual,7061,400000.0,4,Nagpur
+341,Hyundai AURA,Hyundai,2020,30366,Petrol,Auto,11298,640000.0,6,Nagpur
+342,Mahindra XUV500,Mahindra,2012,125853,Diesel,Manual,11298,320000.0,14,Nagpur
+343,Mahindra Thar,Mahindra,2015,96959,Diesel,Manual,17570,529000.0,11,Nagpur
+344,Toyota Innova Crysta,Toyota,2018,164584,Diesel,Manual,28048,1290000.0,8,Nagpur
+345,Hyundai Elite i20,Hyundai,2017,71765,Diesel,Manual,11434,513999.99999999994,9,Nagpur
+346,Tata Tiago,Tata,2023,63144,Petrol,Manual,8826,500000.0,3,Nagpur
+347,MG ASTOR,MG,2022,25500,Petrol,Manual,13869,810000.0,4,Nagpur
+348,Maruti Ciaz,Maruti,2018,60500,Petrol,Manual,9056,513000.0,8,Nagpur
+349,Maruti Swift Dzire,Maruti,2015,120753,Diesel,Manual,13751,413999.99999999994,11,Nagpur
+350,KIA SELTOS,KIA,2020,112051,Diesel,Manual,19568,900000.0,6,Nagpur
+351,Mahindra Kuv100,Mahindra,2017,116291,Diesel,Manual,6673,300000.0,9,Nagpur
+352,Mahindra XUV500,Mahindra,2015,140790,Diesel,Manual,21589,650000.0,11,Nagpur
+353,Renault TRIBER,Renault,2023,30316,Petrol,Manual,13204,748000.0,3,Nagpur
+354,Maruti Swift,Maruti,2023,19996,Petrol,Manual,11510,652000.0,3,Nagpur
+355,Maruti XL6,Maruti,2024,14577,Petrol,Manual,20547,1200000.0,2,Nagpur
+356,Maruti Ertiga,Maruti,2014,110257,Diesel,Manual,26408,561000.0,12,Nagpur
+357,Maruti Ertiga,Maruti,2016,166634,Diesel,Manual,15537,590000.0,10,Nagpur
+358,Hyundai Grand i10,Hyundai,2017,73989,Petrol,Manual,7820,400000.0,9,Nagpur
+359,KIA CARENS,KIA,2022,101820,Diesel,Manual,29352,1350000.0,4,Nagpur
+360,Hyundai Creta,Hyundai,2016,132523,Diesel,Manual,18302,695000.0,10,Nagpur
+361,MG HECTOR PLUS,MG,2023,26768,Petrol,Manual,28389,1657999.9999999998,3,Nagpur
+362,Ford Ecosport,Ford,2013,110796,Diesel,Manual,31719,357000.0,13,Nagpur
+363,Maruti Grand Vitara,Maruti,2023,42488,Petrol,Manual,17807,1040000.0,3,Nagpur
+364,Skoda KUSHAQ,Skoda,2022,19094,Petrol,Auto,16780,980000.0000000001,4,Nagpur
+365,Skoda Superb,Skoda,2013,158451,Diesel,Auto,29853,336000.0,13,Nagpur
+366,Honda Civic,Honda,2019,130168,Diesel,Manual,28265,1300000.0,7,Nagpur
+367,MG HECTOR,MG,2021,84433,Diesel,Manual,21831,1275000.0,5,Nagpur
+368,Hyundai Creta,Hyundai,2015,146063,Diesel,Auto,20427,615000.0,11,Nagpur
+369,Hyundai Creta,Hyundai,2024,9110,Diesel,Manual,21078,1231000.0,2,Nagpur
+370,MG HECTOR PLUS,MG,2024,8423,Petrol,Manual,32533,1900000.0,2,Nagpur
+371,BMW X1,BMW,2018,75589,Diesel,Auto,33310,1750000.0,8,Nagpur
+372,Honda City,Honda,2015,100255,Petrol,Manual,10481,398000.0,11,Nagpur
+373,Hyundai Elite i20,Hyundai,2016,68900,Petrol,Manual,9343,420000.0,10,Nagpur
+374,Hyundai GRAND I10 NIOS,Hyundai,2023,16867,Petrol,Manual,12233,693000.0,3,Nagpur
+375,Hyundai GRAND I10 NIOS,Hyundai,2021,75121,Petrol,Manual,10521,596000.0,5,Nagpur
+376,Ford Ecosport,Ford,2019,55823,Diesel,Manual,13063,740000.0,7,Nagpur
+377,Maruti Dzire,Maruti,2022,67637,Petrol,Manual,11492,651000.0,4,Nagpur
+378,Ford Ecosport,Ford,2019,32911,Petrol,Manual,10856,615000.0,7,Nagpur
+379,KIA SONET,KIA,2021,195099,Diesel,Manual,17394,800000.0,5,Nagpur
+380,BMW 3 Series,BMW,2014,89233,Diesel,Auto,39617,850000.0,12,Nagpur
+381,Hyundai Verna,Hyundai,2023,34629,Petrol,Manual,22944,1340000.0,3,Nagpur
+382,Maruti Ciaz,Maruti,2022,36000,Petrol,Manual,13698,800000.0,4,Nagpur
+383,Toyota HILUX,Toyota,2023,5884,Diesel,Auto,68490,4000000.0,3,Nagpur
+384,Ford Ecosport,Ford,2018,83600,Diesel,Manual,12708,650000.0,8,Nagpur
+385,Maruti Eeco,Maruti,2025,23921,Petrol,Manual,12092,685000.0,1,Nagpur
+386,Renault Duster,Renault,2013,160663,Diesel,Manual,22212,250000.0,13,Nagpur
+387,Tata NEXON,Tata,2017,119138,Diesel,Manual,12234,550000.0,9,Nagpur
+388,Maruti Vitara Brezza,Maruti,2019,53238,Diesel,Manual,11421,647000.0,7,Nagpur
+389,KIA SONET,KIA,2020,145058,Diesel,Manual,16683,750000.0,6,Nagpur
+390,Maruti Ertiga,Maruti,2013,105925,Diesel,Manual,40870,459999.99999999994,13,Nagpur
+391,Toyota URBAN CRUISER,Toyota,2021,48062,Petrol,Manual,14554,850000.0,5,Nagpur
+392,Ford Ecosport,Ford,2018,92813,Petrol,Auto,9709,550000.0,8,Nagpur
+393,Toyota Innova,Toyota,2010,159551,Diesel,Manual,9709,300000.0,16,Nagpur
+394,Skoda Rapid,Skoda,2014,113839,Diesel,Manual,14828,315000.0,12,Nagpur
+395,Maruti S Cross,Maruti,2015,116601,Diesel,Manual,16275,490000.00000000006,11,Nagpur
+396,Honda WR-V,Honda,2021,72401,Diesel,Manual,13698,800000.0,5,Nagpur
+397,Toyota Camry,Toyota,2024,23660,Hybrid,Auto,68182,3982000.0,2,Nagpur
+398,Ford Ecosport,Ford,2016,77372,Petrol,Auto,9565,430000.0,10,Nagpur
+399,Jeep Compass,Jeep,2018,99452,Diesel,Manual,19510,1025000.0,8,Nagpur
+400,Tata Hexa,Tata,2017,67963,Diesel,Manual,13903,625000.0,9,Nagpur
+401,Mitsubishi Pajero Sport,Mitsubishi,2014,132147,Diesel,Manual,23537,500000.0,12,Nagpur
+402,Maruti S Cross,Maruti,2015,170774,Diesel,Manual,16640,501000.0,11,Nagpur
+403,Hyundai Creta,Hyundai,2020,108721,Diesel,Auto,23917,1100000.0,6,Nagpur
+404,Tata Hexa,Tata,2018,50200,Diesel,Manual,15608,819999.9999999999,8,Nagpur
+405,Tata ALTROZ,Tata,2024,14296,Petrol,Manual,15239,890000.0,2,Nagpur
+406,Maruti Vitara Brezza,Maruti,2020,170306,Petrol,Manual,14459,650000.0,6,Nagpur
+407,Hyundai Creta,Hyundai,2018,70654,Diesel,Manual,18082,950000.0,8,Nagpur
+408,Mahindra XUV300,Mahindra,2021,76808,Petrol,Manual,15838,925000.0,5,Nagpur
+409,Mahindra Thar,Mahindra,2017,25041,Diesel,Manual,13569,610000.0,9,Nagpur
+410,MG HECTOR,MG,2019,72361,Diesel,Manual,17122,1000000.0,7,Nagpur
+411,Tata NEXON,Tata,2021,128000,Petrol,Manual,15571,700000.0,5,Nagpur
+412,MG HECTOR PLUS,MG,2021,33213,Petrol,Manual,18835,1100000.0,5,Nagpur
+413,Hyundai Creta,Hyundai,2021,82973,Diesel,Manual,23115,1350000.0,5,Nagpur
+414,Hyundai EXTER,Hyundai,2024,10419,Petrol,Auto,14554,850000.0,2,Nagpur
+415,Maruti Vitara Brezza,Maruti,2018,94966,Diesel,Manual,13001,665000.0,8,Nagpur
+416,Tata Safari,Tata,2021,93019,Diesel,Manual,24828,1450000.0,5,Nagpur
+417,MG HECTOR,MG,2023,17230,Diesel,Manual,26540,1550000.0,3,Nagpur
+418,KIA SELTOS,KIA,2019,155965,Diesel,Manual,24352,1120000.0,7,Nagpur
+419,KIA SELTOS,KIA,2023,32000,Diesel,Auto,27396,1600000.0,3,Nagpur
+420,Hyundai Creta,Hyundai,2021,49430,Petrol,Manual,17979,1050000.0,5,Nagpur
+421,Tata NEXON,Tata,2022,100166,Diesel,Manual,16683,750000.0,4,Nagpur
+422,Mahindra SCORPIO-N,Mahindra,2024,30225,Diesel,Manual,30649,1789999.9999999998,2,Nagpur
+423,Honda WR-V,Honda,2019,312660,Diesel,Manual,13347,600000.0,7,Nagpur
+424,KIA SONET,KIA,2022,54000,Petrol,Manual,16694,975000.0,4,Nagpur
+425,Maruti Baleno,Maruti,2024,24000,Petrol,Auto,15410,900000.0,2,Nagpur
+426,KIA SONET,KIA,2023,16135,Petrol,Manual,18150,1060000.0,3,Nagpur
+427,BMW X3,BMW,2018,51605,Diesel,Auto,50440,2650000.0,8,Nagpur
+428,KIA SONET,KIA,2021,46411,Diesel,Manual,17979,1050000.0,5,Nagpur
+429,Tata Safari,Tata,2021,64538,Diesel,Manual,29108,1700000.0,5,Nagpur
+430,Jeep Compass,Jeep,2021,92474,Petrol,Auto,34245,2000000.0,5,Nagpur
+431,Maruti Grand Vitara,Maruti,2023,48862,Petrol,Manual,16780,980000.0000000001,3,Nagpur
+432,Mahindra XUV500,Mahindra,2013,166776,Diesel,Manual,33318,375000.0,13,Nagpur
+433,Mercedes Benz GLA Class,Mercedes,2014,76705,Diesel,Auto,57328,1230000.0,12,Nagpur
+434,Honda CRV,Honda,2015,155707,Petrol,Auto,14484,550000.0,11,Nagpur
+435,Skoda Superb,Skoda,2019,64800,Petrol,Auto,28252,1650000.0,7,Nagpur
+436,Nissan Terrano,Nissan,2018,111069,Diesel,Manual,14459,650000.0,8,Nagpur
+437,KIA SONET,KIA,2022,64700,Diesel,Manual,15410,900000.0,4,Nagpur
+438,KIA SELTOS,KIA,2022,86478,Diesel,Auto,27910,1630000.0,4,Nagpur
+439,Renault Lodgy,Renault,2017,152701,Diesel,Manual,8898,400000.0,9,Nagpur
+440,Toyota Innova Crysta,Toyota,2020,206820,Diesel,Manual,38788,1784000.0,6,Nagpur
+441,Landrover Range Rover Evoque,Landrover,2018,146050,Diesel,Auto,57248,2633000.0,8,Nagpur
+442,Maruti Eeco,Maruti,2021,32427,Petrol,Manual,9391,532000.0,5,Nagpur
+443,Maruti JIMNY,Maruti,2023,44687,Petrol,Manual,18835,1100000.0,3,Nagpur
+444,Mercedes Benz GLA Class,Mercedes,2016,52044,Petrol,Auto,27961,1286000.0,10,Nagpur
+445,MG HECTOR,MG,2019,85840,Diesel,Manual,20204,1180000.0,7,Nagpur
+446,MG HECTOR,MG,2023,9973,Petrol,Manual,27327,1596000.0,3,Nagpur
+447,Mahindra SCORPIO CLASSIC,Mahindra,2023,91814,Diesel,Manual,20547,1200000.0,3,Nagpur
+448,MG HECTOR,MG,2021,83205,Diesel,Manual,22259,1300000.0,5,Nagpur
+449,Mercedes Benz C Class,Mercedes,2021,33258,Diesel,Auto,68490,4000000.0,5,Nagpur
+450,Toyota Innova Crysta,Toyota,2021,66926,Diesel,Manual,30820,1800000.0,5,Nagpur
+451,Tata NEXON EV,Tata,2023,40012,Electric,Auto,20547,1200000.0,3,Nagpur
+452,Tata TIAGO EV,Tata,2023,37000,Electric,Auto,12357,700000.0,3,Nagpur
+453,Mahindra ALTURAS G4,Mahindra,2018,125101,Diesel,Auto,33701,1550000.0,8,Nagpur
+454,Hyundai ALCAZAR,Hyundai,2021,132856,Diesel,Auto,31527,1450000.0,5,Nagpur
+455,Tata NEXON EV,Tata,2022,27976,Electric,Auto,20376,1190000.0,4,Nagpur
+456,Hyundai Creta,Hyundai,2024,23809,Petrol,Auto,30820,1800000.0,2,Nagpur
+457,Mahindra E VERITO,Mahindra,2019,67195,Electric,Auto,11474,650000.0,7,Nagpur
+458,Tata Harrier,Tata,2021,70728,Diesel,Auto,31677,1850000.0,5,Nagpur
+459,Mahindra XUV400,Mahindra,2024,40200,Electric,Auto,23629,1380000.0,2,Nagpur
+460,Jeep Compass,Jeep,2021,75298,Diesel,Manual,23115,1350000.0,5,Nagpur
+461,Tata PUNCH EV,Tata,2024,23577,Electric,Auto,21403,1250000.0,2,Nagpur
+462,Maruti Wagon R 1.0,Maruti,2017,42211,Petrol,Auto,6354,325000.0,9,Nagpur
+463,Ford Ecosport,Ford,2015,131127,Diesel,Manual,12987,391000.0,11,Nagpur
+464,Mitsubishi Outlander,Mitsubishi,2019,79857,Petrol,Auto,17122,1000000.0,7,Nagpur
+465,Hyundai Xcent,Hyundai,2016,133542,Diesel,Manual,7373,280000.0,10,Nagpur
+466,Hyundai GRAND I10 NIOS,Hyundai,2020,35713,Petrol,Manual,9109,516000.0,6,Nagpur
+467,Hyundai Verna,Hyundai,2012,171615,Diesel,Manual,9109,275000.0,14,Nagpur
+468,Maruti Dzire,Maruti,2019,86085,Petrol,Manual,9356,530000.0,7,Nagpur
+469,Mahindra Thar,Mahindra,2024,11670,Petrol,Auto,22242,1299000.0,2,Nagpur
+470,Maruti Ciaz,Maruti,2016,82305,Petrol,Auto,9432,424000.0,10,Nagpur
+471,Maruti Baleno,Maruti,2017,76586,Petrol,Manual,8798,450000.0,9,Nagpur
+472,Tata ALTROZ,Tata,2023,50773,Petrol,Manual,14212,830000.0000000001,3,Nagpur
+473,Tata Nano,Tata,2015,52858,Petrol,Manual,2238,85000.0,11,Nagpur
+474,Hyundai EXTER,Hyundai,2024,72328,Petrol,Manual,14811,865000.0,2,Nagpur
+475,Renault Kiger,Renault,2022,43007,Petrol,Manual,10539,597000.0,4,Nagpur
+476,Maruti Swift,Maruti,2022,286332,Petrol,Auto,10010,450000.0,4,Nagpur
+477,Hyundai New Elantra,Hyundai,2012,122923,Diesel,Manual,10010,318000.0,14,Nagpur
+478,Renault Duster,Renault,2012,146698,Diesel,Manual,10010,193000.0,14,Nagpur
+479,Maruti Swift,Maruti,2013,122900,Diesel,Manual,25944,292000.0,13,Nagpur
+480,Volkswagen Polo,Volkswagen,2014,116878,Diesel,Manual,12569,267000.0,12,Nagpur
+481,Maruti Baleno,Maruti,2016,53995,Petrol,Manual,7941,357000.0,10,Nagpur
+482,Hyundai i10,Hyundai,2015,50108,Petrol,Manual,6583,250000.0,11,Nagpur
+483,Honda Brio,Honda,2015,57196,Petrol,Manual,7208,274000.0,11,Nagpur

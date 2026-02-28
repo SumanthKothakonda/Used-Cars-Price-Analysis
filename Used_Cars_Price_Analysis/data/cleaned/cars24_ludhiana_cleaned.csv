@@ -1,0 +1,120 @@
+,car_name,brand,year_of_manufacture,kms_driven,fuel_type,transmission_type,emi,price,car_age_years,city
+0,Renault Fluence,Renault,2012,230179,Diesel,Manual,11338,160000.0,14,Ludhiana
+1,KIA SONET,KIA,2021,61710,Petrol,Manual,9003,509999.99999999994,5,Ludhiana
+2,Mahindra KUV 100 NXT,Mahindra,2018,73442,Diesel,Manual,4555,233000.0,8,Ludhiana
+3,Maruti Swift,Maruti,2012,228793,Diesel,Manual,4555,188000.0,14,Ludhiana
+4,Tata Tiago,Tata,2017,100940,Diesel,Manual,4382,197000.0,9,Ludhiana
+5,Renault Duster,Renault,2014,132970,Diesel,Manual,10780,229000.0,12,Ludhiana
+6,Hyundai Grand i10,Hyundai,2014,122180,Diesel,Manual,7626,162000.0,12,Ludhiana
+7,Volkswagen Ameo,Volkswagen,2017,80129,Diesel,Auto,6896,310000.0,9,Ludhiana
+8,Maruti Baleno,Maruti,2016,25024,Petrol,Manual,7697,346000.0,10,Ludhiana
+9,Hyundai Verna,Hyundai,2012,123721,Diesel,Manual,7697,285000.0,14,Ludhiana
+10,Maruti Swift Dzire,Maruti,2012,136701,Diesel,Manual,7697,222000.00000000003,14,Ludhiana
+11,Toyota Etios,Toyota,2013,159607,Diesel,Manual,22034,248000.0,13,Ludhiana
+12,Hyundai Elite i20,Hyundai,2015,86970,Petrol,Manual,8716,331000.0,11,Ludhiana
+13,Maruti Ciaz,Maruti,2018,74303,Diesel,Manual,8798,450000.0,8,Ludhiana
+14,Skoda Rapid,Skoda,2012,99995,Diesel,Manual,8798,174000.0,14,Ludhiana
+15,Maruti Ritz,Maruti,2013,57767,Petrol,Manual,7391,157000.0,13,Ludhiana
+16,Toyota Glanza,Toyota,2020,46911,Petrol,Manual,7944,450000.0,6,Ludhiana
+17,Maruti Ritz,Maruti,2014,135788,Diesel,Manual,10827,229999.99999999997,12,Ludhiana
+18,Volkswagen Vento,Volkswagen,2012,81085,Petrol,Manual,11195,126000.0,14,Ludhiana
+19,Maruti Baleno,Maruti,2020,18330,Petrol,Manual,8703,493000.0,6,Ludhiana
+20,Mahindra Kuv100,Mahindra,2017,55085,Diesel,Manual,3893,175000.0,9,Ludhiana
+21,Maruti Swift,Maruti,2017,105690,Petrol,Manual,8008,360000.0,9,Ludhiana
+22,Hyundai i10,Hyundai,2011,152750,Petrol,Manual,8008,92000.0,15,Ludhiana
+23,Volkswagen Polo,Volkswagen,2011,65329,Petrol,Manual,8008,168000.0,15,Ludhiana
+24,Ford Fiesta,Ford,2011,82143,Petrol,Manual,8008,77000.0,15,Ludhiana
+25,Ford Endeavour,Ford,2017,214514,Diesel,Auto,33527,1542000.0,9,Ludhiana
+26,Hyundai Elite i20,Hyundai,2014,143933,Diesel,Manual,16005,340000.0,12,Ludhiana
+27,Honda City,Honda,2014,141751,Diesel,Manual,13228,281000.0,12,Ludhiana
+28,Hyundai Verna,Hyundai,2012,218094,Diesel,Manual,13228,322000.0,14,Ludhiana
+29,Renault Duster,Renault,2013,118969,Diesel,Manual,15371,173000.0,13,Ludhiana
+30,Mahindra Thar,Mahindra,2024,160250,Petrol,Manual,29287,1347000.0,2,Ludhiana
+31,Maruti Ertiga,Maruti,2014,156892,Diesel,Manual,16476,350000.0,12,Ludhiana
+32,Honda Amaze,Honda,2015,123343,Diesel,Manual,8005,241000.0,11,Ludhiana
+33,Hyundai Creta,Hyundai,2015,138719,Diesel,Manual,16076,484000.0,11,Ludhiana
+34,Hyundai Verna,Hyundai,2011,74777,Petrol,Manual,16076,197000.0,15,Ludhiana
+35,Chevrolet Sail UVA,Chevrolet,2014,120561,Diesel,Manual,5319,112999.99999999999,12,Ludhiana
+36,Volvo S60,Volvo,2013,121433,Diesel,Auto,37050,417000.0,13,Ludhiana
+37,Ford Ecosport,Ford,2018,122021,Diesel,Manual,9521,428000.0,8,Ludhiana
+38,Hyundai i20,Hyundai,2014,214016,Diesel,Manual,13463,286000.0,12,Ludhiana
+39,Mahindra XUV500,Mahindra,2013,115513,Diesel,Manual,25944,292000.0,13,Ludhiana
+40,Mahindra MARAZZO,Mahindra,2019,30093,Diesel,Manual,14554,850000.0,7,Ludhiana
+41,Maruti Alto,Maruti,2011,0,Petrol,Manual,14554,97000.0,15,Ludhiana
+42,Hyundai NEW I20,Hyundai,2022,46525,Petrol,Manual,10415,590000.0,4,Ludhiana
+43,Maruti S PRESSO,Maruti,2021,8762,Petrol,Manual,6549,371000.0,5,Ludhiana
+44,Maruti Wagon R 1.0,Maruti,2011,111327,Petrol,Manual,6549,151000.0,15,Ludhiana
+45,KIA CARENS,KIA,2022,76189,Diesel,Auto,22311,1303000.0,4,Ludhiana
+46,Renault Duster,Renault,2013,91772,Diesel,Manual,18925,213000.0,13,Ludhiana
+47,Maruti Swift Dzire,Maruti,2013,106556,Diesel,Manual,27099,305000.0,13,Ludhiana
+48,MG ASTOR,MG,2022,14895,Petrol,Manual,17807,1040000.0,4,Ludhiana
+49,Toyota Etios Liva,Toyota,2011,81146,Petrol,Manual,17807,154000.0,15,Ludhiana
+50,Ford Figo Aspire,Ford,2018,113942,Diesel,Manual,6673,300000.0,8,Ludhiana
+51,Tata NEXON,Tata,2021,115132,Diesel,Manual,13814,621000.0,5,Ludhiana
+52,Mahindra XUV300,Mahindra,2022,17086,Petrol,Manual,14468,844999.9999999999,4,Ludhiana
+53,Honda City,Honda,2018,47969,Petrol,Auto,10380,588000.0,8,Ludhiana
+54,Mahindra XUV700,Mahindra,2021,35569,Petrol,Auto,25684,1500000.0,5,Ludhiana
+55,Tata TIGOR,Tata,2022,165000,Petrol,Manual,13992,629000.0,4,Ludhiana
+56,Mahindra XUV500,Mahindra,2018,51902,Diesel,Auto,16464,865000.0,8,Ludhiana
+57,Volkswagen TAIGUN,Volkswagen,2021,27000,Petrol,Auto,16266,950000.0,5,Ludhiana
+58,Maruti Vitara Brezza,Maruti,2017,172682,Diesel,Manual,13347,600000.0,9,Ludhiana
+59,Hyundai GRAND I10 NIOS,Hyundai,2020,45157,Petrol,Manual,7944,450000.0,6,Ludhiana
+60,Renault Duster,Renault,2016,134329,Diesel,Manual,9875,375000.0,10,Ludhiana
+61,KIA CARENS,KIA,2023,31326,Petrol,Auto,23749,1387000.0,3,Ludhiana
+62,Maruti Baleno,Maruti,2019,66157,Petrol,Manual,8297,470000.0,7,Ludhiana
+63,Hyundai NEW I20,Hyundai,2023,14658,Petrol,Manual,11457,649000.0,3,Ludhiana
+64,Maruti Baleno,Maruti,2023,13343,Petrol,Auto,15016,877000.0,3,Ludhiana
+65,Toyota Innova Crysta,Toyota,2017,110000,Diesel,Manual,22830,1050000.0,9,Ludhiana
+66,Landrover Freelander,Landrover,2015,99625,Diesel,Auto,20925,630000.0,11,Ludhiana
+67,KIA SELTOS,KIA,2024,8962,Petrol,Manual,19639,1147000.0,2,Ludhiana
+68,Audi A4,Audi,2013,52605,Diesel,Auto,46468,523000.00000000006,13,Ludhiana
+69,Mahindra Thar,Mahindra,2018,50055,Diesel,Manual,11990,539000.0,8,Ludhiana
+70,Hyundai VENUE,Hyundai,2022,33978,Petrol,Manual,13416,760000.0,4,Ludhiana
+71,Ford Ecosport,Ford,2019,39859,Petrol,Auto,11474,650000.0,7,Ludhiana
+72,Honda Amaze,Honda,2021,41558,Petrol,Manual,10486,594000.0,5,Ludhiana
+73,Hyundai Creta,Hyundai,2021,56211,Diesel,Manual,16609,969999.9999999999,5,Ludhiana
+74,Hyundai GRAND I10 NIOS,Hyundai,2023,15901,Petrol,Manual,11510,652000.0,3,Ludhiana
+75,Volkswagen VIRTUS,Volkswagen,2023,39571,Petrol,Auto,21626,1263000.0,3,Ludhiana
+76,KIA SELTOS,KIA,2023,41507,Petrol,Manual,18715,1093000.0,3,Ludhiana
+77,Hyundai Creta,Hyundai,2016,121858,Diesel,Manual,17117,650000.0,10,Ludhiana
+78,Hyundai Creta,Hyundai,2022,55276,Diesel,Auto,25136,1468000.0,4,Ludhiana
+79,Ford Ecosport,Ford,2020,84347,Diesel,Manual,11686,662000.0,6,Ludhiana
+80,KIA CARENS,KIA,2022,60500,Petrol,Manual,16146,943000.0,4,Ludhiana
+81,Ford Ecosport,Ford,2019,132162,Diesel,Manual,11100,499000.0,7,Ludhiana
+82,Tata Hexa,Tata,2017,106622,Diesel,Manual,12902,580000.0,9,Ludhiana
+83,Hyundai VENUE,Hyundai,2021,39512,Diesel,Manual,14605,852999.9999999999,5,Ludhiana
+84,Skoda SLAVIA,Skoda,2022,54829,Petrol,Auto,26026,1520000.0,4,Ludhiana
+85,MG HECTOR PLUS,MG,2022,37991,Diesel,Manual,28886,1687000.0,4,Ludhiana
+86,Maruti Ertiga,Maruti,2023,17357,Petrol,Manual,14126,825000.0,3,Ludhiana
+87,Toyota Innova Crysta,Toyota,2022,143102,Petrol,Manual,41854,1925000.0,4,Ludhiana
+88,KIA SELTOS,KIA,2019,57582,Diesel,Auto,15838,925000.0,7,Ludhiana
+89,Honda Mobilio,Honda,2014,181049,Petrol,Manual,10928,329000.0,12,Ludhiana
+90,Hyundai Creta,Hyundai,2018,133193,Diesel,Auto,19351,890000.0,8,Ludhiana
+91,Mahindra XUV300,Mahindra,2023,26311,Petrol,Manual,18133,1059000.0,3,Ludhiana
+92,Hyundai Creta,Hyundai,2018,89452,Diesel,Manual,15722,826000.0,8,Ludhiana
+93,Audi Q5,Audi,2015,56532,Diesel,Auto,44263,1352000.0,11,Ludhiana
+94,Mercedes Benz E Class,Mercedes,2017,72694,Diesel,Auto,50899,2341000.0,9,Ludhiana
+95,MG ASTOR,MG,2021,29391,Petrol,Auto,17979,1050000.0,5,Ludhiana
+96,KIA SELTOS,KIA,2020,73123,Petrol,Manual,15581,910000.0,6,Ludhiana
+97,Volkswagen VIRTUS,Volkswagen,2023,35556,Petrol,Manual,17979,1050000.0,3,Ludhiana
+98,Honda City,Honda,2024,27518,Petrol,Auto,22293,1302000.0,2,Ludhiana
+99,Toyota Innova Crysta,Toyota,2022,40508,Petrol,Auto,25684,1500000.0,4,Ludhiana
+100,Audi Q3,Audi,2017,88089,Diesel,Auto,25004,1150000.0,9,Ludhiana
+101,Tata Harrier,Tata,2024,23113,Diesel,Auto,35495,2073000.0,2,Ludhiana
+102,Ford Endeavour,Ford,2020,100030,Diesel,Auto,59792,2750000.0,6,Ludhiana
+103,Honda CRV,Honda,2015,169770,Petrol,Auto,19513,741000.0,11,Ludhiana
+104,Jeep Compass,Jeep,2022,80215,Diesel,Auto,28252,1650000.0,4,Ludhiana
+105,Jeep Compass,Jeep,2021,54644,Diesel,Manual,26540,1550000.0,5,Ludhiana
+106,Volvo XC 90,Volvo,2017,118067,Diesel,Auto,61596,2833000.0,9,Ludhiana
+107,Ford Endeavour,Ford,2017,127179,Diesel,Auto,36745,1689999.9999999998,9,Ludhiana
+108,Volkswagen VIRTUS,Volkswagen,2023,45686,Petrol,Auto,21711,1268000.0,3,Ludhiana
+109,Volkswagen VIRTUS,Volkswagen,2024,4043,Petrol,Manual,23441,1369000.0,2,Ludhiana
+110,Hyundai ALCAZAR,Hyundai,2021,136654,Diesel,Auto,23917,1100000.0,5,Ludhiana
+111,BYD ATTO 3,BYD,2022,25226,Electric,Auto,43200,2523000.0,4,Ludhiana
+112,Jeep MERIDIAN,Jeep,2023,56238,Diesel,Auto,51265,2994000.0,3,Ludhiana
+113,Toyota Innova Crysta,Toyota,2019,159380,Diesel,Auto,33701,1550000.0,7,Ludhiana
+114,Ford Ecosport,Ford,2019,132494,Diesel,Manual,11189,503000.0,7,Ludhiana
+115,Renault Kwid,Renault,2017,47682,Petrol,Manual,3734,191000.0,9,Ludhiana
+116,Ford Endeavour,Ford,2012,121317,Diesel,Manual,3734,291000.0,14,Ludhiana
+117,Audi Q3,Audi,2017,147635,Diesel,Auto,26787,1232000.0,9,Ludhiana
+118,Maruti Zen Estilo,Maruti,2013,54945,Petrol,Manual,5366,113999.99999999999,13,Ludhiana

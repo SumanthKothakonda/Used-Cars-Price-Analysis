@@ -1,0 +1,18 @@
+# Data Processing
+numpy
+pandas
+
+# Web Scraping
+selenium
+beautifulsoup4
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Database Connectivity (for SQL integration)
+MS SQL Server
+
+# Jupyter Environment
+notebook
+ipykernel

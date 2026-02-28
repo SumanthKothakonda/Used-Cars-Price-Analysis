@@ -1,0 +1,489 @@
+,car_name,brand,year_of_manufacture,kms_driven,fuel_type,transmission_type,emi,price,car_age_years,city
+0,Maruti Alto K10,Maruti,2018,46484,Petrol,Manual,4596,260000.0,8,Lucknow
+1,Tata Harrier,Tata,2020,73584,Diesel,Manual,20341,1188000.0,6,Lucknow
+2,Maruti Celerio,Maruti,2016,134515,Petrol,Manual,4791,215000.0,10,Lucknow
+3,Honda Amaze,Honda,2019,33734,Petrol,Manual,7810,442000.0,7,Lucknow
+4,Nissan MAGNITE,Nissan,2021,57284,Petrol,Manual,7719,437000.0,5,Lucknow
+5,MG ASTOR,MG,2023,59431,Petrol,Manual,11456,649000.0,3,Lucknow
+6,Tata NEXON,Tata,2021,122091,Petrol,Manual,15571,700000.0,5,Lucknow
+7,Toyota Urban Cruiser Taisor,Toyota,2024,9383,Petrol,Auto,16609,969999.9999999999,2,Lucknow
+8,Maruti Wagon R 1.0,Maruti,2013,74525,CNG,Manual,16609,191000.0,13,Lucknow
+9,Tata NEXON,Tata,2023,71698,Diesel,Manual,16780,980000.0000000001,3,Lucknow
+10,Hyundai Creta,Hyundai,2021,27201,Petrol,Manual,17203,1005000.0000000001,5,Lucknow
+11,Skoda KUSHAQ,Skoda,2022,29310,Petrol,Auto,18797,1098000.0,4,Lucknow
+12,Mahindra Thar,Mahindra,2023,82278,Diesel,Manual,18578,1085000.0,3,Lucknow
+13,Hyundai Elite i20,Hyundai,2019,64596,Petrol,Manual,6620,375000.0,7,Lucknow
+14,Renault Kiger,Renault,2022,58045,Petrol,Manual,9974,565000.0,4,Lucknow
+15,Hyundai i10,Hyundai,2014,39040,Petrol,Manual,6085,183000.0,12,Lucknow
+16,Maruti Vitara Brezza,Maruti,2020,33233,Petrol,Manual,8752,496000.0,6,Lucknow
+17,Hyundai Verna,Hyundai,2019,67455,Diesel,Manual,12357,700000.0,7,Lucknow
+18,Nissan MAGNITE,Nissan,2021,59274,Petrol,Manual,7061,400000.0,5,Lucknow
+19,Renault Kwid,Renault,2020,97788,Petrol,Manual,3490,198000.0,6,Lucknow
+20,Renault Kwid,Renault,2020,51299,Petrol,Manual,3884,220000.00000000003,6,Lucknow
+21,Nissan Kicks,Nissan,2021,48055,Petrol,Auto,13240,750000.0,5,Lucknow
+22,KIA CARENS,KIA,2022,35514,Petrol,Manual,14476,844999.9999999999,4,Lucknow
+23,Tata Tiago,Tata,2018,38194,Petrol,Manual,4939,280000.0,8,Lucknow
+24,Tata NEXON,Tata,2024,88371,CNG,Manual,12269,695000.0,2,Lucknow
+25,Mahindra Scorpio,Mahindra,2019,57161,Diesel,Manual,13955,815000.0,7,Lucknow
+26,Maruti Alto K10,Maruti,2019,55599,Petrol,Manual,4844,274000.0,7,Lucknow
+27,Mahindra Bolero,Mahindra,2020,92722,Diesel,Manual,10239,580000.0,6,Lucknow
+28,Hyundai Elite i20,Hyundai,2019,94878,Diesel,Manual,7238,409999.99999999994,7,Lucknow
+29,Tata PUNCH,Tata,2023,40387,Petrol,Manual,10286,583000.0,3,Lucknow
+30,Hyundai Creta,Hyundai,2017,64079,Diesel,Manual,13452,605000.0,9,Lucknow
+31,Renault Kwid,Renault,2016,56486,Petrol,Manual,4053,182000.0,10,Lucknow
+32,Maruti Baleno,Maruti,2020,110260,Petrol,Manual,8787,395000.0,6,Lucknow
+33,Hyundai Verna,Hyundai,2021,73833,Petrol,Manual,14101,799000.0,5,Lucknow
+34,KIA SELTOS,KIA,2022,94697,Petrol,Manual,15353,897000.0000000001,4,Lucknow
+35,Toyota Fortuner,Toyota,2018,138526,Diesel,Manual,37614,1730000.0,8,Lucknow
+36,Mahindra XUV300,Mahindra,2019,84136,Diesel,Manual,8826,500000.0,7,Lucknow
+37,Mahindra XUV500,Mahindra,2020,111960,Diesel,Manual,14228,640000.0,6,Lucknow
+38,Maruti Wagon R 1.0,Maruti,2017,30550,Petrol,Manual,5471,280000.0,9,Lucknow
+39,Tata Zest,Tata,2017,70061,CNG,Manual,6420,244000.0,9,Lucknow
+40,Hyundai Grand i10,Hyundai,2013,81992,Petrol,Manual,7934,169000.0,13,Lucknow
+41,Maruti Swift,Maruti,2015,79433,Diesel,Manual,9400,283000.0,11,Lucknow
+42,Hyundai i10,Hyundai,2013,34407,Petrol,Manual,7249,154000.0,13,Lucknow
+43,Nissan MAGNITE,Nissan,2021,54497,Petrol,Manual,7414,420000.0,5,Lucknow
+44,Mahindra KUV 100 NXT,Mahindra,2017,98096,Diesel,Manual,5633,252999.99999999997,9,Lucknow
+45,Maruti Wagon R 1.0,Maruti,2013,18557,Petrol,Manual,9838,209000.0,13,Lucknow
+46,Maruti Dzire,Maruti,2019,70824,Petrol,Manual,8209,465000.00000000006,7,Lucknow
+47,Maruti Dzire,Maruti,2023,68546,Petrol,Auto,10415,590000.0,3,Lucknow
+48,Maruti Swift Dzire,Maruti,2013,91432,Petrol,Manual,10760,229000.0,13,Lucknow
+49,Hyundai GRAND I10 NIOS,Hyundai,2022,71430,CNG,Manual,8473,480000.0,4,Lucknow
+50,Tata TIGOR,Tata,2021,40862,Petrol,Manual,8205,465000.00000000006,5,Lucknow
+51,Maruti Alto 800,Maruti,2015,39084,Petrol,Manual,4450,169000.0,11,Lucknow
+52,Tata Tiago,Tata,2023,16043,CNG,Manual,9273,525000.0,3,Lucknow
+53,Maruti Swift,Maruti,2015,37162,Petrol,Manual,7499,285000.0,11,Lucknow
+54,Maruti Baleno,Maruti,2017,111080,Petrol,Manual,7897,355000.0,9,Lucknow
+55,Renault Kiger,Renault,2021,88074,Petrol,Manual,8492,480999.99999999994,5,Lucknow
+56,Tata Tiago,Tata,2017,54944,Petrol,Manual,5104,261000.0,9,Lucknow
+57,Hyundai Elite i20,Hyundai,2015,98620,Petrol,Manual,8037,305000.0,11,Lucknow
+58,Jeep Compass,Jeep,2018,90015,Petrol,Auto,11457,649000.0,8,Lucknow
+59,Maruti Swift Dzire,Maruti,2017,61200,Petrol,Manual,7751,396000.0,9,Lucknow
+60,Honda City,Honda,2021,95752,Petrol,Auto,13946,790000.0,5,Lucknow
+61,Hyundai Grand i10,Hyundai,2019,21783,Petrol,Manual,6178,350000.0,7,Lucknow
+62,Toyota Etios Liva,Toyota,2013,127795,Diesel,Manual,19101,215000.0,13,Lucknow
+63,Hyundai Grand i10,Hyundai,2018,95648,Petrol,Manual,5472,310000.0,8,Lucknow
+64,Hyundai Grand i10,Hyundai,2017,71876,Petrol,Manual,6745,345000.0,9,Lucknow
+65,Maruti IGNIS,Maruti,2023,10586,Petrol,Manual,7879,446000.0,3,Lucknow
+66,Hyundai Eon,Hyundai,2018,72447,Petrol,Manual,3652,206999.99999999997,8,Lucknow
+67,Maruti Grand Vitara,Maruti,2022,21633,Petrol,Manual,19326,1129000.0,4,Lucknow
+68,Nissan MAGNITE,Nissan,2020,35638,Petrol,Manual,8563,484999.99999999994,6,Lucknow
+69,Maruti Celerio,Maruti,2016,31491,Petrol,Auto,6228,280000.0,10,Lucknow
+70,Hyundai NEW SANTRO,Hyundai,2022,23104,Petrol,Manual,6796,385000.0,4,Lucknow
+71,Honda Amaze,Honda,2016,67524,Petrol,Manual,7092,319000.0,10,Lucknow
+72,Mahindra KUV 100 NXT,Mahindra,2017,84353,Diesel,Manual,7012,315000.0,9,Lucknow
+73,Mahindra XUV500,Mahindra,2017,99718,Diesel,Manual,11324,509000.0,9,Lucknow
+74,Maruti Alto 800,Maruti,2017,17341,Petrol,Manual,4203,215000.0,9,Lucknow
+75,Hyundai Grand i10,Hyundai,2014,63329,Petrol,Manual,7141,215000.0,12,Lucknow
+76,Hyundai Grand i10,Hyundai,2018,77374,Petrol,Manual,5737,325000.0,8,Lucknow
+77,Maruti Alto 800,Maruti,2018,49031,Petrol,Manual,4057,229999.99999999997,8,Lucknow
+78,MG HECTOR,MG,2021,90022,Diesel,Manual,14118,800000.0,5,Lucknow
+79,Hyundai Creta,Hyundai,2021,59578,Diesel,Auto,19691,1150000.0,5,Lucknow
+80,Maruti Swift Dzire,Maruti,2014,52245,Petrol,Manual,9471,285000.0,12,Lucknow
+81,Honda Amaze,Honda,2017,28471,Petrol,Manual,6843,350000.0,9,Lucknow
+82,Maruti Baleno,Maruti,2019,30401,Petrol,Manual,8297,470000.0,7,Lucknow
+83,Maruti Wagon R 1.0,Maruti,2013,39024,Petrol,Manual,9650,204999.99999999997,13,Lucknow
+84,Toyota Innova Crysta,Toyota,2021,102341,Diesel,Manual,45550,2095000.0,5,Lucknow
+85,KIA CARENS,KIA,2022,29070,Petrol,Manual,20637,1205000.0,4,Lucknow
+86,Tata NEXON,Tata,2024,10480,Petrol,Auto,16193,946000.0000000001,2,Lucknow
+87,Toyota URBAN CRUISER HYRYDER,Toyota,2023,28770,Petrol,Auto,20889,1220000.0,3,Lucknow
+88,Renault Kwid,Renault,2022,49984,Petrol,Auto,6090,345000.0,4,Lucknow
+89,Maruti Swift,Maruti,2022,61509,Petrol,Auto,11651,660000.0,4,Lucknow
+90,Tata NEXON,Tata,2022,60449,Petrol,Manual,12622,715000.0,4,Lucknow
+91,Nissan MAGNITE,Nissan,2021,25867,Petrol,Manual,9375,531000.0,5,Lucknow
+92,Honda WR-V,Honda,2017,97195,Diesel,Manual,10010,450000.0,9,Lucknow
+93,Honda BR-V,Honda,2016,56981,Diesel,Manual,11324,430000.0,10,Lucknow
+94,Renault Kwid,Renault,2022,20835,Petrol,Auto,6973,395000.0,4,Lucknow
+95,Maruti New Wagon-R,Maruti,2023,37857,Petrol,Manual,7767,440000.00000000006,3,Lucknow
+96,KIA SONET,KIA,2025,6189,Petrol,Auto,18321,1070000.0,1,Lucknow
+97,Jeep Compass,Jeep,2019,63948,Petrol,Auto,12972,735000.0,7,Lucknow
+98,Maruti New Wagon-R,Maruti,2021,53245,Petrol,Manual,7149,405000.0,5,Lucknow
+99,Maruti Grand Vitara,Maruti,2023,35536,Petrol,Manual,20033,1170000.0,3,Lucknow
+100,Hyundai EXTER,Hyundai,2024,27625,Petrol,Auto,12007,680000.0,2,Lucknow
+101,Mahindra XUV300,Mahindra,2021,79822,Diesel,Auto,13413,760000.0,5,Lucknow
+102,Toyota Urban Cruiser Taisor,Toyota,2024,3060,Petrol,Manual,15328,894999.9999999999,2,Lucknow
+103,MG HECTOR,MG,2019,93052,Petrol,Manual,14982,875000.0,7,Lucknow
+104,Hyundai VENUE,Hyundai,2022,47327,Diesel,Manual,13754,779000.0,4,Lucknow
+105,KIA SONET,KIA,2021,43130,Petrol,Manual,11814,669000.0,5,Lucknow
+106,Mahindra BOLERO NEO,Mahindra,2023,37997,Diesel,Manual,14642,855000.0000000001,3,Lucknow
+107,Maruti Celerio,Maruti,2020,130376,Petrol,Manual,8060,362000.0,6,Lucknow
+108,Toyota YARIS,Toyota,2021,44822,Petrol,Manual,9870,559000.0,5,Lucknow
+109,Hyundai Elite i20,Hyundai,2018,47319,Petrol,Manual,8137,461000.00000000006,8,Lucknow
+110,Volkswagen Polo,Volkswagen,2013,101256,Diesel,Manual,12172,137000.0,13,Lucknow
+111,Renault Kwid,Renault,2020,35329,Petrol,Auto,6161,349000.0,6,Lucknow
+112,Tata NEXON,Tata,2024,11475,Petrol,Manual,18201,1063000.0,2,Lucknow
+113,Maruti Dzire,Maruti,2022,187304,Petrol,Manual,13102,589000.0,4,Lucknow
+114,Mahindra XUV500,Mahindra,2016,125378,Diesel,Manual,9559,363000.0,10,Lucknow
+115,Hyundai VENUE,Hyundai,2020,133654,Diesel,Manual,14103,634000.0,6,Lucknow
+116,Mahindra Verito,Mahindra,2012,119048,Diesel,Manual,14103,87000.0,14,Lucknow
+117,Volkswagen Polo,Volkswagen,2012,82397,Diesel,Manual,14103,157000.0,14,Lucknow
+118,Hyundai i20,Hyundai,2011,147415,Petrol,Manual,14103,150000.0,15,Lucknow
+119,Maruti Ertiga,Maruti,2020,70322,Petrol,Manual,12375,701000.0,6,Lucknow
+120,Maruti FRONX,Maruti,2023,78526,Petrol,Manual,9938,563000.0,3,Lucknow
+121,Audi A4,Audi,2012,110451,Diesel,Auto,9938,304000.0,14,Lucknow
+122,Tata NEXON,Tata,2025,6998,Petrol,Manual,13451,762000.0,1,Lucknow
+123,Maruti Wagon R 1.0,Maruti,2014,36495,Petrol,Manual,7241,218000.00000000003,12,Lucknow
+124,Maruti IGNIS,Maruti,2020,60572,Petrol,Manual,5119,290000.0,6,Lucknow
+125,Tata NEXON,Tata,2019,114585,Diesel,Manual,11078,498000.00000000006,7,Lucknow
+126,Hyundai Creta,Hyundai,2020,88173,Diesel,Manual,15342,896000.0000000001,6,Lucknow
+127,BMW 3 Series,BMW,2018,32237,Diesel,Auto,33310,1750000.0,8,Lucknow
+128,Maruti Swift Dzire,Maruti,2012,213261,Diesel,Manual,33310,200999.99999999997,14,Lucknow
+129,Renault TRIBER,Renault,2021,118545,Petrol,Manual,8698,391000.0,5,Lucknow
+130,Maruti Swift Dzire,Maruti,2012,170958,Diesel,Manual,8698,213000.0,14,Lucknow
+131,Datsun Redi Go,Datsun,2017,24067,Petrol,Manual,3539,181000.0,9,Lucknow
+132,Hyundai Verna,Hyundai,2018,123587,Diesel,Manual,12412,558000.0,8,Lucknow
+133,Hyundai Grand i10,Hyundai,2014,139005,Diesel,Manual,8944,190000.0,12,Lucknow
+134,Tata NEXON,Tata,2018,77679,Diesel,Manual,7253,371000.0,8,Lucknow
+135,KIA SELTOS,KIA,2019,127466,Diesel,Manual,18155,835000.0,7,Lucknow
+136,Maruti Wagon R 1.0,Maruti,2018,83688,Petrol,Manual,4448,252000.0,8,Lucknow
+137,Tata Tiago,Tata,2019,40028,Petrol,Manual,5243,297000.0,7,Lucknow
+138,Toyota Etios,Toyota,2013,198997,Diesel,Manual,20435,229999.99999999997,13,Lucknow
+139,Volkswagen Polo,Volkswagen,2018,112866,Petrol,Manual,6807,306000.0,8,Lucknow
+140,Toyota Etios Liva,Toyota,2015,125703,Petrol,Manual,5267,200000.0,11,Lucknow
+141,Maruti Alto 800,Maruti,2018,156495,Petrol,Manual,3782,170000.0,8,Lucknow
+142,Hyundai Verna,Hyundai,2019,169703,Diesel,Manual,11345,509999.99999999994,7,Lucknow
+143,Maruti Wagon R 1.0,Maruti,2011,66900,Petrol,Manual,11345,115999.99999999999,15,Lucknow
+144,Maruti Vitara Brezza,Maruti,2018,177741,Diesel,Manual,9254,416000.0,8,Lucknow
+145,Tata Harrier,Tata,2022,93298,Diesel,Manual,26557,1551000.0,4,Lucknow
+146,Mahindra XUV500,Mahindra,2013,85550,Diesel,Manual,23012,259000.0,13,Lucknow
+147,Hyundai i10,Hyundai,2012,98872,Petrol,Manual,12083,136000.0,14,Lucknow
+148,Maruti Alto 800,Maruti,2015,143709,Petrol,Manual,4187,159000.0,11,Lucknow
+149,Tata PUNCH,Tata,2023,40260,Petrol,Manual,12975,735000.0,3,Lucknow
+150,Tata PUNCH,Tata,2023,39642,Petrol,Manual,10468,593000.0,3,Lucknow
+151,Datsun Redi Go,Datsun,2019,6056,Petrol,Manual,3884,220000.00000000003,7,Lucknow
+152,Maruti Dzire,Maruti,2022,48882,Petrol,Manual,9003,509999.99999999994,4,Lucknow
+153,Datsun Redi Go,Datsun,2018,46380,Petrol,Manual,2542,144000.0,8,Lucknow
+154,Renault Kwid,Renault,2018,132792,Petrol,Manual,3871,174000.0,8,Lucknow
+155,Datsun Redi Go,Datsun,2018,18270,Petrol,Manual,2648,150000.0,8,Lucknow
+156,Maruti Wagon R 1.0,Maruti,2012,73086,Petrol,Manual,11550,130000.0,14,Lucknow
+157,Maruti Alto 800,Maruti,2016,67251,Petrol,Manual,4627,208000.0,10,Lucknow
+158,Maruti Swift,Maruti,2014,90819,Petrol,Manual,7473,225000.0,12,Lucknow
+159,Tata NEXON,Tata,2022,10311,Petrol,Manual,16266,950000.0,4,Lucknow
+160,Hyundai Santro Xing,Hyundai,2011,37498,Petrol,Manual,16266,122000.0,15,Lucknow
+161,Maruti Alto K10,Maruti,2019,41872,Petrol,Manual,4625,262000.0,7,Lucknow
+162,Maruti Baleno,Maruti,2018,39059,Petrol,Manual,7661,434000.0,8,Lucknow
+163,Nissan Terrano,Nissan,2013,77269,Diesel,Manual,17770,200000.0,13,Lucknow
+164,Ford Fiesta,Ford,2011,207756,Diesel,Manual,17770,106000.0,15,Lucknow
+165,Maruti Swift,Maruti,2014,131296,Petrol,Manual,8835,266000.0,12,Lucknow
+166,Maruti Swift Dzire,Maruti,2015,140204,Petrol,Manual,9085,345000.0,11,Lucknow
+167,Hyundai Eon,Hyundai,2014,93984,Petrol,Manual,4517,136000.0,12,Lucknow
+168,Mahindra Scorpio,Mahindra,2017,173939,Diesel,Manual,12524,563000.0,9,Lucknow
+169,Mahindra TUV300,Mahindra,2018,68758,Diesel,Manual,10323,528000.0,8,Lucknow
+170,Maruti Wagon R 1.0,Maruti,2013,38997,Petrol,Manual,7767,165000.0,13,Lucknow
+171,Maruti Swift,Maruti,2015,193424,Diesel,Manual,10330,311000.0,11,Lucknow
+172,Maruti Dzire,Maruti,2017,33351,Diesel,Manual,9854,443000.0,9,Lucknow
+173,Maruti Alto K10,Maruti,2011,85216,Petrol,Manual,9854,96000.0,15,Lucknow
+174,Renault Duster,Renault,2012,204776,Diesel,Manual,9854,150000.0,14,Lucknow
+175,Maruti Swift Dzire,Maruti,2013,128516,Diesel,Manual,24967,281000.0,13,Lucknow
+176,Maruti Swift Dzire,Maruti,2015,187873,Diesel,Manual,11226,338000.0,11,Lucknow
+177,Honda Brio,Honda,2016,42628,Petrol,Manual,4226,190000.0,10,Lucknow
+178,Volkswagen Polo,Volkswagen,2014,66033,Diesel,Manual,12098,256999.99999999997,12,Lucknow
+179,Tata Harrier,Tata,2022,82195,Diesel,Auto,26540,1550000.0,4,Lucknow
+180,Nissan Micra,Nissan,2012,98106,Diesel,Manual,26540,97000.0,14,Lucknow
+181,Hyundai Grand i10,Hyundai,2017,68522,Petrol,Manual,6432,329000.0,9,Lucknow
+182,Maruti Alto K10,Maruti,2012,37075,Petrol,Manual,12083,136000.0,14,Lucknow
+183,Hyundai Eon,Hyundai,2018,48023,Petrol,Manual,3884,220000.00000000003,8,Lucknow
+184,Mahindra Xylo,Mahindra,2010,110956,Diesel,Manual,3884,75000.0,16,Lucknow
+185,Tata PUNCH,Tata,2022,19281,Petrol,Manual,8826,500000.0,4,Lucknow
+186,Tata NEXON,Tata,2018,138099,Petrol,Manual,8364,376000.0,8,Lucknow
+187,Hyundai Grand i10,Hyundai,2017,106273,Petrol,Manual,7719,347000.0,9,Lucknow
+188,Tata Safari Storme,Tata,2013,88448,Diesel,Manual,17770,200000.0,13,Lucknow
+189,Hyundai Grand i10,Hyundai,2015,64292,Petrol,Manual,7057,268000.0,11,Lucknow
+190,Honda Brio,Honda,2016,18932,Petrol,Auto,6673,300000.0,10,Lucknow
+191,Maruti Wagon R 1.0,Maruti,2012,50415,Petrol,Manual,13327,150000.0,14,Lucknow
+192,Maruti XL6,Maruti,2021,70522,Petrol,Manual,12763,723000.0,5,Lucknow
+193,Honda City,Honda,2015,41281,Petrol,Manual,9217,350000.0,11,Lucknow
+194,Maruti Wagon R 1.0,Maruti,2016,121774,Petrol,Manual,4582,206000.0,10,Lucknow
+195,Hyundai i20,Hyundai,2013,56800,Petrol,Manual,9697,206000.0,13,Lucknow
+196,Tata Tiago,Tata,2018,85242,Petrol,Manual,5455,309000.0,8,Lucknow
+197,Hyundai i10,Hyundai,2013,7579,Petrol,Manual,7767,165000.0,13,Lucknow
+198,Tata Tiago,Tata,2018,40743,Petrol,Manual,5119,290000.0,8,Lucknow
+199,Maruti Wagon R 1.0,Maruti,2014,91114,Petrol,Manual,6610,199000.0,12,Lucknow
+200,Maruti S PRESSO,Maruti,2022,19598,Petrol,Manual,6401,363000.0,4,Lucknow
+201,Maruti Dzire,Maruti,2023,65371,Petrol,Manual,10556,598000.0,3,Lucknow
+202,Hyundai VENUE,Hyundai,2021,55489,Petrol,Manual,10397,589000.0,5,Lucknow
+203,Tata NEXON,Tata,2019,71095,Diesel,Manual,11298,640000.0,7,Lucknow
+204,Honda Jazz,Honda,2016,29523,Petrol,Manual,6918,311000.0,10,Lucknow
+205,Mahindra XUV500,Mahindra,2019,63715,Diesel,Manual,12357,700000.0,7,Lucknow
+206,Maruti Baleno,Maruti,2017,52256,Petrol,Manual,7664,392000.0,9,Lucknow
+207,Maruti S PRESSO,Maruti,2022,107242,Petrol,Manual,7786,350000.0,4,Lucknow
+208,Maruti Baleno,Maruti,2016,186255,Diesel,Manual,9217,350000.0,10,Lucknow
+209,Tata ALTROZ,Tata,2020,47511,Petrol,Manual,7344,416000.0,6,Lucknow
+210,Mahindra XUV500,Mahindra,2013,115180,Diesel,Manual,22123,249000.00000000003,13,Lucknow
+211,Hyundai Grand i10,Hyundai,2015,90043,Diesel,Manual,7374,222000.00000000003,11,Lucknow
+212,Maruti Wagon R 1.0,Maruti,2014,75769,Petrol,Manual,7506,225999.99999999997,12,Lucknow
+213,Hyundai Grand i10,Hyundai,2014,70354,Petrol,Manual,7141,215000.0,12,Lucknow
+214,Hyundai i10,Hyundai,2010,105584,Petrol,Manual,7141,87000.0,16,Lucknow
+215,Maruti Swift,Maruti,2024,4121,Petrol,Manual,11174,633000.0,2,Lucknow
+216,Maruti Dzire,Maruti,2018,104941,Petrol,Manual,8809,396000.0,8,Lucknow
+217,Tata Harrier,Tata,2020,64834,Diesel,Manual,18270,1067000.0,6,Lucknow
+218,Mahindra Scorpio,Mahindra,2018,152441,Diesel,Manual,20860,959000.0,8,Lucknow
+219,Maruti Ciaz,Maruti,2017,138794,Diesel,Manual,9031,405999.99999999994,9,Lucknow
+220,Maruti Vitara Brezza,Maruti,2017,91020,Diesel,Manual,10010,450000.0,9,Lucknow
+221,Hyundai Xcent,Hyundai,2015,44052,Petrol,Manual,6583,250000.0,11,Lucknow
+222,Mahindra MARAZZO,Mahindra,2019,30886,Diesel,Manual,8809,499000.0,7,Lucknow
+223,Hyundai i10,Hyundai,2011,68362,Petrol,Manual,8809,117000.0,15,Lucknow
+224,Hyundai i20 Active,Hyundai,2017,68537,Diesel,Manual,9610,432000.0,9,Lucknow
+225,Tata NEXON,Tata,2021,67504,Petrol,Auto,10150,575000.0,5,Lucknow
+226,Maruti Dzire,Maruti,2020,75312,Petrol,Manual,7891,447000.0,6,Lucknow
+227,Maruti 800,Maruti,2017,61395,Petrol,Manual,2933,150000.0,9,Lucknow
+228,Maruti Ertiga,Maruti,2015,166430,Diesel,Manual,17371,523000.00000000006,11,Lucknow
+229,Hyundai Creta,Hyundai,2016,261554,Diesel,Manual,17170,652000.0,10,Lucknow
+230,Mahindra Xylo,Mahindra,2014,49027,Diesel,Manual,10874,231000.0,12,Lucknow
+231,Tata Harrier,Tata,2020,172392,Diesel,Manual,28178,1296000.0,6,Lucknow
+232,Tata Indigo ECS,Tata,2014,152933,Diesel,Manual,4943,105000.0,12,Lucknow
+233,Mahindra XUV700,Mahindra,2023,25318,Diesel,Auto,36248,2117000.0,3,Lucknow
+234,MG ASTOR,MG,2022,14748,Petrol,Auto,24673,1441000.0,4,Lucknow
+235,Honda City,Honda,2012,116194,Petrol,Manual,28876,325000.0,14,Lucknow
+236,Toyota Etios,Toyota,2011,122182,Petrol,Manual,28876,131000.0,15,Lucknow
+237,Maruti Celerio,Maruti,2018,28938,Petrol,Manual,5402,306000.0,8,Lucknow
+238,Nissan MAGNITE,Nissan,2021,36801,Petrol,Manual,8791,498000.00000000006,5,Lucknow
+239,Maruti Ciaz,Maruti,2018,69198,Petrol,Manual,8509,482000.0,8,Lucknow
+240,Tata PUNCH,Tata,2022,29424,Petrol,Manual,9709,550000.0,4,Lucknow
+241,Mahindra MARAZZO,Mahindra,2019,112394,Diesel,Manual,13680,615000.0,7,Lucknow
+242,Hyundai Eon,Hyundai,2011,13406,Petrol,Manual,13680,138000.0,15,Lucknow
+243,Tata Safari Storme,Tata,2018,156925,Diesel,Manual,11901,535000.0,8,Lucknow
+244,Maruti Swift Dzire,Maruti,2014,244715,Diesel,Manual,12427,264000.0,12,Lucknow
+245,Hyundai Santro Xing,Hyundai,2010,141256,Petrol,Manual,12427,80000.0,16,Lucknow
+246,Ford Figo Aspire,Ford,2017,54102,Petrol,Manual,5142,263000.0,9,Lucknow
+247,Hyundai Elite i20,Hyundai,2017,166800,Petrol,Manual,7964,358000.0,9,Lucknow
+248,Maruti IGNIS,Maruti,2023,22122,Petrol,Auto,10397,589000.0,3,Lucknow
+249,Ford Ecosport,Ford,2016,112250,Diesel,Manual,9349,355000.0,10,Lucknow
+250,Maruti Baleno,Maruti,2018,43383,Petrol,Manual,7944,450000.0,8,Lucknow
+251,Maruti Vitara Brezza,Maruti,2017,163230,Diesel,Manual,9788,440000.00000000006,9,Lucknow
+252,Maruti New Wagon-R,Maruti,2022,21184,Petrol,Manual,7608,430999.99999999994,4,Lucknow
+253,Tata PUNCH,Tata,2024,14460,Petrol,Manual,9215,522000.0,2,Lucknow
+254,Maruti Baleno,Maruti,2017,161542,Petrol,Manual,7941,357000.0,9,Lucknow
+255,Maruti S PRESSO,Maruti,2021,41846,Petrol,Manual,5667,321000.0,5,Lucknow
+256,Maruti IGNIS,Maruti,2017,75170,Petrol,Manual,6373,326000.0,9,Lucknow
+257,Maruti Baleno,Maruti,2016,80010,Petrol,Manual,7007,315000.0,10,Lucknow
+258,Maruti New Wagon-R,Maruti,2020,110238,Petrol,Manual,7229,325000.0,6,Lucknow
+259,Maruti Wagon R 1.0,Maruti,2011,106373,Petrol,Manual,7229,111000.00000000001,15,Lucknow
+260,Hyundai Santro Xing,Hyundai,2014,30368,Petrol,Manual,6045,182000.0,12,Lucknow
+261,Honda Amaze,Honda,2015,63504,Petrol,Manual,7637,290000.0,11,Lucknow
+262,Skoda Rapid,Skoda,2014,118243,Diesel,Manual,11957,254000.0,12,Lucknow
+263,Maruti FRONX,Maruti,2024,19762,Petrol,Auto,13938,814000.0,2,Lucknow
+264,Hyundai i20,Hyundai,2011,107146,Diesel,Manual,13938,114999.99999999999,15,Lucknow
+265,Maruti Dzire,Maruti,2018,37942,Petrol,Manual,7944,450000.0,8,Lucknow
+266,Maruti Alto,Maruti,2019,21427,Petrol,Manual,4777,271000.0,7,Lucknow
+267,Hyundai Grand i10,Hyundai,2014,49394,Petrol,Manual,7141,215000.0,12,Lucknow
+268,BMW X1,BMW,2017,97762,Diesel,Auto,29026,1335000.0,9,Lucknow
+269,Maruti Swift Dzire,Maruti,2014,25203,Petrol,Manual,11592,349000.0,12,Lucknow
+270,Maruti Alto K10,Maruti,2010,80508,Petrol,Manual,11592,125000.0,16,Lucknow
+271,Maruti S PRESSO,Maruti,2022,50666,Petrol,Manual,5825,330000.0,4,Lucknow
+272,Maruti Swift Dzire,Maruti,2015,120807,Diesel,Manual,10064,303000.0,11,Lucknow
+273,Hyundai Creta,Hyundai,2015,316792,Diesel,Manual,19763,595000.0,11,Lucknow
+274,Hyundai Grand i10,Hyundai,2016,81667,Petrol,Manual,5561,250000.0,10,Lucknow
+275,Maruti Baleno,Maruti,2017,39194,Petrol,Manual,7429,380000.0,9,Lucknow
+276,Hyundai AURA,Hyundai,2021,24728,Petrol,Manual,10186,577000.0,5,Lucknow
+277,MG ASTOR,MG,2023,18692,Petrol,Manual,18698,1092000.0,3,Lucknow
+278,KIA SONET,KIA,2021,122822,Diesel,Manual,21003,966000.0,5,Lucknow
+279,Maruti Ertiga,Maruti,2015,146625,Diesel,Manual,16840,507000.0,11,Lucknow
+280,Hyundai Creta,Hyundai,2017,161360,Diesel,Manual,12702,571000.0,9,Lucknow
+281,Hyundai Creta,Hyundai,2017,75812,Diesel,Auto,14236,640000.0,9,Lucknow
+282,Maruti Dzire,Maruti,2018,119889,Diesel,Manual,10789,484999.99999999994,8,Lucknow
+283,Maruti Swift Dzire,Maruti,2015,62892,Petrol,Manual,7900,300000.0,11,Lucknow
+284,Maruti IGNIS,Maruti,2018,26342,Petrol,Auto,7238,409999.99999999994,8,Lucknow
+285,Maruti Swift,Maruti,2018,115650,Petrol,Auto,9120,409999.99999999994,8,Lucknow
+286,Maruti Grand Vitara,Maruti,2024,88731,Hybrid,Auto,27225,1590000.0,2,Lucknow
+287,Honda Jazz,Honda,2016,222735,Petrol,Manual,5227,235000.0,10,Lucknow
+288,Maruti Alto,Maruti,2022,54295,Petrol,Manual,7608,430999.99999999994,4,Lucknow
+289,Nissan MAGNITE,Nissan,2023,15177,Petrol,Manual,12322,698000.0,3,Lucknow
+290,Maruti IGNIS,Maruti,2017,34529,Petrol,Manual,5982,306000.0,9,Lucknow
+291,KIA SONET,KIA,2023,13702,Petrol,Manual,13345,756000.0,3,Lucknow
+292,Maruti Baleno,Maruti,2019,55714,Petrol,Manual,7997,453000.0,7,Lucknow
+293,Honda BR-V,Honda,2018,110000,Diesel,Manual,15215,684000.0,8,Lucknow
+294,Hyundai Creta,Hyundai,2019,101058,Petrol,Manual,16127,725000.0,7,Lucknow
+295,Hyundai VENUE,Hyundai,2019,61157,Petrol,Auto,10856,615000.0,7,Lucknow
+296,Hyundai AURA,Hyundai,2021,28145,Petrol,Auto,10239,580000.0,5,Lucknow
+297,Tata ALTROZ,Tata,2020,105411,Diesel,Manual,13347,600000.0,6,Lucknow
+298,Hyundai Creta,Hyundai,2016,112935,Petrol,Manual,11434,513999.99999999994,10,Lucknow
+299,Hyundai EXTER,Hyundai,2024,22440,Petrol,Manual,9991,566000.0,2,Lucknow
+300,Honda Jazz,Honda,2015,79519,Petrol,Manual,8875,337000.0,11,Lucknow
+301,Hyundai New Elantra,Hyundai,2014,142488,Diesel,Manual,14452,307000.0,12,Lucknow
+302,Maruti Swift,Maruti,2021,64013,Petrol,Manual,8297,470000.0,5,Lucknow
+303,Hyundai Elite i20,Hyundai,2019,119454,Petrol,Manual,11122,500000.0,7,Lucknow
+304,Tata TIGOR,Tata,2023,62070,Petrol,Manual,10680,605000.0,3,Lucknow
+305,Hyundai Elite i20,Hyundai,2017,87118,Petrol,Manual,8113,415000.00000000006,9,Lucknow
+306,KIA SONET,KIA,2020,164438,Diesel,Manual,15571,700000.0,6,Lucknow
+307,Skoda Rapid,Skoda,2019,39566,Petrol,Manual,9532,540000.0,7,Lucknow
+308,Maruti Baleno,Maruti,2019,102845,Diesel,Manual,10722,482000.0,7,Lucknow
+309,Maruti Celerio,Maruti,2023,14668,Petrol,Manual,8579,486000.00000000006,3,Lucknow
+310,Nissan MAGNITE,Nissan,2023,41515,Petrol,Manual,10592,600000.0,3,Lucknow
+311,Maruti Swift,Maruti,2018,202243,Diesel,Manual,9498,426999.99999999994,8,Lucknow
+312,Honda WR-V,Honda,2018,113245,Diesel,Manual,9765,438999.99999999994,8,Lucknow
+313,Hyundai Elite i20,Hyundai,2016,96787,Diesel,Manual,10586,401999.99999999994,10,Lucknow
+314,Mahindra XUV500,Mahindra,2020,121640,Diesel,Manual,21547,991000.0,6,Lucknow
+315,Hyundai Creta,Hyundai,2015,187747,Diesel,Auto,16076,484000.0,11,Lucknow
+316,MG ASTOR,MG,2022,54139,Petrol,Manual,19434,1135000.0,4,Lucknow
+317,Ford New Figo,Ford,2019,177565,Diesel,Manual,9454,425000.0,7,Lucknow
+318,Hyundai Elite i20,Hyundai,2018,103125,Diesel,Manual,10010,450000.0,8,Lucknow
+319,Mercedes Benz C Class,Mercedes,2013,89203,Diesel,Auto,36517,411000.00000000006,13,Lucknow
+320,Hyundai VENUE,Hyundai,2020,129148,Petrol,Manual,15949,717000.0,6,Lucknow
+321,KIA SELTOS,KIA,2024,47461,Petrol,Auto,32242,1882999.9999999998,2,Lucknow
+322,Audi Q3,Audi,2013,85235,Diesel,Auto,44424,500000.0,13,Lucknow
+323,Maruti Dzire,Maruti,2018,39218,Petrol,Manual,9497,538000.0,8,Lucknow
+324,Honda Mobilio,Honda,2014,103327,Diesel,Manual,13228,281000.0,12,Lucknow
+325,Hyundai VENUE,Hyundai,2020,150542,Diesel,Manual,13658,614000.0,6,Lucknow
+326,Maruti S PRESSO,Maruti,2020,38259,Petrol,Manual,6832,387000.0,6,Lucknow
+327,Maruti Vitara Brezza,Maruti,2020,143171,Petrol,Manual,14437,649000.0,6,Lucknow
+328,Tata NEXON,Tata,2023,34285,Diesel,Auto,18407,1075000.0,3,Lucknow
+329,Hyundai Grand i10,Hyundai,2017,123201,Petrol,Manual,6562,295000.0,9,Lucknow
+330,Honda City,Honda,2014,125025,Petrol,Manual,11326,341000.0,12,Lucknow
+331,Renault Duster,Renault,2016,89697,Diesel,Manual,8005,304000.0,10,Lucknow
+332,Maruti Dzire,Maruti,2017,163848,Diesel,Manual,9343,420000.0,9,Lucknow
+333,Maruti Swift,Maruti,2020,111026,Petrol,Manual,10477,471000.0,6,Lucknow
+334,Hyundai Creta,Hyundai,2022,11371,Petrol,Manual,20906,1221000.0,4,Lucknow
+335,Tata ALTROZ,Tata,2023,35615,Petrol,Manual,9709,550000.0,3,Lucknow
+336,Volvo S60,Volvo,2015,82346,Diesel,Auto,21888,659000.0,11,Lucknow
+337,Hyundai Creta,Hyundai,2021,20235,Diesel,Auto,23920,1397000.0,5,Lucknow
+338,Maruti Ciaz,Maruti,2018,71078,Petrol,Auto,9780,554000.0,8,Lucknow
+339,Jeep Compass,Jeep,2018,168320,Diesel,Manual,15393,692000.0,8,Lucknow
+340,Tata PUNCH,Tata,2024,13952,Petrol,Manual,11898,674000.0,2,Lucknow
+341,Maruti FRONX,Maruti,2023,50459,Petrol,Manual,12639,716000.0,3,Lucknow
+342,Honda WR-V,Honda,2018,138944,Diesel,Manual,10677,480000.0,8,Lucknow
+343,Tata PUNCH,Tata,2025,4945,Petrol,Manual,11298,640000.0,1,Lucknow
+344,Jeep Compass,Jeep,2020,75665,Petrol,Auto,20633,1205000.0,6,Lucknow
+345,Maruti Dzire,Maruti,2017,80671,Diesel,Manual,10121,455000.0,9,Lucknow
+346,Honda WR-V,Honda,2021,81968,Petrol,Manual,11333,642000.0,5,Lucknow
+347,KIA CARENS,KIA,2023,36987,Diesel,Manual,19023,1111000.0,3,Lucknow
+348,Tata Safari,Tata,2022,76084,Diesel,Manual,27738,1620000.0,4,Lucknow
+349,Mahindra XUV700,Mahindra,2024,47443,Diesel,Manual,35152,2053000.0,2,Lucknow
+350,Hyundai AURA,Hyundai,2023,46500,Petrol,Manual,11474,650000.0,3,Lucknow
+351,Mahindra TUV300,Mahindra,2015,155932,Diesel,Manual,11824,356000.0,11,Lucknow
+352,Hyundai AURA,Hyundai,2022,69893,Petrol,Manual,10256,581000.0,4,Lucknow
+353,Hyundai VENUE,Hyundai,2022,97505,Diesel,Manual,13698,800000.0,4,Lucknow
+354,Tata Safari Storme,Tata,2017,116144,Diesel,Manual,12724,572000.0,9,Lucknow
+355,Hyundai GRAND I10 NIOS,Hyundai,2024,7800,Petrol,Manual,9356,530000.0,2,Lucknow
+356,Chevrolet Cruze,Chevrolet,2016,57466,Diesel,Manual,11455,434999.99999999994,10,Lucknow
+357,Hyundai NEW I20,Hyundai,2021,55549,Petrol,Manual,10415,590000.0,5,Lucknow
+358,Honda Jazz,Honda,2017,90162,Petrol,Manual,6647,340000.0,9,Lucknow
+359,Mahindra BOLERO NEO,Mahindra,2022,70295,Diesel,Manual,14571,851000.0,4,Lucknow
+360,KIA SONET,KIA,2021,96089,Diesel,Manual,13593,770000.0,5,Lucknow
+361,Renault Duster,Renault,2016,134326,Diesel,Manual,12746,484000.0,10,Lucknow
+362,Tata Safari,Tata,2021,57222,Diesel,Manual,16266,950000.0,5,Lucknow
+363,Tata Tiago,Tata,2023,19886,Petrol,Manual,8491,480999.99999999994,3,Lucknow
+364,Honda Mobilio,Honda,2015,116545,Diesel,Manual,9964,300000.0,11,Lucknow
+365,Hyundai GRAND I10 NIOS,Hyundai,2020,103146,Petrol,Manual,9187,413000.0,6,Lucknow
+366,Hyundai Elite i20,Hyundai,2018,123339,Diesel,Manual,10499,472000.0,8,Lucknow
+367,Maruti Swift,Maruti,2022,49150,Petrol,Manual,9515,539000.0,4,Lucknow
+368,KIA SELTOS,KIA,2020,73128,Petrol,Manual,16095,940000.0,6,Lucknow
+369,Maruti Alto,Maruti,2023,27523,Petrol,Manual,6178,350000.0,3,Lucknow
+370,Mahindra SCORPIO CLASSIC,Mahindra,2022,42143,Diesel,Manual,23115,1350000.0,4,Lucknow
+371,Renault Kwid,Renault,2023,8396,Petrol,Auto,8438,478000.0,3,Lucknow
+372,Honda City,Honda,2022,35133,Petrol,Auto,20444,1194000.0,4,Lucknow
+373,Hyundai NEW I20,Hyundai,2024,8216,Petrol,Manual,14383,840000.0,2,Lucknow
+374,MG HECTOR,MG,2021,36862,Diesel,Manual,19383,1132000.0,5,Lucknow
+375,Maruti Swift,Maruti,2021,20328,Petrol,Manual,9709,550000.0,5,Lucknow
+376,Hyundai VENUE,Hyundai,2019,38448,Petrol,Auto,12622,715000.0,7,Lucknow
+377,Hyundai NEW I20,Hyundai,2023,23155,Petrol,Manual,13681,775000.0,3,Lucknow
+378,Skoda SLAVIA,Skoda,2022,91717,Petrol,Auto,19742,1153000.0,4,Lucknow
+379,Hyundai Creta,Hyundai,2018,60282,Diesel,Manual,13763,704000.0,8,Lucknow
+380,Mahindra Thar,Mahindra,2021,89039,Diesel,Manual,17979,1050000.0,5,Lucknow
+381,Tata Safari,Tata,2021,101450,Diesel,Manual,26113,1201000.0,5,Lucknow
+382,Tata Safari Storme,Tata,2016,88418,Diesel,Manual,11113,422000.0,10,Lucknow
+383,Maruti Vitara Brezza,Maruti,2018,81504,Diesel,Manual,10792,552000.0,8,Lucknow
+384,Toyota Etios,Toyota,2016,188898,Diesel,Manual,8427,320000.0,10,Lucknow
+385,Maruti FRONX,Maruti,2024,1040,Petrol,Auto,18825,1099000.0,2,Lucknow
+386,MG HECTOR PLUS,MG,2023,19504,Petrol,Auto,26026,1520000.0,3,Lucknow
+387,Tata Safari,Tata,2021,155302,Diesel,Manual,17394,800000.0,5,Lucknow
+388,Maruti IGNIS,Maruti,2022,31462,Petrol,Manual,9974,565000.0,4,Lucknow
+389,Mahindra Thar,Mahindra,2021,37240,Petrol,Auto,18886,1103000.0,5,Lucknow
+390,KIA SONET,KIA,2020,156461,Diesel,Manual,16283,732000.0,6,Lucknow
+391,Maruti Celerio,Maruti,2019,49102,Petrol,Manual,5649,320000.0,7,Lucknow
+392,Toyota Fortuner,Toyota,2024,36726,Diesel,Auto,67360,3934000.0000000005,2,Lucknow
+393,Toyota Innova,Toyota,2012,104198,Diesel,Manual,67360,540000.0,14,Lucknow
+394,Ford Figo Aspire,Ford,2020,153668,Diesel,Manual,8898,400000.0,6,Lucknow
+395,MG HECTOR PLUS,MG,2021,100765,Diesel,Manual,31548,1451000.0,5,Lucknow
+396,Maruti Vitara Brezza,Maruti,2018,121831,Diesel,Manual,13235,595000.0,8,Lucknow
+397,Mahindra XUV300,Mahindra,2019,127023,Diesel,Manual,13258,596000.0,7,Lucknow
+398,Maruti Ciaz,Maruti,2022,35468,Petrol,Manual,13063,740000.0,4,Lucknow
+399,Mahindra XUV700,Mahindra,2024,21585,Diesel,Manual,28149,1644000.0000000002,2,Lucknow
+400,KIA SONET,KIA,2024,14208,Diesel,Manual,19657,1148000.0,2,Lucknow
+401,Maruti S Cross,Maruti,2018,188649,Diesel,Manual,12012,540000.0,8,Lucknow
+402,Tata Harrier,Tata,2023,109746,Diesel,Manual,33288,1531000.0,3,Lucknow
+403,Maruti Ciaz,Maruti,2023,19432,Petrol,Manual,14087,798000.0,3,Lucknow
+404,Audi A4,Audi,2021,10655,Petrol,Auto,63764,3724000.0,5,Lucknow
+405,MG HECTOR,MG,2021,76232,Diesel,Manual,18235,1065000.0,5,Lucknow
+406,Toyota Innova Crysta,Toyota,2017,186195,Diesel,Manual,25787,1186000.0,9,Lucknow
+407,KIA SELTOS,KIA,2023,28150,Diesel,Auto,29536,1725000.0,3,Lucknow
+408,Audi Q3,Audi,2015,12165,Diesel,Auto,39254,1199000.0,11,Lucknow
+409,Hyundai NEW I20,Hyundai,2023,27882,Petrol,Auto,16951,990000.0,3,Lucknow
+410,KIA SELTOS,KIA,2021,31011,Petrol,Manual,16266,950000.0,5,Lucknow
+411,KIA SELTOS,KIA,2023,111070,Diesel,Auto,29352,1350000.0,3,Lucknow
+412,MG HECTOR PLUS,MG,2022,43119,Diesel,Manual,28166,1645000.0,4,Lucknow
+413,Tata ALTROZ,Tata,2023,61639,Diesel,Manual,13769,780000.0,3,Lucknow
+414,Mahindra SCORPIO-N,Mahindra,2024,39163,Diesel,Manual,35940,2099000.0,2,Lucknow
+415,Toyota URBAN CRUISER,Toyota,2021,183769,Petrol,Auto,14361,646000.0,5,Lucknow
+416,BMW X1,BMW,2019,37904,Diesel,Auto,29108,1700000.0,7,Lucknow
+417,MG HECTOR,MG,2021,72150,Diesel,Manual,17431,1018000.0,5,Lucknow
+418,Jeep Compass,Jeep,2018,187887,Diesel,Manual,19286,886999.9999999999,8,Lucknow
+419,KIA SONET,KIA,2023,7416,Petrol,Manual,14194,828999.9999999999,3,Lucknow
+420,Honda CRV,Honda,2012,152430,Petrol,Auto,28343,319000.0,14,Lucknow
+421,Tata Safari,Tata,2023,22242,Diesel,Auto,38474,2247000.0,3,Lucknow
+422,Jeep Compass,Jeep,2021,66316,Diesel,Manual,28252,1650000.0,5,Lucknow
+423,Toyota Innova Crysta,Toyota,2023,8000,Diesel,Manual,33765,1972000.0,3,Lucknow
+424,KIA SELTOS,KIA,2023,32930,Petrol,Manual,17979,1050000.0,3,Lucknow
+425,KIA SONET,KIA,2023,13615,Petrol,Auto,17259,1008000.0,3,Lucknow
+426,Maruti S Cross,Maruti,2018,142322,Diesel,Manual,10010,450000.0,8,Lucknow
+427,KIA SELTOS,KIA,2023,50848,Petrol,Manual,16797,981000.0,3,Lucknow
+428,Mercedes Benz C Class,Mercedes,2015,83185,Diesel,Auto,44197,1350000.0,11,Lucknow
+429,Mahindra XUV500,Mahindra,2017,86604,Diesel,Manual,17394,800000.0,9,Lucknow
+430,Hyundai IONIQ 5,Hyundai,2023,43384,Electric,Auto,43662,2550000.0,3,Lucknow
+431,Toyota Innova Crysta,Toyota,2016,171045,Diesel,Manual,27991,1083000.0,10,Lucknow
+432,MG HECTOR,MG,2019,97058,Petrol,Auto,15599,911000.0,7,Lucknow
+433,Hyundai Creta,Hyundai,2022,137666,Diesel,Auto,25004,1150000.0,4,Lucknow
+434,Mahindra MARAZZO,Mahindra,2018,216709,Diesel,Manual,13413,603000.0,8,Lucknow
+435,Hyundai Xcent,Hyundai,2019,34907,Petrol,Manual,7873,446000.0,7,Lucknow
+436,Toyota Innova Crysta,Toyota,2021,101563,Diesel,Manual,36027,1657000.0,5,Lucknow
+437,Mahindra Bolero,Mahindra,2024,35474,Diesel,Manual,14982,875000.0,2,Lucknow
+438,Maruti BREZZA,Maruti,2024,47585,Petrol,Manual,14982,875000.0,2,Lucknow
+439,Mahindra SCORPIO CLASSIC,Mahindra,2022,91280,Diesel,Manual,23115,1350000.0,4,Lucknow
+440,Mahindra SCORPIO CLASSIC,Mahindra,2024,15724,Diesel,Manual,32122,1876000.0000000002,2,Lucknow
+441,MG HECTOR PLUS,MG,2021,165126,Diesel,Manual,21634,994999.9999999999,5,Lucknow
+442,Maruti Vitara Brezza,Maruti,2020,68089,Petrol,Manual,10380,588000.0,6,Lucknow
+443,Hyundai ALCAZAR,Hyundai,2021,120212,Diesel,Auto,28961,1332000.0,5,Lucknow
+444,Skoda KUSHAQ,Skoda,2024,55459,Petrol,Manual,15633,913000.0000000001,2,Lucknow
+445,MG HECTOR,MG,2023,30420,Petrol,Auto,27396,1600000.0,3,Lucknow
+446,KIA SELTOS,KIA,2020,34501,Petrol,Manual,16215,947000.0000000001,6,Lucknow
+447,Landrover Range Rover Sport,Landrover,2017,127989,Diesel,Auto,66314,3050000.0,9,Lucknow
+448,Toyota Fortuner,Toyota,2018,200364,Diesel,Manual,44572,2050000.0,8,Lucknow
+449,MG HECTOR,MG,2020,83225,Diesel,Manual,13698,800000.0,6,Lucknow
+450,Tata TIAGO EV,Tata,2024,11136,Electric,Auto,14554,850000.0,2,Lucknow
+451,Jeep Compass,Jeep,2021,64956,Diesel,Manual,28509,1664999.9999999998,5,Lucknow
+452,Toyota Innova Crysta,Toyota,2020,248792,Diesel,Manual,30896,1421000.0,6,Lucknow
+453,Toyota Innova Crysta,Toyota,2019,141845,Diesel,Manual,32679,1503000.0,7,Lucknow
+454,Mahindra XUV400,Mahindra,2023,67603,Electric,Auto,24708,1443000.0,3,Lucknow
+455,Mahindra SCORPIO CLASSIC,Mahindra,2023,104502,Diesel,Manual,33983,1563000.0,3,Lucknow
+456,Toyota Fortuner,Toyota,2015,184360,Diesel,Auto,38828,1186000.0,11,Lucknow
+457,Mahindra SCORPIO-N,Mahindra,2022,37179,Petrol,Auto,30855,1802000.0,4,Lucknow
+458,Mercedes Benz GLA Class,Mercedes,2022,44831,Diesel,Auto,53080,3100000.0,4,Lucknow
+459,MG GLOSTER,MG,2021,71508,Diesel,Auto,45374,2650000.0,5,Lucknow
+460,Maruti Alto K10,Maruti,2015,73234,Petrol,Manual,5425,206000.0,11,Lucknow
+461,Mahindra TUV300,Mahindra,2016,148000,Diesel,Manual,8954,340000.0,10,Lucknow
+462,Maruti Alto K10,Maruti,2017,127538,Petrol,Manual,4827,217000.0,9,Lucknow
+463,Maruti Wagon R 1.0,Maruti,2017,60562,Petrol,Manual,4773,244000.0,9,Lucknow
+464,Maruti S PRESSO,Maruti,2020,50358,Petrol,Manual,5843,331000.0,6,Lucknow
+465,Hyundai Grand i10,Hyundai,2013,96469,Petrol,Manual,8850,188000.0,13,Lucknow
+466,Tata NEXON,Tata,2021,120972,Diesel,Manual,17916,824000.0,5,Lucknow
+467,Renault Kwid,Renault,2018,62146,Petrol,Manual,3636,206000.0,8,Lucknow
+468,Maruti Dzire,Maruti,2018,60828,Petrol,Manual,8562,484999.99999999994,8,Lucknow
+469,Mahindra SCORPIO-N,Mahindra,2024,16830,Diesel,Manual,34245,2000000.0,2,Lucknow
+470,Ford Ecosport,Ford,2020,95605,Diesel,Manual,12357,700000.0,6,Lucknow
+471,Toyota URBAN CRUISER,Toyota,2022,93293,Petrol,Manual,11474,650000.0,4,Lucknow
+472,KIA SELTOS,KIA,2019,118913,Diesel,Auto,17568,808000.0,7,Lucknow
+473,Maruti Swift Dzire,Maruti,2013,148384,Diesel,Manual,18125,204000.0,13,Lucknow
+474,Chevrolet Enjoy,Chevrolet,2014,102383,Diesel,Manual,6873,146000.0,12,Lucknow
+475,Maruti Dzire,Maruti,2021,48598,Petrol,Manual,8526,483000.0,5,Lucknow
+476,Tata TIGOR,Tata,2018,44327,Petrol,Manual,5910,335000.0,8,Lucknow
+477,Maruti Alto K10,Maruti,2023,10183,Petrol,Manual,6169,349000.0,3,Lucknow
+478,Maruti Vitara Brezza,Maruti,2018,84773,Diesel,Manual,8504,434999.99999999994,8,Lucknow
+479,Maruti Grand Vitara,Maruti,2024,44812,Petrol,Manual,14404,841000.0,2,Lucknow
+480,Hyundai VENUE N LINE,Hyundai,2022,34027,Petrol,Auto,12851,728000.0,4,Lucknow
+481,Datsun Go Plus,Datsun,2019,22295,Petrol,Manual,5208,295000.0,7,Lucknow
+482,Tata TIGOR,Tata,2017,53609,Petrol,Manual,6354,325000.0,9,Lucknow
+483,Tata NEXON,Tata,2018,38913,Petrol,Manual,7591,430000.0,8,Lucknow
+484,Tata Tiago,Tata,2025,4416,Petrol,Manual,8548,484000.0,1,Lucknow
+485,Maruti Wagon R 1.0,Maruti,2014,72635,Petrol,Manual,5851,176000.0,12,Lucknow
+486,Maruti Baleno,Maruti,2022,28298,Petrol,Manual,8637,488999.99999999994,4,Lucknow
+487,Maruti Wagon R 1.0,Maruti,2015,32524,Petrol,Manual,6715,254999.99999999997,11,Lucknow

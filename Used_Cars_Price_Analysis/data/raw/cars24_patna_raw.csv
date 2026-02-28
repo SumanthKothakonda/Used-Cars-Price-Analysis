@@ -1,0 +1,315 @@
+,Car Name,Brand,Year of Manufacture,Distance Driven,Fuel Type,Transmission Type,EMI,Price
+0,Maruti Ertiga,Maruti,2019,"92,458 km",Petrol,Manual,"EMI ₹12,354/m*",₹7.00 lakh
+1,Hyundai i10,Hyundai,2016,"36,455 km",Petrol,Manual,"EMI ₹4,998/m*",₹2.25 lakh
+2,Maruti Celerio,Maruti,2016,"52,386 km",Petrol,Auto,"EMI ₹6,031/m*",₹2.71 lakh
+3,Maruti Swift,Maruti,2016,"22,772 km",Petrol,Manual,"EMI ₹7,765/m*",₹3.49 lakh
+4,Tata Tiago,Tata,2018,"53,495 km",Petrol,Manual,"EMI ₹4,536/m*",₹2.57 lakh
+5,Tata NEXON,Tata,2023,"16,636 km",Petrol,Manual,"EMI ₹18,939/m*",₹11.06 lakh
+6,Ford FREESTYLE,Ford,2019,"27,488 km",Petrol,Manual,"EMI ₹6,626/m*",₹3.75 lakh
+7,Maruti S Cross,Maruti,2021,"28,379 km",Petrol,Manual,"EMI ₹11,518/m*",₹6.52 lakh
+8,KIA SELTOS,KIA,2021,"71,330 km",Petrol,Auto,"EMI ₹20,119/m*",₹11.75 lakh
+9,Maruti Dzire,Maruti,2019,"30,100 km",Petrol,Manual,"EMI ₹8,412/m*",₹4.77 lakh
+10,Hyundai GRAND I10 NIOS,Hyundai,2022,"19,850 km",Petrol,Manual,"EMI ₹7,967/m*",₹4.51 lakh
+11,Maruti Swift,Maruti,2018,"33,345 km",Petrol,Manual,"EMI ₹8,385/m*",₹4.75 lakh
+12,Honda WR-V,Honda,2017,"73,513 km",Diesel,Manual,"EMI ₹11,351/m*",₹5.10 lakh
+13,Honda Amaze,Honda,2024,"19,948 km",Petrol,Manual,"EMI ₹12,127/m*",₹6.87 lakh
+14,Mahindra Scorpio,Mahindra,2021,"59,447 km",Diesel,Manual,"EMI ₹18,820/m*",₹10.99 lakh
+15,KIA SONET,KIA,2020,"38,690 km",Petrol,Manual,"EMI ₹11,162/m*",₹6.32 lakh
+16,Hyundai Elite i20,Hyundai,2019,"35,356 km",Petrol,Manual,"EMI ₹6,992/m*",₹3.96 lakh
+17,Maruti Alto 800,Maruti,2018,"80,610 km",Petrol,Manual,"EMI ₹2,698/m*",₹1.53 lakh
+18,Maruti Alto K10,Maruti,2019,"35,115 km",Petrol,Manual,"EMI ₹4,524/m*",₹2.56 lakh
+19,KIA SONET,KIA,2021,"60,670 km",Petrol,Manual,"EMI ₹13,484/m*",₹7.64 lakh
+20,Maruti IGNIS,Maruti,2022,"29,636 km",Petrol,Manual,"EMI ₹7,706/m*",₹4.37 lakh
+21,Hyundai GRAND I10 NIOS,Hyundai,2022,"6,976 km",Petrol,Auto,"EMI ₹9,706/m*",₹5.50 lakh
+22,Skoda KUSHAQ,Skoda,2022,"71,865 km",Petrol,Manual,"EMI ₹14,443/m*",₹8.44 lakh
+23,Skoda KUSHAQ,Skoda,2023,"66,576 km",Petrol,Manual,"EMI ₹16,092/m*",₹9.40 lakh
+24,Tata NEXON,Tata,2020,"46,430 km",Petrol,Manual,"EMI ₹10,415/m*",₹5.90 lakh
+25,Maruti Celerio,Maruti,2021,"72,775 km",Petrol,Manual,"EMI ₹5,649/m*",₹3.20 lakh
+26,Hyundai VENUE,Hyundai,2021,"65,283 km",Petrol,Manual,"EMI ₹12,181/m*",₹6.90 lakh
+27,Hyundai AURA,Hyundai,2021,"95,560 km",CNG,Manual,"EMI ₹8,297/m*",₹4.70 lakh
+28,Hyundai VENUE,Hyundai,2020,"32,411 km",Petrol,Manual,"EMI ₹10,503/m*",₹5.95 lakh
+29,Hyundai NEW I20,Hyundai,2023,"54,110 km",Petrol,Manual,"EMI ₹9,974/m*",₹5.65 lakh
+30,Maruti Alto K10,Maruti,2018,"87,853 km",Petrol,Manual,"EMI ₹4,325/m*",₹2.45 lakh
+31,Datsun Redi Go,Datsun,2020,"24,295 km",Petrol,Manual,"EMI ₹3,742/m*",₹2.12 lakh
+32,Maruti BREZZA,Maruti,2022,"28,115 km",Petrol,Manual,"EMI ₹14,959/m*",₹8.74 lakh
+33,Honda WR-V,Honda,2018,"34,229 km",Petrol,Manual,"EMI ₹8,297/m*",₹4.70 lakh
+34,Tata Tiago,Tata,2023,"45,481 km",Petrol,Manual,"EMI ₹7,149/m*",₹4.05 lakh
+35,Maruti FRONX,Maruti,2024,"7,554 km",Petrol,Auto,"EMI ₹12,798/m*",₹7.25 lakh
+36,Hyundai Eon,Hyundai,2013,"40,001 km",Petrol,Manual,"EMI ₹6,967/m*",₹1.48 lakh
+37,Maruti S PRESSO,Maruti,2019,"33,802 km",Petrol,Auto,"EMI ₹5,737/m*",₹3.25 lakh
+38,Tata Tiago,Tata,2023,"14,332 km",Petrol,Auto,"EMI ₹8,209/m*",₹4.65 lakh
+39,Maruti New Wagon-R,Maruti,2022,"27,107 km",Petrol,Manual,"EMI ₹8,650/m*",₹4.90 lakh
+40,Honda Jazz,Honda,2017,"28,120 km",Petrol,Auto,"EMI ₹6,629/m*",₹3.39 lakh
+41,Datsun Go Plus,Datsun,2021,"31,233 km",Petrol,Manual,"EMI ₹6,451/m*",₹3.65 lakh
+42,Toyota Innova Crysta,Toyota,2022,"86,718 km",Diesel,Auto,"EMI ₹28,338/m*",₹16.55 lakh
+43,Renault TRIBER,Renault,2019,"62,100 km",Petrol,Manual,"EMI ₹7,861/m*",₹4.45 lakh
+44,Honda WR-V,Honda,2020,"86,665 km",Diesel,Manual,"EMI ₹8,964/m*",₹5.08 lakh
+45,KIA SELTOS,KIA,2021,"70,395 km",Petrol,Manual,"EMI ₹17,670/m*",₹10.32 lakh
+46,Tata TIAGO NRG,Tata,2022,"27,604 km",Petrol,Auto,"EMI ₹7,970/m*",₹4.51 lakh
+47,Hyundai Creta,Hyundai,2022,"73,081 km",Diesel,Manual,"EMI ₹17,858/m*",₹10.43 lakh
+48,Hyundai Grand i10,Hyundai,2017,"83,797 km",Diesel,Manual,"EMI ₹5,850/m*",₹2.63 lakh
+49,Maruti Baleno,Maruti,2018,"49,808 km",Petrol,Manual,"EMI ₹7,767/m*",₹4.40 lakh
+50,Hyundai EXTER,Hyundai,2023,"21,275 km",Petrol,Auto,"EMI ₹11,400/m*",₹6.46 lakh
+51,Maruti S Cross,Maruti,2022,"47,877 km",Petrol,Manual,"EMI ₹10,768/m*",₹6.10 lakh
+52,Maruti S PRESSO,Maruti,2021,"64,045 km",Petrol,Manual,"EMI ₹5,561/m*",₹3.15 lakh
+53,Tata Tiago,Tata,2024,"26,153 km",Petrol,Manual,"EMI ₹8,478/m*",₹4.80 lakh
+54,Tata NEXON,Tata,2019,"21,376 km",Petrol,Manual,"EMI ₹7,843/m*",₹4.44 lakh
+55,Maruti Alto K10,Maruti,2013,"1,07,475 km",Petrol,Manual,"EMI ₹6,355/m*",₹1.35 lakh
+56,Hyundai GRAND I10 NIOS,Hyundai,2023,"67,739 km",CNG,Manual,"EMI ₹9,886/m*",₹5.60 lakh
+57,Nissan MAGNITE,Nissan,2022,"18,531 km",Petrol,Auto,"EMI ₹10,833/m*",₹6.14 lakh
+58,Tata NEXON,Tata,2023,"12,845 km",Diesel,Manual,"EMI ₹17,465/m*",₹10.20 lakh
+59,Tata NEXON,Tata,2021,"87,615 km",Petrol,Manual,"EMI ₹12,004/m*",₹6.80 lakh
+60,Ford Ecosport,Ford,2019,"61,635 km",Petrol,Manual,"EMI ₹7,804/m*",₹4.42 lakh
+61,Datsun Redi Go,Datsun,2020,"41,254 km",Petrol,Manual,"EMI ₹5,566/m*",₹3.15 lakh
+62,Maruti Vitara Brezza,Maruti,2016,"1,40,000 km",Diesel,Manual,"EMI ₹12,245/m*",₹4.65 lakh
+63,Maruti Wagon R 1.0,Maruti,2015,"66,296 km",Petrol,Manual,"EMI ₹6,926/m*",₹2.63 lakh
+64,Honda BR-V,Honda,2016,"60,100 km",Diesel,Manual,"EMI ₹10,823/m*",₹4.11 lakh
+65,Honda Jazz,Honda,2012,"59,123 km",Petrol,Manual,"EMI ₹13,860/m*",₹1.56 lakh
+66,Maruti IGNIS,Maruti,2023,"26,492 km",Petrol,Manual,"EMI ₹8,826/m*",₹5.00 lakh
+67,Mahindra BOLERO NEO,Mahindra,2022,"1,40,279 km",Diesel,Manual,"EMI ₹21,155/m*",₹9.73 lakh
+68,Hyundai Creta,Hyundai,2020,"7,157 km",Diesel,Manual,"EMI ₹24,810/m*",₹14.49 lakh
+69,Maruti Alto K10,Maruti,2017,"49,511 km",Petrol,Manual,"EMI ₹4,497/m*",₹2.30 lakh
+70,Maruti Vitara Brezza,Maruti,2016,"85,841 km",Diesel,Manual,"EMI ₹16,538/m*",₹6.28 lakh
+71,Maruti Wagon R 1.0,Maruti,2018,"50,840 km",Petrol,Manual,"EMI ₹4,749/m*",₹2.69 lakh
+72,Hyundai i10,Hyundai,2012,"79,571 km",Petrol,Manual,"EMI ₹9,063/m*",₹1.02 lakh
+73,Honda City,Honda,2013,"75,426 km",Petrol,Manual,"EMI ₹10,745/m*",₹2.28 lakh
+74,Maruti Alto K10,Maruti,2012,"50,667 km",Petrol,Manual,"EMI ₹11,906/m*",₹1.34 lakh
+75,Datsun Go Plus,Datsun,2015,"51,775 km",Petrol,Manual,"EMI ₹4,503/m*",₹1.71 lakh
+76,Honda City,Honda,2014,"67,230 km",Petrol,Manual,"EMI ₹9,333/m*",₹2.81 lakh
+77,Ford New Figo,Ford,2017,"1,05,351 km",Petrol,Manual,"EMI ₹4,849/m*",₹2.18 lakh
+78,Maruti FRONX,Maruti,2025,"5,860 km",Petrol,Manual,"EMI ₹12,233/m*",₹6.93 lakh
+79,Maruti Wagon R 1.0,Maruti,2013,"1,40,827 km",Petrol,Manual,"EMI ₹8,426/m*",₹1.79 lakh
+80,Maruti IGNIS,Maruti,2022,"68,291 km",Petrol,Manual,"EMI ₹9,444/m*",₹5.35 lakh
+81,Maruti Swift Dzire,Maruti,2013,"71,420 km",Diesel,Manual,"EMI ₹16,437/m*",₹1.85 lakh
+82,Maruti New Wagon-R,Maruti,2021,"44,699 km",Petrol,Manual,"EMI ₹9,021/m*",₹5.11 lakh
+83,Hyundai i10,Hyundai,2012,"49,073 km",Petrol,Manual,"EMI ₹12,883/m*",₹1.45 lakh
+84,Maruti Celerio,Maruti,2014,"61,100 km",Petrol,Manual,"EMI ₹8,901/m*",₹2.68 lakh
+85,Tata NEXON,Tata,2021,"66,274 km",Petrol,Auto,"EMI ₹13,240/m*",₹7.50 lakh
+86,Hyundai Eon,Hyundai,2015,"71,319 km",Petrol,Manual,"EMI ₹4,424/m*",₹1.68 lakh
+87,Ford Figo,Ford,2011,"81,934 km",Petrol,Manual,"EMI ₹4,424/m*",₹0.75 lakh
+88,Maruti Alto 800,Maruti,2013,"24,413 km",Petrol,Manual,"EMI ₹7,908/m*",₹1.68 lakh
+89,Maruti IGNIS,Maruti,2018,"26,896 km",Petrol,Manual,"EMI ₹6,090/m*",₹3.45 lakh
+90,Ford Ecosport,Ford,2015,3 km,Diesel,Manual,"EMI ₹10,894/m*",₹3.28 lakh
+91,Hyundai i20 Active,Hyundai,2018,"70,581 km",Diesel,Manual,"EMI ₹5,865/m*",₹3.00 lakh
+92,Hyundai i20,Hyundai,2012,"17,199 km",Petrol,Manual,"EMI ₹17,770/m*",₹2.00 lakh
+93,Hyundai i20 Active,Hyundai,2017,"52,457 km",Petrol,Manual,"EMI ₹9,443/m*",₹4.83 lakh
+94,Maruti Ciaz,Maruti,2023,"19,627 km",Petrol,Manual,"EMI ₹15,376/m*",₹8.98 lakh
+95,Maruti Swift,Maruti,2013,"65,873 km",Petrol,Manual,"EMI ₹11,533/m*",₹2.45 lakh
+96,Tata TIGOR,Tata,2019,"57,732 km",Petrol,Manual,"EMI ₹6,708/m*",₹3.80 lakh
+97,Tata NEXON,Tata,2022,"35,848 km",Petrol,Manual,"EMI ₹16,592/m*",₹9.69 lakh
+98,Hyundai Verna,Hyundai,2018,"68,217 km",Petrol,Manual,"EMI ₹11,704/m*",₹6.63 lakh
+99,Maruti Dzire,Maruti,2018,"52,939 km",Diesel,Manual,"EMI ₹11,007/m*",₹5.63 lakh
+100,Toyota Innova Crysta,Toyota,2021,"1,11,502 km",Diesel,Auto,"EMI ₹36,962/m*",₹17.00 lakh
+101,Tata NEXON,Tata,2022,"75,563 km",Petrol,Auto,"EMI ₹14,109/m*",₹8.24 lakh
+102,Mahindra XUV500,Mahindra,2014,"55,321 km",Diesel,Manual,"EMI ₹20,195/m*",₹4.29 lakh
+103,Volkswagen Vento,Volkswagen,2012,"1,24,947 km",Diesel,Manual,"EMI ₹20,195/m*",₹1.48 lakh
+104,Maruti Swift,Maruti,2011,"60,834 km",Petrol,Manual,"EMI ₹20,195/m*",₹1.30 lakh
+105,Tata NEXON,Tata,2018,"86,782 km",Diesel,Auto,"EMI ₹9,775/m*",₹5.00 lakh
+106,Tata Tiago,Tata,2016,"1,29,210 km",Petrol,Manual,"EMI ₹5,650/m*",₹2.54 lakh
+107,Maruti Dzire,Maruti,2020,"26,046 km",Petrol,Manual,"EMI ₹9,568/m*",₹5.42 lakh
+108,Tata TIGOR,Tata,2022,"37,283 km",Petrol,Manual,"EMI ₹9,709/m*",₹5.50 lakh
+109,Maruti Dzire,Maruti,2017,"56,157 km",Diesel,Manual,"EMI ₹9,187/m*",₹4.13 lakh
+110,Hyundai i20 Active,Hyundai,2017,"1,26,640 km",Petrol,Manual,"EMI ₹9,165/m*",₹4.12 lakh
+111,Maruti Swift,Maruti,2016,"86,757 km",Petrol,Manual,"EMI ₹7,274/m*",₹3.27 lakh
+112,Datsun Go Plus,Datsun,2016,"42,202 km",Petrol,Manual,"EMI ₹3,804/m*",₹1.71 lakh
+113,Toyota Etios,Toyota,2011,"49,606 km",Petrol,Manual,"EMI ₹3,804/m*",₹1.67 lakh
+114,Tata TIGOR,Tata,2022,"1,74,542 km",Petrol,Manual,"EMI ₹13,680/m*",₹6.15 lakh
+115,Renault Duster,Renault,2015,"59,926 km",Diesel,Manual,"EMI ₹9,964/m*",₹3.00 lakh
+116,Maruti Dzire,Maruti,2018,"1,24,806 km",Diesel,Manual,"EMI ₹9,120/m*",₹4.10 lakh
+117,Hyundai i10,Hyundai,2011,"24,400 km",Petrol,Manual,"EMI ₹9,120/m*",₹1.36 lakh
+118,Maruti Dzire,Maruti,2018,"52,088 km",Petrol,Manual,"EMI ₹9,215/m*",₹5.22 lakh
+119,Maruti Swift Dzire,Maruti,2016,"1,06,925 km",Petrol,Manual,"EMI ₹8,008/m*",₹3.60 lakh
+120,Audi A6,Audi,2015,"89,219 km",Diesel,Auto,"EMI ₹34,212/m*",₹10.45 lakh
+121,Hyundai Grand i10,Hyundai,2014,"1,22,963 km",Petrol,Manual,"EMI ₹8,304/m*",₹2.50 lakh
+122,Hyundai GRAND I10 NIOS,Hyundai,2021,"17,709 km",Petrol,Manual,"EMI ₹9,480/m*",₹5.37 lakh
+123,Renault Kwid,Renault,2017,"16,650 km",Petrol,Manual,"EMI ₹4,614/m*",₹2.36 lakh
+124,Tata NEXON,Tata,2018,"37,288 km",Diesel,Manual,"EMI ₹8,895/m*",₹4.55 lakh
+125,Maruti Vitara Brezza,Maruti,2022,"17,616 km",Petrol,Manual,"EMI ₹15,444/m*",₹9.02 lakh
+126,Volkswagen Polo,Volkswagen,2018,"34,097 km",Petrol,Manual,"EMI ₹7,855/m*",₹4.45 lakh
+127,Maruti Swift,Maruti,2021,"61,700 km",Petrol,Manual,"EMI ₹9,356/m*",₹5.30 lakh
+128,Chevrolet Spark,Chevrolet,2013,"50,812 km",Petrol,Manual,"EMI ₹4,095/m*",₹0.87 lakh
+129,Maruti Wagon R 1.0,Maruti,2011,"72,387 km",Petrol,Manual,"EMI ₹4,095/m*",₹1.36 lakh
+130,Hyundai Santro Xing,Hyundai,2011,"22,150 km",Petrol,Manual,"EMI ₹4,095/m*",₹1.00 lakh
+131,Maruti Baleno,Maruti,2016,"58,209 km",Petrol,Manual,"EMI ₹9,454/m*",₹4.25 lakh
+132,Tata Indigo ECS,Tata,2015,"99,416 km",Diesel,Manual,"EMI ₹5,148/m*",₹1.55 lakh
+133,Maruti Swift Dzire,Maruti,2015,"1,45,550 km",Diesel,Manual,"EMI ₹10,396/m*",₹3.13 lakh
+134,Hyundai GRAND I10 NIOS,Hyundai,2022,"67,745 km",Petrol,Manual,"EMI ₹11,033/m*",₹6.25 lakh
+135,Maruti Alto K10,Maruti,2017,"61,779 km",Petrol,Manual,"EMI ₹4,829/m*",₹2.47 lakh
+136,Nissan Kicks,Nissan,2019,"44,257 km",Petrol,Manual,"EMI ₹10,239/m*",₹5.80 lakh
+137,Hyundai Grand i10,Hyundai,2016,"72,231 km",Petrol,Manual,"EMI ₹5,606/m*",₹2.52 lakh
+138,Volkswagen Ameo,Volkswagen,2019,"60,801 km",Petrol,Manual,"EMI ₹6,143/m*",₹3.48 lakh
+139,Hyundai Xcent,Hyundai,2015,"80,402 km",Diesel,Manual,"EMI ₹7,905/m*",₹2.38 lakh
+140,Maruti Dzire,Maruti,2020,"84,673 km",Petrol,Manual,"EMI ₹8,297/m*",₹4.70 lakh
+141,Maruti Dzire,Maruti,2019,"1,58,519 km",Diesel,Manual,"EMI ₹10,989/m*",₹4.94 lakh
+142,Mahindra XUV700,Mahindra,2022,"82,939 km",Diesel,Auto,"EMI ₹34,896/m*",₹20.38 lakh
+143,Maruti Alto K10,Maruti,2010,"53,720 km",Petrol,Manual,"EMI ₹34,896/m*",₹1.19 lakh
+144,Renault Duster,Renault,2015,"55,162 km",Diesel,Manual,"EMI ₹12,024/m*",₹3.62 lakh
+145,Maruti Wagon R 1.0,Maruti,2011,"65,926 km",Petrol,Manual,"EMI ₹12,024/m*",₹1.31 lakh
+146,Tata TIAGO NRG,Tata,2021,"95,000 km",Petrol,Manual,"EMI ₹7,944/m*",₹4.50 lakh
+147,Renault Kwid,Renault,2020,"54,950 km",Petrol,Auto,"EMI ₹7,803/m*",₹4.42 lakh
+148,Maruti Swift Dzire,Maruti,2011,"42,155 km",Petrol,Manual,"EMI ₹7,803/m*",₹1.73 lakh
+149,Maruti Dzire,Maruti,2020,"21,295 km",Petrol,Manual,"EMI ₹9,991/m*",₹5.66 lakh
+150,Ford FREESTYLE,Ford,2021,"13,590 km",Petrol,Manual,"EMI ₹8,826/m*",₹5.00 lakh
+151,Maruti Dzire,Maruti,2017,"40,246 km",Petrol,Manual,"EMI ₹8,016/m*",₹4.10 lakh
+152,Maruti XL6,Maruti,2023,"16,322 km",Petrol,Manual,"EMI ₹19,126/m*",₹11.17 lakh
+153,Ford Ecosport,Ford,2017,"84,665 km",Diesel,Manual,"EMI ₹10,766/m*",₹4.84 lakh
+154,Tata NEXON,Tata,2019,"69,787 km",Petrol,Manual,"EMI ₹10,592/m*",₹6.00 lakh
+155,Maruti Swift Dzire,Maruti,2014,"87,739 km",Petrol,Manual,"EMI ₹9,034/m*",₹2.72 lakh
+156,Ford Ecosport,Ford,2018,"1,16,000 km",Diesel,Manual,"EMI ₹13,525/m*",₹6.08 lakh
+157,Maruti Swift Dzire,Maruti,2016,"1,32,491 km",Petrol,Manual,"EMI ₹7,299/m*",₹3.28 lakh
+158,Maruti Alto,Maruti,2021,"40,068 km",Petrol,Manual,"EMI ₹5,755/m*",₹3.26 lakh
+159,Ford Ecosport,Ford,2015,"93,984 km",Diesel,Manual,"EMI ₹10,164/m*",₹3.06 lakh
+160,Maruti New Wagon-R,Maruti,2022,"22,480 km",Petrol,Manual,"EMI ₹8,120/m*",₹4.60 lakh
+161,Maruti Dzire,Maruti,2017,"81,858 km",Petrol,Manual,"EMI ₹8,798/m*",₹4.50 lakh
+162,Honda City,Honda,2016,"1,55,892 km",Petrol,Manual,"EMI ₹13,525/m*",₹6.08 lakh
+163,Tata Safari,Tata,2022,"51,924 km",Diesel,Auto,"EMI ₹29,742/m*",₹17.37 lakh
+164,Maruti Swift Dzire,Maruti,2015,"1,88,000 km",Diesel,Manual,"EMI ₹9,234/m*",₹2.78 lakh
+165,Ford Ecosport,Ford,2018,"32,380 km",Petrol,Manual,"EMI ₹11,262/m*",₹6.38 lakh
+166,Mahindra XUV500,Mahindra,2014,"1,24,383 km",Diesel,Manual,"EMI ₹18,829/m*",₹4.00 lakh
+167,Hyundai Verna,Hyundai,2020,"49,737 km",Petrol,Manual,"EMI ₹15,222/m*",₹8.89 lakh
+168,Hyundai NEW I20,Hyundai,2022,"12,865 km",Petrol,Manual,"EMI ₹12,163/m*",₹6.89 lakh
+169,Hyundai Creta,Hyundai,2016,"58,432 km",Diesel,Manual,"EMI ₹19,013/m*",₹7.22 lakh
+170,KIA SELTOS,KIA,2024,"23,482 km",Petrol,Manual,"EMI ₹21,951/m*",₹12.82 lakh
+171,Maruti Zen Estilo,Maruti,2011,"1,29,698 km",Petrol,Manual,"EMI ₹21,951/m*",₹1.13 lakh
+172,Hyundai Elite i20,Hyundai,2016,"20,501 km",Petrol,Manual,"EMI ₹8,898/m*",₹4.00 lakh
+173,Maruti Dzire,Maruti,2019,"62,319 km",Diesel,Manual,"EMI ₹8,667/m*",₹4.91 lakh
+174,Hyundai GRAND I10 NIOS,Hyundai,2019,"65,500 km",Diesel,Manual,"EMI ₹9,374/m*",₹5.31 lakh
+175,Maruti IGNIS,Maruti,2021,"21,430 km",Petrol,Manual,"EMI ₹7,513/m*",₹4.26 lakh
+176,Ford Ecosport,Ford,2017,"65,156 km",Diesel,Manual,"EMI ₹9,877/m*",₹4.44 lakh
+177,Honda Amaze,Honda,2020,"1,01,220 km",Diesel,Manual,"EMI ₹12,234/m*",₹5.50 lakh
+178,Fiat Avventura,Fiat,2014,"72,886 km",Petrol,Manual,"EMI ₹9,300/m*",₹2.80 lakh
+179,Maruti New Wagon-R,Maruti,2021,"1,49,788 km",Petrol,Manual,"EMI ₹10,611/m*",₹4.77 lakh
+180,Honda City,Honda,2017,"57,884 km",Petrol,Manual,"EMI ₹10,225/m*",₹5.23 lakh
+181,Maruti XL6,Maruti,2022,"37,756 km",Petrol,Auto,"EMI ₹21,609/m*",₹12.62 lakh
+182,Maruti Swift,Maruti,2022,"20,579 km",Petrol,Manual,"EMI ₹10,733/m*",₹6.08 lakh
+183,Hyundai VENUE,Hyundai,2019,"49,821 km",Petrol,Auto,"EMI ₹12,339/m*",₹6.99 lakh
+184,Honda City,Honda,2016,"88,784 km",Petrol,Auto,"EMI ₹10,522/m*",₹4.73 lakh
+185,Ford Ecosport,Ford,2019,"33,185 km",Petrol,Manual,"EMI ₹11,474/m*",₹6.50 lakh
+186,Maruti Baleno,Maruti,2024,"8,188 km",Petrol,Manual,"EMI ₹11,439/m*",₹6.48 lakh
+187,Tata NEXON,Tata,2023,"9,031 km",Petrol,Manual,"EMI ₹13,681/m*",₹7.75 lakh
+188,Maruti Baleno,Maruti,2020,"78,842 km",Petrol,Manual,"EMI ₹8,209/m*",₹4.65 lakh
+189,Tata NEXON,Tata,2023,"82,218 km",Petrol,Manual,"EMI ₹14,126/m*",₹8.25 lakh
+190,Mahindra XUV500,Mahindra,2018,"82,651 km",Diesel,Manual,"EMI ₹20,747/m*",₹10.90 lakh
+191,Maruti Dzire,Maruti,2023,"38,536 km",Petrol,Manual,"EMI ₹11,315/m*",₹6.41 lakh
+192,Tata NEXON EV,Tata,2022,"24,055 km",Electric,Auto,"EMI ₹15,684/m*",₹9.16 lakh
+193,Mahindra Scorpio,Mahindra,2016,"1,16,457 km",Diesel,Manual,"EMI ₹19,757/m*",₹7.50 lakh
+194,Maruti S Cross,Maruti,2021,"93,921 km",Petrol,Manual,"EMI ₹15,239/m*",₹8.90 lakh
+195,Mahindra Scorpio,Mahindra,2017,"10,605 km",Diesel,Manual,"EMI ₹19,025/m*",₹8.75 lakh
+196,Hyundai Xcent,Hyundai,2017,"48,995 km",Petrol,Manual,"EMI ₹6,295/m*",₹3.22 lakh
+197,Hyundai Grand i10,Hyundai,2017,"52,035 km",Petrol,Manual,"EMI ₹6,276/m*",₹3.21 lakh
+198,Tata PUNCH,Tata,2021,"43,622 km",Petrol,Manual,"EMI ₹9,815/m*",₹5.56 lakh
+199,Maruti Baleno,Maruti,2020,"52,303 km",Petrol,Auto,"EMI ₹10,839/m*",₹6.14 lakh
+200,Hyundai GRAND I10 NIOS,Hyundai,2022,"14,747 km",Petrol,Manual,"EMI ₹7,944/m*",₹4.50 lakh
+201,Maruti Wagon R 1.0,Maruti,2016,"1,12,357 km",Petrol,Manual,"EMI ₹5,428/m*",₹2.44 lakh
+202,Honda City,Honda,2019,"27,921 km",Petrol,Manual,"EMI ₹12,357/m*",₹7.00 lakh
+203,Maruti Grand Vitara,Maruti,2023,"26,441 km",Petrol,Auto,"EMI ₹24,999/m*",₹14.60 lakh
+204,Mahindra Bolero,Mahindra,2020,"51,447 km",Diesel,Manual,"EMI ₹9,303/m*",₹5.27 lakh
+205,Maruti Vitara Brezza,Maruti,2020,"68,240 km",Petrol,Manual,"EMI ₹12,357/m*",₹7.00 lakh
+206,Ford Ecosport,Ford,2018,"62,721 km",Diesel,Manual,"EMI ₹10,518/m*",₹5.38 lakh
+207,Renault Duster,Renault,2013,"1,38,492 km",Diesel,Manual,"EMI ₹29,142/m*",₹3.28 lakh
+208,Tata PUNCH,Tata,2021,"31,975 km",Petrol,Auto,"EMI ₹14,999/m*",₹8.76 lakh
+209,Hyundai Grand i10,Hyundai,2017,"56,145 km",Petrol,Manual,"EMI ₹6,979/m*",₹3.57 lakh
+210,Maruti Vitara Brezza,Maruti,2021,"44,684 km",Petrol,Manual,"EMI ₹11,986/m*",₹6.79 lakh
+211,Honda Amaze,Honda,2020,"2,67,879 km",Diesel,Manual,"EMI ₹10,010/m*",₹4.50 lakh
+212,Honda City,Honda,2015,"27,150 km",Petrol,Manual,"EMI ₹11,113/m*",₹4.22 lakh
+213,Tata Tiago,Tata,2019,"57,110 km",Petrol,Manual,"EMI ₹6,637/m*",₹3.76 lakh
+214,MG HECTOR PLUS,MG,2024,"21,202 km",Diesel,Manual,"EMI ₹37,310/m*",₹21.79 lakh
+215,Hyundai i20 Active,Hyundai,2018,"57,016 km",Petrol,Manual,"EMI ₹7,502/m*",₹4.25 lakh
+216,Maruti Baleno,Maruti,2022,"20,705 km",Petrol,Manual,"EMI ₹12,516/m*",₹7.09 lakh
+217,MG HECTOR PLUS,MG,2024,"4,402 km",Petrol,Manual,"EMI ₹35,341/m*",₹20.64 lakh
+218,Renault Duster,Renault,2014,"1,63,310 km",Diesel,Manual,"EMI ₹14,028/m*",₹2.98 lakh
+219,Maruti S Cross,Maruti,2016,"77,477 km",Diesel,Manual,"EMI ₹10,191/m*",₹3.87 lakh
+220,KIA SELTOS,KIA,2021,"2,294 km",Petrol,Manual,"EMI ₹16,266/m*",₹9.50 lakh
+221,KIA SONET,KIA,2024,"25,293 km",Petrol,Manual,"EMI ₹15,410/m*",₹9.00 lakh
+222,Maruti Ciaz,Maruti,2019,"40,279 km",Petrol,Manual,"EMI ₹10,856/m*",₹6.15 lakh
+223,Maruti Ertiga,Maruti,2014,"99,166 km",Petrol,Manual,"EMI ₹11,858/m*",₹3.57 lakh
+224,Maruti Dzire,Maruti,2022,"55,713 km",Petrol,Manual,"EMI ₹10,380/m*",₹5.88 lakh
+225,Tata Safari,Tata,2021,"41,935 km",Diesel,Manual,"EMI ₹26,540/m*",₹15.50 lakh
+226,Tata ALTROZ,Tata,2023,"9,434 km",Petrol,Manual,"EMI ₹12,604/m*",₹7.14 lakh
+227,Maruti Celerio,Maruti,2022,"66,180 km",Petrol,Manual,"EMI ₹8,297/m*",₹4.70 lakh
+228,Maruti Grand Vitara,Maruti,2023,"15,973 km",Petrol,Manual,"EMI ₹20,256/m*",₹11.83 lakh
+229,Ford Ecosport,Ford,2018,"78,909 km",Diesel,Manual,"EMI ₹10,596/m*",₹5.42 lakh
+230,Maruti IGNIS,Maruti,2021,"43,822 km",Petrol,Auto,"EMI ₹10,150/m*",₹5.75 lakh
+231,Maruti Ciaz,Maruti,2015,"1,17,786 km",Petrol,Manual,"EMI ₹9,191/m*",₹3.49 lakh
+232,KIA SELTOS,KIA,2023,"26,692 km",Petrol,Manual,"EMI ₹21,403/m*",₹12.50 lakh
+233,Maruti BREZZA,Maruti,2023,"32,506 km",Petrol,Manual,"EMI ₹13,698/m*",₹8.00 lakh
+234,KIA SELTOS,KIA,2022,"77,077 km",Diesel,Manual,"EMI ₹17,071/m*",₹9.97 lakh
+235,Maruti Baleno,Maruti,2020,"33,293 km",Petrol,Manual,"EMI ₹10,256/m*",₹5.81 lakh
+236,KIA SELTOS,KIA,2022,"19,535 km",Petrol,Manual,"EMI ₹22,482/m*",₹13.13 lakh
+237,MG HECTOR PLUS,MG,2021,"35,835 km",Diesel,Manual,"EMI ₹26,403/m*",₹15.42 lakh
+238,Mahindra XUV500,Mahindra,2013,"1,09,683 km",Diesel,Manual,"EMI ₹46,823/m*",₹5.27 lakh
+239,MG HECTOR PLUS,MG,2022,"34,777 km",Diesel,Manual,"EMI ₹31,540/m*",₹18.42 lakh
+240,Honda WR-V,Honda,2018,"1,70,186 km",Petrol,Manual,"EMI ₹10,010/m*",₹4.50 lakh
+241,Honda Amaze,Honda,2021,"63,495 km",Petrol,Manual,"EMI ₹12,586/m*",₹7.13 lakh
+242,Maruti Swift Dzire,Maruti,2018,"55,353 km",Diesel,Manual,"EMI ₹7,390/m*",₹3.78 lakh
+243,Mahindra XUV700,Mahindra,2023,"72,164 km",Diesel,Manual,"EMI ₹26,043/m*",₹15.21 lakh
+244,Tata Safari,Tata,2022,"61,296 km",Diesel,Manual,"EMI ₹21,215/m*",₹12.39 lakh
+245,Mahindra XUV300,Mahindra,2019,"83,689 km",Diesel,Manual,"EMI ₹9,709/m*",₹5.50 lakh
+246,Hyundai Creta,Hyundai,2023,"26,195 km",Petrol,Manual,"EMI ₹20,992/m*",₹12.26 lakh
+247,Tata Tiago,Tata,2021,"22,783 km",Petrol,Manual,"EMI ₹7,321/m*",₹4.15 lakh
+248,Mahindra SCORPIO-N,Mahindra,2024,"6,107 km",Diesel,Auto,"EMI ₹43,953/m*",₹25.67 lakh
+249,Hyundai Creta,Hyundai,2023,"26,321 km",Petrol,Manual,"EMI ₹22,465/m*",₹13.12 lakh
+250,Jeep Compass,Jeep,2018,"1,93,186 km",Diesel,Manual,"EMI ₹19,286/m*",₹8.87 lakh
+251,Ford Ecosport,Ford,2019,"77,153 km",Diesel,Manual,"EMI ₹11,986/m*",₹6.79 lakh
+252,Mahindra XUV300,Mahindra,2023,"30,835 km",Petrol,Manual,"EMI ₹16,266/m*",₹9.50 lakh
+253,Jeep Compass,Jeep,2018,"74,708 km",Diesel,Manual,"EMI ₹21,528/m*",₹11.31 lakh
+254,Maruti Dzire,Maruti,2021,"39,667 km",Petrol,Manual,"EMI ₹12,975/m*",₹7.35 lakh
+255,Renault Kiger,Renault,2022,"48,681 km",Petrol,Manual,"EMI ₹12,904/m*",₹7.31 lakh
+256,Mahindra XUV 3XO,Mahindra,2024,"24,189 km",Petrol,Manual,"EMI ₹21,591/m*",₹12.61 lakh
+257,KIA SELTOS,KIA,2022,"43,294 km",Petrol,Manual,"EMI ₹19,348/m*",₹11.30 lakh
+258,KIA SONET,KIA,2022,"22,221 km",Petrol,Auto,"EMI ₹15,787/m*",₹9.22 lakh
+259,Mahindra XUV300,Mahindra,2023,"65,765 km",Diesel,Manual,"EMI ₹15,667/m*",₹9.15 lakh
+260,Mahindra SCORPIO-N,Mahindra,2024,"17,527 km",Diesel,Auto,"EMI ₹39,930/m*",₹23.32 lakh
+261,Mahindra BOLERO NEO,Mahindra,2023,"44,931 km",Diesel,Manual,"EMI ₹14,160/m*",₹8.27 lakh
+262,Toyota Innova,Toyota,2013,"1,15,129 km",Diesel,Manual,"EMI ₹46,734/m*",₹5.26 lakh
+263,Tata Harrier,Tata,2021,"62,925 km",Diesel,Manual,"EMI ₹22,259/m*",₹13.00 lakh
+264,Tata Hexa,Tata,2018,"85,880 km",Diesel,Manual,"EMI ₹15,970/m*",₹8.39 lakh
+265,Hyundai VENUE N LINE,Hyundai,2023,"33,532 km",Petrol,Auto,"EMI ₹19,451/m*",₹11.36 lakh
+266,Hyundai Elite i20,Hyundai,2016,"59,163 km",Diesel,Manual,"EMI ₹10,955/m*",₹4.16 lakh
+267,Tata Harrier,Tata,2019,"9,15,510 km",Diesel,Manual,"EMI ₹20,547/m*",₹9.45 lakh
+268,Mahindra Scorpio,Mahindra,2022,"82,625 km",Diesel,Manual,"EMI ₹28,149/m*",₹16.44 lakh
+269,MG HECTOR,MG,2019,"16,418 km",Petrol,Auto,"EMI ₹22,961/m*",₹13.41 lakh
+270,Maruti Vitara Brezza,Maruti,2016,"1,85,972 km",Diesel,Manual,"EMI ₹11,824/m*",₹4.49 lakh
+271,Maruti BREZZA,Maruti,2022,"56,329 km",Petrol,Manual,"EMI ₹13,698/m*",₹8.00 lakh
+272,Hyundai NEW I20 N LINE,Hyundai,2022,"37,920 km",Petrol,Manual,"EMI ₹16,523/m*",₹9.65 lakh
+273,Mahindra SCORPIO CLASSIC,Mahindra,2022,"2,871 km",Diesel,Manual,"EMI ₹27,773/m*",₹16.22 lakh
+274,Hyundai i20 Active,Hyundai,2018,"70,579 km",Diesel,Manual,"EMI ₹20,328/m*",₹10.68 lakh
+275,Tata Curvv,Tata,2024,"15,540 km",Petrol,Manual,"EMI ₹22,019/m*",₹12.86 lakh
+276,Mahindra Scorpio,Mahindra,2015,"2,56,183 km",Diesel,Manual,"EMI ₹25,176/m*",₹7.58 lakh
+277,Hyundai Tucson,Hyundai,2022,"34,841 km",Petrol,Auto,"EMI ₹30,820/m*",₹18.00 lakh
+278,Toyota Innova Crysta,Toyota,2016,"2,65,075 km",Diesel,Manual,"EMI ₹23,261/m*",₹9.00 lakh
+279,MG HECTOR,MG,2023,"68,769 km",Petrol,Auto,"EMI ₹34,878/m*",₹20.37 lakh
+280,Hyundai Tucson,Hyundai,2024,"22,451 km",Diesel,Auto,"EMI ₹56,213/m*",₹32.83 lakh
+281,Hyundai Creta,Hyundai,2024,"21,000 km",Petrol,Manual,"EMI ₹28,423/m*",₹16.60 lakh
+282,Tata Harrier,Tata,2021,"84,959 km",Diesel,Manual,"EMI ₹20,547/m*",₹12.00 lakh
+283,Toyota Innova Crysta,Toyota,2021,"82,787 km",Diesel,Manual,"EMI ₹30,820/m*",₹18.00 lakh
+284,MG GLOSTER,MG,2023,"82,832 km",Diesel,Auto,"EMI ₹63,216/m*",₹36.92 lakh
+285,Tata Safari,Tata,2023,"42,661 km",Diesel,Manual,"EMI ₹30,820/m*",₹18.00 lakh
+286,Mahindra ALTURAS G4,Mahindra,2020,"64,235 km",Diesel,Auto,"EMI ₹48,131/m*",₹28.11 lakh
+287,Ford Ecosport,Ford,2020,"1,67,209 km",Diesel,Manual,"EMI ₹13,680/m*",₹6.15 lakh
+288,Hyundai Xcent,Hyundai,2014,"69,262 km",Petrol,Manual,"EMI ₹6,942/m*",₹2.09 lakh
+289,Maruti Alto,Maruti,2011,"15,342 km",Petrol,Manual,"EMI ₹6,942/m*",₹0.94 lakh
+290,Mahindra XUV500,Mahindra,2017,"37,063 km",Diesel,Manual,"EMI ₹16,092/m*",₹7.23 lakh
+291,Renault Kwid,Renault,2016,"49,405 km",Petrol,Manual,"EMI ₹3,248/m*",₹1.46 lakh
+292,Mahindra Scorpio,Mahindra,2014,"2,05,700 km",Diesel,Manual,"EMI ₹12,239/m*",₹2.60 lakh
+293,Maruti Alto 800,Maruti,2012,"28,705 km",Petrol,Manual,"EMI ₹13,772/m*",₹1.55 lakh
+294,Hyundai Elite i20,Hyundai,2019,"39,242 km",Petrol,Manual,"EMI ₹7,132/m*",₹4.04 lakh
+295,Maruti Wagon R 1.0,Maruti,2013,"72,548 km",Petrol,Manual,"EMI ₹9,697/m*",₹2.06 lakh
+296,Ford FREESTYLE,Ford,2020,"20,911 km",Diesel,Manual,"EMI ₹13,840/m*",₹7.84 lakh
+297,Mahindra Kuv100,Mahindra,2016,"17,581 km",Diesel,Manual,"EMI ₹6,794/m*",₹2.58 lakh
+298,Renault Duster,Renault,2015,"73,350 km",Diesel,Manual,"EMI ₹9,134/m*",₹2.75 lakh
+299,Renault Kwid,Renault,2016,"60,720 km",Petrol,Manual,"EMI ₹4,026/m*",₹1.81 lakh
+300,Hyundai i10,Hyundai,2011,"99,580 km",Petrol,Manual,"EMI ₹4,026/m*",₹0.94 lakh
+301,Hyundai Grand i10,Hyundai,2019,"65,000 km",Petrol,Manual,"EMI ₹5,719/m*",₹3.24 lakh
+302,Mahindra Thar,Mahindra,2021,"85,850 km",Diesel,Auto,"EMI ₹16,266/m*",₹9.50 lakh
+303,Ford Ecosport,Ford,2019,"15,963 km",Petrol,Manual,"EMI ₹9,054/m*",₹5.13 lakh
+304,Hyundai New Elantra,Hyundai,2018,"54,355 km",Diesel,Auto,"EMI ₹15,178/m*",₹7.76 lakh
+305,Hyundai EXTER,Hyundai,2023,"36,600 km",Petrol,Manual,"EMI ₹10,415/m*",₹5.90 lakh
+306,Toyota Etios,Toyota,2020,"65,593 km",CNG,Manual,"EMI ₹6,411/m*",₹3.63 lakh
+307,Hyundai NEW I20,Hyundai,2023,"39,296 km",Petrol,Manual,"EMI ₹9,356/m*",₹5.30 lakh
+308,Maruti Baleno,Maruti,2020,"48,273 km",Petrol,Manual,"EMI ₹8,297/m*",₹4.70 lakh
+309,Maruti Baleno,Maruti,2018,"32,850 km",Petrol,Auto,"EMI ₹6,779/m*",₹3.84 lakh
+310,Ford Ecosport,Ford,2021,"12,457 km",Petrol,Manual,"EMI ₹10,786/m*",₹6.11 lakh
+311,Mahindra XUV500,Mahindra,2019,"91,379 km",Diesel,Manual,"EMI ₹14,724/m*",₹8.60 lakh
+312,Hyundai NEW I20,Hyundai,2024,"11,965 km",Petrol,Manual,"EMI ₹12,533/m*",₹7.10 lakh
+313,Renault Kwid,Renault,2022,"19,489 km",Petrol,Manual,"EMI ₹6,178/m*",₹3.50 lakh

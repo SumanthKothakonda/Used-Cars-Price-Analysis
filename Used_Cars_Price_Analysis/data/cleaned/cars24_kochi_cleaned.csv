@@ -1,0 +1,261 @@
+,car_name,brand,year_of_manufacture,kms_driven,fuel_type,transmission_type,emi,price,car_age_years,city
+0,Maruti Alto 800,Maruti,2018,47656,Petrol,Manual,4565,259000.0,8,Kochi
+1,MG HECTOR PLUS,MG,2020,42482,Petrol,Manual,18681,1091000.0,6,Kochi
+2,Datsun Redi Go,Datsun,2017,63316,Petrol,Manual,2990,153000.0,9,Kochi
+3,Hyundai Grand i10,Hyundai,2016,44448,Petrol,Manual,6678,300000.0,10,Kochi
+4,MG HECTOR,MG,2021,90805,Diesel,Manual,17705,1034000.0,5,Kochi
+5,Hyundai Grand i10,Hyundai,2016,80233,Petrol,Manual,6206,279000.0,10,Kochi
+6,Tata ALTROZ,Tata,2020,72750,Petrol,Manual,6802,385000.0,6,Kochi
+7,Renault Kwid,Renault,2021,59337,Petrol,Manual,5384,305000.0,5,Kochi
+8,Honda Amaze,Honda,2016,63272,Petrol,Manual,8246,371000.0,10,Kochi
+9,Hyundai Xcent,Hyundai,2014,94087,Petrol,Manual,7573,227999.99999999997,12,Kochi
+10,Renault Kwid,Renault,2015,108555,Petrol,Manual,3008,113999.99999999999,11,Kochi
+11,Hyundai Creta,Hyundai,2017,125870,Petrol,Manual,12457,560000.0,9,Kochi
+12,Nissan Micra Active,Nissan,2013,136687,Petrol,Manual,8291,176000.0,13,Kochi
+13,Tata Tiago,Tata,2023,8625,Petrol,Manual,7026,398000.0,3,Kochi
+14,Hyundai Eon,Hyundai,2015,66389,Petrol,Manual,2897,110000.00000000001,11,Kochi
+15,Datsun Redi Go,Datsun,2018,49663,Petrol,Auto,3548,200999.99999999997,8,Kochi
+16,Datsun Redi Go,Datsun,2019,64501,Petrol,Manual,2207,125000.0,7,Kochi
+17,Maruti Celerio,Maruti,2016,60116,Petrol,Manual,6451,290000.0,10,Kochi
+18,Renault Duster,Renault,2014,76863,Diesel,Manual,17935,381000.0,12,Kochi
+19,Ford FREESTYLE,Ford,2019,134993,Diesel,Manual,10366,466000.0,7,Kochi
+20,Nissan Sunny,Nissan,2013,30075,Petrol,Manual,8803,187000.0,13,Kochi
+21,Renault Kwid,Renault,2016,32225,Petrol,Manual,4894,220000.00000000003,10,Kochi
+22,Nissan Kicks,Nissan,2020,38663,Petrol,Manual,13240,750000.0,6,Kochi
+23,Maruti S PRESSO,Maruti,2021,57016,Petrol,Manual,4678,265000.0,5,Kochi
+24,Honda City,Honda,2016,142290,Petrol,Auto,11790,530000.0,10,Kochi
+25,Renault Duster,Renault,2013,81336,Diesel,Manual,24167,272000.0,13,Kochi
+26,Volkswagen Polo,Volkswagen,2012,128734,Diesel,Manual,24167,191000.0,14,Kochi
+27,Ford FREESTYLE,Ford,2019,92867,Petrol,Manual,6902,391000.0,7,Kochi
+28,Honda Jazz,Honda,2017,116273,Petrol,Manual,7830,352000.0,9,Kochi
+29,Tata Tiago,Tata,2023,29883,Petrol,Manual,8050,455999.99999999994,3,Kochi
+30,Renault Kwid,Renault,2017,43552,Petrol,Manual,3734,191000.0,9,Kochi
+31,Hyundai VENUE,Hyundai,2020,78987,Petrol,Manual,10080,571000.0,6,Kochi
+32,Datsun Redi Go,Datsun,2018,85983,Petrol,Manual,2630,149000.0,8,Kochi
+33,Hyundai Xcent,Hyundai,2014,77381,Petrol,Manual,6743,202999.99999999997,12,Kochi
+34,Renault Duster,Renault,2021,91138,Petrol,Manual,11492,651000.0,5,Kochi
+35,Datsun Redi Go,Datsun,2016,63052,Petrol,Manual,3136,141000.0,10,Kochi
+36,Hyundai i10,Hyundai,2013,69998,Petrol,Manual,8473,180000.0,13,Kochi
+37,Honda Jazz,Honda,2018,64906,Petrol,Auto,8632,488999.99999999994,8,Kochi
+38,Hyundai Grand i10,Hyundai,2013,28268,Petrol,Manual,12242,260000.0,13,Kochi
+39,Hyundai i20,Hyundai,2012,99234,Petrol,Auto,26299,296000.0,14,Kochi
+40,Hyundai AURA,Hyundai,2022,121535,CNG,Manual,10344,465000.00000000006,4,Kochi
+41,Maruti Alto 800,Maruti,2015,49127,Petrol,Manual,4845,184000.0,11,Kochi
+42,Renault Kwid,Renault,2016,67389,Petrol,Manual,3337,150000.0,10,Kochi
+43,Tata Tiago,Tata,2019,56667,Petrol,Manual,6758,383000.0,7,Kochi
+44,Volkswagen TAIGUN,Volkswagen,2021,91699,Petrol,Manual,15188,886999.9999999999,5,Kochi
+45,Hyundai Eon,Hyundai,2018,53338,Petrol,Manual,3319,188000.0,8,Kochi
+46,Maruti Swift,Maruti,2017,67049,Petrol,Manual,7370,377000.0,9,Kochi
+47,Maruti Alto K10,Maruti,2022,51407,CNG,Manual,5349,303000.0,4,Kochi
+48,Tata Tiago,Tata,2017,21763,Petrol,Auto,7293,373000.0,9,Kochi
+49,Datsun Go,Datsun,2014,61499,Petrol,Manual,3222,97000.0,12,Kochi
+50,Renault Kwid,Renault,2020,56092,Petrol,Manual,5208,295000.0,6,Kochi
+51,Maruti Swift,Maruti,2012,85824,Diesel,Manual,5208,225000.0,14,Kochi
+52,Hyundai Eon,Hyundai,2014,74909,Petrol,Manual,4750,143000.0,12,Kochi
+53,Ford Ecosport,Ford,2016,124250,Petrol,Manual,8364,376000.0,10,Kochi
+54,Tata Tiago,Tata,2018,30617,Petrol,Manual,5673,321000.0,8,Kochi
+55,Hyundai Grand i10,Hyundai,2017,98354,Petrol,Auto,6217,318000.0,9,Kochi
+56,Ford Ecosport,Ford,2014,106662,Petrol,Manual,10961,330000.0,12,Kochi
+57,Ford Ecosport,Ford,2016,149073,Petrol,Manual,7341,330000.0,10,Kochi
+58,Tata NEXON,Tata,2021,43360,Petrol,Manual,8985,509000.0,5,Kochi
+59,Renault Kwid,Renault,2019,74559,Petrol,Manual,3160,179000.0,7,Kochi
+60,Tata NEXON,Tata,2020,93924,Diesel,Manual,10380,588000.0,6,Kochi
+61,Maruti Swift,Maruti,2013,79274,Petrol,Manual,13934,296000.0,13,Kochi
+62,Hyundai VENUE,Hyundai,2019,63145,Petrol,Manual,10397,589000.0,7,Kochi
+63,Renault Kwid,Renault,2018,61303,Petrol,Manual,4696,266000.0,8,Kochi
+64,Maruti Dzire,Maruti,2018,47350,Petrol,Auto,9179,520000.0,8,Kochi
+65,Hyundai Eon,Hyundai,2016,36637,Petrol,Manual,3937,177000.0,10,Kochi
+66,Tata TIGOR,Tata,2022,84798,CNG,Manual,7944,450000.0,4,Kochi
+67,Hyundai Xcent,Hyundai,2015,66939,Petrol,Manual,7612,289000.0,11,Kochi
+68,Hyundai Eon,Hyundai,2014,25483,Petrol,Manual,4285,129000.0,12,Kochi
+69,MG HECTOR PLUS,MG,2020,40546,Petrol,Auto,18081,1056000.0,6,Kochi
+70,Renault Kwid,Renault,2017,31419,Petrol,Auto,4516,231000.0,9,Kochi
+71,Renault Kwid,Renault,2017,117607,Petrol,Manual,3448,155000.0,9,Kochi
+72,Renault Kwid,Renault,2016,52041,Petrol,Manual,3515,158000.0,10,Kochi
+73,Renault Kwid,Renault,2016,91411,Petrol,Manual,3782,170000.0,10,Kochi
+74,Hyundai NEW SANTRO,Hyundai,2018,94399,Petrol,Manual,4855,275000.0,8,Kochi
+75,Honda Jazz,Honda,2017,124203,Petrol,Manual,9788,440000.00000000006,9,Kochi
+76,Mahindra KUV 100 NXT,Mahindra,2018,17136,CNG,Manual,6696,301000.0,8,Kochi
+77,Maruti Swift Dzire,Maruti,2013,68996,Petrol,Manual,13981,297000.0,13,Kochi
+78,Hyundai Creta,Hyundai,2016,92737,Petrol,Auto,13887,624000.0,10,Kochi
+79,Hyundai Verna,Hyundai,2020,82278,Petrol,Auto,13869,810000.0,6,Kochi
+80,Tata Tiago,Tata,2016,52175,CNG,Manual,9931,299000.0,10,Kochi
+81,Nissan Kicks,Nissan,2020,48574,Petrol,Manual,11625,659000.0,6,Kochi
+82,Honda Amaze,Honda,2015,55169,Petrol,Manual,7189,273000.0,11,Kochi
+83,Renault Kwid,Renault,2017,39400,Petrol,Auto,5024,256999.99999999997,9,Kochi
+84,Maruti Swift,Maruti,2015,119459,Petrol,Manual,10507,399000.0,11,Kochi
+85,Renault Kwid,Renault,2019,44759,Petrol,Manual,4655,264000.0,7,Kochi
+86,Maruti Alto K10,Maruti,2016,72853,Petrol,Auto,5917,266000.0,10,Kochi
+87,Hyundai Creta,Hyundai,2017,40310,Petrol,Manual,12610,645000.0,9,Kochi
+88,Hyundai Verna,Hyundai,2016,98255,Petrol,Manual,10499,472000.0,10,Kochi
+89,Hyundai Elite i20,Hyundai,2015,68266,Petrol,Manual,10861,412000.0,11,Kochi
+90,Maruti Celerio,Maruti,2015,54933,Petrol,Auto,7734,294000.0,11,Kochi
+91,Hyundai i20,Hyundai,2012,44196,Diesel,Manual,7734,299000.0,14,Kochi
+92,Hyundai Grand i10,Hyundai,2013,75139,Petrol,Manual,12192,259000.0,13,Kochi
+93,Mahindra KUV 100 NXT,Mahindra,2017,40726,Petrol,Manual,5572,285000.0,9,Kochi
+94,Renault Kwid,Renault,2018,40536,Petrol,Manual,4784,271000.0,8,Kochi
+95,Renault Duster,Renault,2017,140973,Diesel,Manual,9587,430999.99999999994,9,Kochi
+96,Hyundai Elite i20,Hyundai,2015,102603,Diesel,Manual,15279,459999.99999999994,11,Kochi
+97,Datsun Redi Go,Datsun,2019,15962,Petrol,Auto,4060,229999.99999999997,7,Kochi
+98,Honda City,Honda,2016,78233,Petrol,Manual,10210,459000.0,10,Kochi
+99,Honda Amaze,Honda,2015,45099,Petrol,Manual,8822,335000.0,11,Kochi
+100,Ford Classic,Ford,2014,85337,Diesel,Manual,11287,240000.0,12,Kochi
+101,Maruti Baleno,Maruti,2017,53593,Petrol,Auto,10321,528000.0,9,Kochi
+102,Hyundai Elite i20,Hyundai,2016,52716,Petrol,Manual,8682,390000.0,10,Kochi
+103,Maruti Wagon R 1.0,Maruti,2016,56463,Petrol,Auto,8245,371000.0,10,Kochi
+104,Maruti Celerio,Maruti,2018,39143,Petrol,Auto,6897,391000.0,8,Kochi
+105,Maruti Alto 800,Maruti,2012,62499,Petrol,Manual,12420,140000.0,14,Kochi
+106,Tata Tiago,Tata,2018,81972,Petrol,Auto,5472,310000.0,8,Kochi
+107,Maruti Wagon R 1.0,Maruti,2011,74123,Petrol,Manual,5472,220000.00000000003,15,Kochi
+108,Maruti Alto K10,Maruti,2013,62963,Petrol,Manual,9415,200000.0,13,Kochi
+109,Hyundai Elite i20,Hyundai,2018,57748,Petrol,Manual,8544,484000.0,8,Kochi
+110,Maruti IGNIS,Maruti,2019,141300,Petrol,Auto,9276,417000.0,7,Kochi
+111,Renault Kwid,Renault,2016,95485,Petrol,Manual,3337,150000.0,10,Kochi
+112,Maruti Swift Dzire,Maruti,2013,101816,Petrol,Manual,13840,294000.0,13,Kochi
+113,Maruti Alto K10,Maruti,2011,67736,Petrol,Manual,13840,115999.99999999999,15,Kochi
+114,Hyundai Grand i10,Hyundai,2014,70416,Petrol,Manual,7174,216000.0,12,Kochi
+115,Renault Kwid,Renault,2016,39248,Petrol,Manual,5072,227999.99999999997,10,Kochi
+116,Renault Kwid,Renault,2019,46337,Petrol,Auto,5137,291000.0,7,Kochi
+117,Volkswagen Polo,Volkswagen,2011,71774,Petrol,Manual,5137,186000.0,15,Kochi
+118,Hyundai Eon,Hyundai,2014,73729,Petrol,Manual,5148,155000.0,12,Kochi
+119,Tata Tiago,Tata,2016,121398,Petrol,Manual,5561,250000.0,10,Kochi
+120,Volkswagen Vento,Volkswagen,2015,132193,Diesel,Manual,10562,318000.0,11,Kochi
+121,Renault Kwid,Renault,2017,49967,Petrol,Manual,4888,250000.0,9,Kochi
+122,Mahindra KUV 100 NXT,Mahindra,2018,59522,Petrol,Manual,5261,298000.0,8,Kochi
+123,Tata Bolt,Tata,2015,80763,Petrol,Manual,4766,181000.0,11,Kochi
+124,Honda Amaze,Honda,2015,151292,Petrol,Manual,8479,322000.0,11,Kochi
+125,Maruti Swift,Maruti,2019,73395,Petrol,Manual,7591,430000.0,7,Kochi
+126,Jeep Compass,Jeep,2017,88121,Petrol,Auto,15210,778000.0,9,Kochi
+127,Renault Kwid,Renault,2018,59290,Petrol,Auto,5437,308000.0,8,Kochi
+128,Hyundai Verna,Hyundai,2018,46380,Petrol,Manual,12092,685000.0,8,Kochi
+129,Maruti Ritz,Maruti,2012,108727,Diesel,Manual,12092,227999.99999999997,14,Kochi
+130,Tata NEXON,Tata,2019,21018,Petrol,Auto,12992,736000.0,7,Kochi
+131,Ford Figo,Ford,2011,60989,Petrol,Manual,12992,98000.0,15,Kochi
+132,Maruti Alto,Maruti,2020,29283,Petrol,Manual,5719,324000.0,6,Kochi
+133,Nissan Micra,Nissan,2011,112201,Petrol,Manual,5719,141000.0,15,Kochi
+134,Hyundai Xcent,Hyundai,2014,107328,Petrol,Manual,9632,290000.0,12,Kochi
+135,Maruti Celerio,Maruti,2016,35557,Petrol,Manual,6228,280000.0,10,Kochi
+136,Tata NEXON,Tata,2024,8468,Petrol,Auto,18835,1100000.0,2,Kochi
+137,Mahindra Kuv100,Mahindra,2016,45081,Petrol,Manual,5205,234000.0,10,Kochi
+138,Ford Figo,Ford,2012,59781,Petrol,Manual,12439,140000.0,14,Kochi
+139,Hyundai Verna,Hyundai,2015,63668,Petrol,Manual,12140,461000.00000000006,11,Kochi
+140,Hyundai New Elantra,Hyundai,2013,106475,Petrol,Manual,14404,306000.0,13,Kochi
+141,Tata Indica Vista,Tata,2011,118634,Diesel,Manual,14404,80000.0,15,Kochi
+142,Chevrolet Sail UVA,Chevrolet,2013,40000,Diesel,Manual,9151,103000.0,13,Kochi
+143,Volkswagen Polo,Volkswagen,2016,92006,Petrol,Manual,11434,513999.99999999994,10,Kochi
+144,Renault Duster,Renault,2015,138431,Diesel,Manual,10629,320000.0,11,Kochi
+145,Maruti Wagon R 1.0,Maruti,2018,10176,Petrol,Auto,7855,445000.0,8,Kochi
+146,Maruti Swift Dzire,Maruti,2016,78869,Petrol,Manual,8008,360000.0,10,Kochi
+147,Hyundai i20 Active,Hyundai,2015,153916,Diesel,Manual,12954,390000.0,11,Kochi
+148,Tata Tiago,Tata,2018,57255,Petrol,Manual,5296,300000.0,8,Kochi
+149,Hyundai Grand i10,Hyundai,2018,28499,Petrol,Auto,8898,400000.0,8,Kochi
+150,Tata TIGOR,Tata,2018,84622,Petrol,Manual,6178,350000.0,8,Kochi
+151,KIA CARENS,KIA,2022,31154,Petrol,Auto,20119,1175000.0,4,Kochi
+152,Hyundai i20,Hyundai,2010,100000,Petrol,Manual,20119,88000.0,16,Kochi
+153,Ford Fiesta,Ford,2011,113405,Diesel,Manual,20119,94000.0,15,Kochi
+154,Maruti Alto K10,Maruti,2018,23949,Petrol,Manual,4572,259000.0,8,Kochi
+155,Maruti Alto K10,Maruti,2012,79677,Petrol,Manual,14660,165000.0,14,Kochi
+156,Tata PUNCH,Tata,2024,24619,Petrol,Auto,11810,669000.0,2,Kochi
+157,Jeep Compass,Jeep,2017,101324,Diesel,Manual,21612,994000.0,9,Kochi
+158,Ford Figo,Ford,2011,82190,Diesel,Manual,21612,82000.0,15,Kochi
+159,Mahindra XUV500,Mahindra,2017,71847,Diesel,Auto,20177,927999.9999999999,9,Kochi
+160,Tata Tiago,Tata,2019,55549,Petrol,Manual,5825,330000.0,7,Kochi
+161,Hyundai Creta,Hyundai,2017,76336,Diesel,Manual,11345,509999.99999999994,9,Kochi
+162,Hyundai i20,Hyundai,2012,64405,Petrol,Auto,22745,256000.0,14,Kochi
+163,Maruti Swift,Maruti,2013,104732,Petrol,Manual,14075,299000.0,13,Kochi
+164,Volkswagen Ameo,Volkswagen,2016,64731,Petrol,Manual,8164,367000.0,10,Kochi
+165,Honda City,Honda,2017,98111,Petrol,Manual,11711,599000.0,9,Kochi
+166,Maruti Baleno,Maruti,2023,124492,Petrol,Manual,14459,650000.0,3,Kochi
+167,Honda City,Honda,2016,61122,Petrol,Manual,10344,465000.00000000006,10,Kochi
+168,Tata TIAGO EV,Tata,2023,34850,Electric,Auto,10564,598000.0,3,Kochi
+169,Ford Ecosport,Ford,2020,63889,Diesel,Manual,13698,800000.0,6,Kochi
+170,Tata ALTROZ,Tata,2022,6450,Petrol,Auto,13504,765000.0,4,Kochi
+171,Mahindra Xylo,Mahindra,2011,259765,Diesel,Manual,13504,160000.0,15,Kochi
+172,Toyota Etios Liva,Toyota,2013,165985,Petrol,Manual,16146,343000.0,13,Kochi
+173,Honda City,Honda,2015,197153,Petrol,Manual,13272,504000.0,11,Kochi
+174,Honda Amaze,Honda,2015,37110,Petrol,Manual,9217,350000.0,11,Kochi
+175,Maruti Ciaz,Maruti,2015,35810,Petrol,Manual,13694,520000.0,11,Kochi
+176,Renault Kiger,Renault,2022,18246,Petrol,Auto,10503,595000.0,4,Kochi
+177,Volkswagen Ameo,Volkswagen,2017,184000,Diesel,Manual,7875,354000.0,9,Kochi
+178,Maruti Grand Vitara,Maruti,2023,59767,Petrol,Manual,20752,1212000.0,3,Kochi
+179,Mahindra XUV700,Mahindra,2022,86282,Diesel,Auto,33817,1975000.0,4,Kochi
+180,Ford Ecosport,Ford,2019,76033,Petrol,Auto,11704,663000.0,7,Kochi
+181,Maruti Baleno,Maruti,2017,98442,Petrol,Manual,9775,500000.0,9,Kochi
+182,Maruti BREZZA,Maruti,2022,39785,Petrol,Manual,13903,811999.9999999999,4,Kochi
+183,Hyundai Verna,Hyundai,2018,13347,Petrol,Auto,14931,872000.0000000001,8,Kochi
+184,Maruti Ertiga,Maruti,2021,94200,Petrol,Manual,15838,925000.0,5,Kochi
+185,Ford Ecosport,Ford,2014,101061,Petrol,Manual,15677,472000.0,12,Kochi
+186,Hyundai Creta,Hyundai,2019,219249,Diesel,Manual,15838,712000.0,7,Kochi
+187,Ford Ecosport,Ford,2014,117196,Petrol,Auto,14581,438999.99999999994,12,Kochi
+188,Hyundai i20 Active,Hyundai,2015,37579,Petrol,Manual,11929,453000.0,11,Kochi
+189,Volkswagen VIRTUS,Volkswagen,2022,83467,Petrol,Auto,18321,1070000.0,4,Kochi
+190,Hyundai Creta,Hyundai,2017,62437,Petrol,Manual,15249,780000.0,9,Kochi
+191,Renault Duster,Renault,2019,26190,Petrol,Auto,12798,725000.0,7,Kochi
+192,Maruti Dzire,Maruti,2018,68459,Petrol,Manual,8844,501000.0,8,Kochi
+193,Hyundai Elite i20,Hyundai,2014,91117,Petrol,Manual,11226,338000.0,12,Kochi
+194,Maruti Celerio,Maruti,2016,25291,Petrol,Auto,8898,400000.0,10,Kochi
+195,Tata Tiago,Tata,2021,64410,Petrol,Auto,8720,494000.00000000006,5,Kochi
+196,Tata Tiago,Tata,2023,22685,Petrol,Auto,10388,588000.0,3,Kochi
+197,Honda City,Honda,2016,82042,Petrol,Manual,10855,488000.0,10,Kochi
+198,Maruti Celerio X,Maruti,2019,30124,Petrol,Auto,8156,462000.0,7,Kochi
+199,Maruti Baleno,Maruti,2018,30720,Petrol,Manual,11086,628000.0,8,Kochi
+200,Nissan Kicks,Nissan,2020,87138,Petrol,Manual,14280,834000.0,6,Kochi
+201,Tata Tiago,Tata,2020,32756,Petrol,Auto,8738,495000.0,6,Kochi
+202,MG HECTOR,MG,2021,43852,Petrol,Auto,20461,1195000.0,5,Kochi
+203,Honda Amaze,Honda,2021,58749,Petrol,Auto,12886,730000.0,5,Kochi
+204,Honda Amaze,Honda,2020,63983,Petrol,Auto,11580,656000.0,6,Kochi
+205,Honda Amaze,Honda,2023,11033,Petrol,Manual,12692,719000.0,3,Kochi
+206,KIA SELTOS,KIA,2021,37671,Petrol,Manual,17122,1000000.0,5,Kochi
+207,Jeep Compass,Jeep,2018,124041,Diesel,Manual,19916,916000.0,8,Kochi
+208,KIA SELTOS,KIA,2022,32593,Petrol,Manual,18355,1072000.0,4,Kochi
+209,Maruti Grand Vitara,Maruti,2022,20534,Petrol,Manual,22345,1305000.0,4,Kochi
+210,Ford Ecosport,Ford,2018,119626,Diesel,Manual,16327,734000.0,8,Kochi
+211,Mercedes Benz E Class,Mercedes,2014,87750,Diesel,Auto,76623,1644000.0000000002,12,Kochi
+212,Hyundai Creta,Hyundai,2021,56030,Petrol,Auto,23115,1350000.0,5,Kochi
+213,Jeep Compass,Jeep,2019,68000,Diesel,Auto,25684,1500000.0,7,Kochi
+214,Hyundai Creta,Hyundai,2018,82444,Diesel,Auto,20557,1080000.0,8,Kochi
+215,Tata NEXON EV,Tata,2021,39267,Electric,Auto,13955,815000.0,5,Kochi
+216,Maruti Celerio,Maruti,2024,6544,Petrol,Auto,12127,687000.0,2,Kochi
+217,KIA SELTOS,KIA,2020,95037,Petrol,Manual,17619,1028999.9999999999,6,Kochi
+218,Hyundai Creta,Hyundai,2020,74684,Petrol,Auto,22499,1314000.0,6,Kochi
+219,KIA SONET,KIA,2022,70529,Diesel,Auto,19348,1130000.0,4,Kochi
+220,Landrover DISCOVERY SPORT,Landrover,2017,89171,Diesel,Auto,38593,1775000.0,9,Kochi
+221,Tata Harrier,Tata,2021,37987,Diesel,Auto,28937,1689999.9999999998,5,Kochi
+222,Mercedes Benz C Class,Mercedes,2016,59573,Diesel,Auto,50270,1945000.0,10,Kochi
+223,Hyundai ALCAZAR,Hyundai,2024,8726,Petrol,Auto,35101,2050000.0,2,Kochi
+224,CITROEN C3,CITROEN,2022,10624,Petrol,Manual,17122,1000000.0,4,Kochi
+225,Tata NEXON EV,Tata,2023,27257,Electric,Auto,20547,1200000.0,3,Kochi
+226,Audi Q8 E-TRON,Audi,2023,24686,Electric,Auto,173724,10100000.0,3,Kochi
+227,Jeep MERIDIAN,Jeep,2023,26958,Diesel,Auto,53080,3100000.0,3,Kochi
+228,Tata NEXON EV,Tata,2021,38971,Electric,Auto,14160,827000.0,5,Kochi
+229,Honda City,Honda,2012,147979,Petrol,Manual,25233,284000.0,14,Kochi
+230,Nissan Micra,Nissan,2014,80097,Petrol,Auto,10396,313000.0,12,Kochi
+231,Maruti S PRESSO,Maruti,2024,11703,Petrol,Auto,9515,539000.0,2,Kochi
+232,Mahindra XUV500,Mahindra,2019,174015,Diesel,Auto,19025,875000.0,7,Kochi
+233,Hyundai Grand i10,Hyundai,2017,46076,Petrol,Manual,6843,350000.0,9,Kochi
+234,Jeep Compass,Jeep,2021,51043,Petrol,Auto,27293,1594000.0,5,Kochi
+235,Volkswagen TAIGUN,Volkswagen,2022,28294,Petrol,Manual,15684,916000.0,4,Kochi
+236,Maruti Alto,Maruti,2011,78161,Petrol,Manual,15684,123000.0,15,Kochi
+237,Maruti Celerio,Maruti,2018,19523,Petrol,Manual,6779,384000.0,8,Kochi
+238,Ford FREESTYLE,Ford,2019,39138,Petrol,Manual,6090,345000.0,7,Kochi
+239,Volkswagen Polo,Volkswagen,2019,75551,Petrol,Manual,5825,330000.0,7,Kochi
+240,Renault Kwid,Renault,2019,21757,Petrol,Manual,3990,225999.99999999997,7,Kochi
+241,Renault Duster,Renault,2020,25335,Petrol,Manual,11474,650000.0,6,Kochi
+242,Hyundai Eon,Hyundai,2018,25701,Petrol,Manual,3107,176000.0,8,Kochi
+243,Ford Figo Aspire,Ford,2018,94223,Diesel,Manual,6842,350000.0,8,Kochi
+244,Maruti Swift,Maruti,2019,59082,Petrol,Manual,7538,426999.99999999994,7,Kochi
+245,Hyundai Elite i20,Hyundai,2017,52163,Petrol,Manual,8407,430000.0,9,Kochi
+246,Hyundai Grand i10,Hyundai,2014,84158,Petrol,Manual,6477,195000.0,12,Kochi
+247,Ford Ecosport,Ford,2016,57891,Petrol,Manual,9757,438999.99999999994,10,Kochi
+248,Honda Brio,Honda,2015,54341,Petrol,Manual,7763,295000.0,11,Kochi
+249,Tata PUNCH,Tata,2022,62649,Petrol,Auto,9603,544000.0,4,Kochi
+250,Maruti Baleno,Maruti,2016,69973,Petrol,Manual,9565,430000.0,10,Kochi
+251,Hyundai Grand i10,Hyundai,2018,67896,Petrol,Manual,6249,354000.0,8,Kochi
+252,Hyundai Eon,Hyundai,2017,14800,Petrol,Manual,4564,233000.0,9,Kochi
+253,Maruti Alto K10,Maruti,2016,44783,Petrol,Auto,6451,290000.0,10,Kochi
+254,KIA CARENS,KIA,2022,42428,Petrol,Auto,20581,1202000.0,4,Kochi
+255,Mahindra MARAZZO,Mahindra,2019,50344,Diesel,Manual,10747,609000.0,7,Kochi
+256,Hyundai Xcent,Hyundai,2016,78511,Petrol,Manual,6918,311000.0,10,Kochi
+257,Mahindra KUV 100 NXT,Mahindra,2018,29089,Petrol,Manual,4537,256999.99999999997,8,Kochi
+258,Tata Hexa,Tata,2017,76356,Diesel,Manual,15855,713000.0,9,Kochi
+259,Maruti Swift,Maruti,2019,130885,Petrol,Auto,10502,472000.0,7,Kochi

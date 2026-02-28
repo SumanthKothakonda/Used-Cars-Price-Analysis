@@ -1,0 +1,421 @@
+,car_name,brand,year_of_manufacture,kms_driven,fuel_type,transmission_type,emi,price,car_age_years,city
+0,Hyundai Eon,Hyundai,2017,11320,Petrol,Manual,4568,234000.0,9,Surat
+1,Hyundai Eon,Hyundai,2017,47628,Petrol,Manual,4771,244000.0,9,Surat
+2,Honda Amaze,Honda,2013,59022,Diesel,Manual,21435,241000.0,13,Surat
+3,Maruti Baleno,Maruti,2017,55054,Petrol,Manual,7419,379000.0,9,Surat
+4,Hyundai i10,Hyundai,2012,70879,Petrol,Manual,11819,133000.0,14,Surat
+5,Maruti New Wagon-R,Maruti,2021,38943,Petrol,Manual,7238,409999.99999999994,5,Surat
+6,Volkswagen TAIGUN,Volkswagen,2021,56630,Petrol,Manual,15239,890000.0,5,Surat
+7,Hyundai Verna,Hyundai,2019,73350,Petrol,Manual,9797,555000.0,7,Surat
+8,Maruti Ertiga,Maruti,2020,39265,Petrol,Manual,12337,699000.0,6,Surat
+9,KIA SONET,KIA,2022,36812,Diesel,Manual,13944,814000.0,4,Surat
+10,Maruti Alto 800,Maruti,2017,97714,Petrol,Manual,4106,210000.0,9,Surat
+11,Hyundai Eon,Hyundai,2016,71700,CNG,Manual,5494,165000.0,10,Surat
+12,Hyundai Creta,Hyundai,2017,76961,Petrol,Manual,11234,575000.0,9,Surat
+13,Hyundai Grand i10,Hyundai,2018,96033,Petrol,Manual,6381,361000.0,8,Surat
+14,Jeep Compass,Jeep,2017,91443,Diesel,Manual,13569,610000.0,9,Surat
+15,Honda City,Honda,2021,78333,CNG,Manual,11474,650000.0,5,Surat
+16,Hyundai Grand i10,Hyundai,2016,52121,Petrol,Auto,7118,320000.0,10,Surat
+17,Renault Kwid,Renault,2018,65589,Petrol,Manual,3354,190000.0,8,Surat
+18,Hyundai Elite i20,Hyundai,2019,117259,CNG,Manual,11345,509999.99999999994,7,Surat
+19,Maruti Alto 800,Maruti,2017,22466,Petrol,Manual,3513,180000.0,9,Surat
+20,Maruti Alto,Maruti,2022,8104,Petrol,Manual,5354,303000.0,4,Surat
+21,Maruti Wagon R 1.0,Maruti,2018,48480,Petrol,Manual,4643,263000.0,8,Surat
+22,Tata NEXON,Tata,2021,50137,Petrol,Auto,13240,750000.0,5,Surat
+23,Hyundai Grand i10,Hyundai,2018,44398,CNG,Manual,9343,420000.0,8,Surat
+24,Skoda Octavia,Skoda,2019,55287,Petrol,Auto,15796,923000.0,7,Surat
+25,Renault Kwid,Renault,2018,43025,Petrol,Manual,3054,173000.0,8,Surat
+26,Skoda KUSHAQ,Skoda,2021,59379,Petrol,Manual,10327,585000.0,5,Surat
+27,Hyundai Verna,Hyundai,2016,69543,Petrol,Auto,8564,385000.0,10,Surat
+28,Hyundai Verna,Hyundai,2025,10992,Petrol,Auto,20805,1215000.0,1,Surat
+29,Maruti Alto 800,Maruti,2019,95614,CNG,Manual,4459,227999.99999999997,7,Surat
+30,Tata NEXON,Tata,2021,87448,Petrol,Auto,11544,654000.0,5,Surat
+31,Hyundai Eon,Hyundai,2017,132347,Petrol,Manual,3670,165000.0,9,Surat
+32,Hyundai AURA,Hyundai,2021,13221,Petrol,Manual,9268,525000.0,5,Surat
+33,Maruti Alto 800,Maruti,2017,45083,Petrol,Manual,3480,178000.0,9,Surat
+34,Nissan Terrano,Nissan,2014,79931,Diesel,Manual,13101,278000.0,12,Surat
+35,Maruti Swift,Maruti,2021,34844,Petrol,Manual,9621,545000.0,5,Surat
+36,Maruti Baleno,Maruti,2020,60541,CNG,Manual,9345,529000.0,6,Surat
+37,Hyundai i10,Hyundai,2013,83202,Petrol,Manual,8238,175000.0,13,Surat
+38,Mahindra XUV500,Mahindra,2020,30379,Diesel,Manual,13681,775000.0,6,Surat
+39,Honda Amaze,Honda,2014,66772,Petrol,Manual,8802,265000.0,12,Surat
+40,Tata ALTROZ,Tata,2025,9104,Petrol,Manual,12445,705000.0,1,Surat
+41,Mahindra Thar,Mahindra,2021,63814,Diesel,Auto,16951,990000.0,5,Surat
+42,Maruti Swift Dzire,Maruti,2015,90585,Petrol,Manual,8222,312000.0,11,Surat
+43,Hyundai Elite i20,Hyundai,2014,107792,Petrol,Manual,11131,335000.0,12,Surat
+44,Maruti Alto 800,Maruti,2014,83005,Petrol,Manual,4251,128000.0,12,Surat
+45,Tata TIGOR,Tata,2022,48761,Petrol,Auto,9007,509999.99999999994,4,Surat
+46,Maruti BREZZA,Maruti,2023,29442,Petrol,Manual,14123,825000.0,3,Surat
+47,Mahindra XUV500,Mahindra,2017,94939,Diesel,Manual,10846,488000.0,9,Surat
+48,KIA SONET,KIA,2021,94136,Diesel,Auto,12004,680000.0,5,Surat
+49,Hyundai New Elantra,Hyundai,2012,87134,Diesel,Auto,12004,285000.0,14,Surat
+50,Maruti Alto,Maruti,2019,97707,CNG,Manual,5001,256000.0,7,Surat
+51,Volkswagen Polo,Volkswagen,2016,129229,Petrol,Auto,8570,385000.0,10,Surat
+52,Honda WR-V,Honda,2020,86870,Diesel,Manual,9647,546000.0,6,Surat
+53,Hyundai Grand i10,Hyundai,2015,53419,Diesel,Manual,10303,310000.0,11,Surat
+54,Maruti Alto 800,Maruti,2019,30088,Petrol,Manual,4325,245000.00000000003,7,Surat
+55,Maruti Eeco,Maruti,2018,32318,Petrol,Manual,5773,327000.0,8,Surat
+56,Hyundai Elite i20,Hyundai,2019,54982,Petrol,Manual,8032,455000.0,7,Surat
+57,Hyundai Grand i10,Hyundai,2017,107596,CNG,Manual,7984,303000.0,9,Surat
+58,Honda Amaze,Honda,2013,76793,Petrol,Manual,10356,220000.00000000003,13,Surat
+59,Maruti Alto,Maruti,2019,57853,Petrol,Manual,3967,225000.0,7,Surat
+60,Honda City,Honda,2015,82525,Petrol,Manual,9217,350000.0,11,Surat
+61,Renault Kwid,Renault,2022,16733,Petrol,Manual,5384,305000.0,4,Surat
+62,KIA SONET,KIA,2022,22105,Petrol,Manual,12357,700000.0,4,Surat
+63,Hyundai Grand i10,Hyundai,2015,78834,CNG,Manual,15319,325000.0,11,Surat
+64,KIA SELTOS,KIA,2023,28939,Petrol,Manual,16951,990000.0,3,Surat
+65,Jeep Compass,Jeep,2019,70805,Petrol,Auto,15239,890000.0,7,Surat
+66,Hyundai Creta,Hyundai,2019,76152,Petrol,Auto,13681,775000.0,7,Surat
+67,Maruti IGNIS,Maruti,2022,41422,Petrol,Manual,7707,437000.0,4,Surat
+68,Maruti Alto 800,Maruti,2018,36240,Petrol,Manual,4501,254999.99999999997,8,Surat
+69,Maruti Swift,Maruti,2014,138009,Petrol,Manual,9394,283000.0,12,Surat
+70,Maruti Wagon R Stingray,Maruti,2013,21288,Petrol,Manual,9632,204999.99999999997,13,Surat
+71,Hyundai Elite i20,Hyundai,2016,132949,Diesel,Manual,10528,400000.0,10,Surat
+72,Maruti Alto 800,Maruti,2017,82817,Petrol,Manual,3293,168000.0,9,Surat
+73,Nissan MAGNITE,Nissan,2023,39099,Petrol,Auto,12004,680000.0,3,Surat
+74,KIA SELTOS,KIA,2021,37133,Petrol,Manual,17186,1003999.9999999999,5,Surat
+75,Honda City,Honda,2015,76581,Petrol,Manual,11592,440000.00000000006,11,Surat
+76,Datsun Redi Go,Datsun,2018,48379,Petrol,Auto,2613,148000.0,8,Surat
+77,Hyundai i20,Hyundai,2013,54961,Petrol,Manual,13259,282000.0,13,Surat
+78,Datsun Redi Go,Datsun,2016,32200,Petrol,Manual,2676,120000.0,10,Surat
+79,Hyundai Elite i20,Hyundai,2019,111991,CNG,Manual,12234,550000.0,7,Surat
+80,Hyundai VENUE,Hyundai,2019,65385,Petrol,Auto,11651,660000.0,7,Surat
+81,Honda Amaze,Honda,2015,35930,Petrol,Manual,7900,300000.0,11,Surat
+82,Hyundai NEW I20,Hyundai,2021,45985,Petrol,Auto,11474,650000.0,5,Surat
+83,Ford Ecosport,Ford,2017,79601,Diesel,Manual,8826,397000.0,9,Surat
+84,Maruti Eeco,Maruti,2018,84138,CNG,Manual,8661,389000.0,8,Surat
+85,Nissan Micra,Nissan,2020,79380,Petrol,Auto,7941,450000.0,6,Surat
+86,MG ASTOR,MG,2022,65670,Petrol,Auto,15325,894999.9999999999,4,Surat
+87,Renault TRIBER,Renault,2022,24691,Petrol,Manual,8036,455000.0,4,Surat
+88,Tata Tiago,Tata,2021,29850,Petrol,Manual,6535,370000.0,5,Surat
+89,Maruti Alto,Maruti,2020,49616,Petrol,Manual,5003,283000.0,6,Surat
+90,Maruti Ciaz,Maruti,2017,139590,Diesel,Manual,9214,413999.99999999994,9,Surat
+91,Tata NEXON,Tata,2024,18392,Petrol,Auto,15281,892000.0,2,Surat
+92,Hyundai Creta,Hyundai,2020,87080,Petrol,Manual,15118,883000.0,6,Surat
+93,Hyundai NEW I20 N LINE,Hyundai,2023,24915,Petrol,Auto,13076,741000.0,3,Surat
+94,MG HECTOR,MG,2019,77872,Petrol,Manual,14115,824000.0,7,Surat
+95,Maruti Eeco,Maruti,2017,37708,CNG,Manual,9727,369000.0,9,Surat
+96,Renault Kwid,Renault,2019,52407,Petrol,Manual,4852,275000.0,7,Surat
+97,Mahindra XUV300,Mahindra,2021,75937,Diesel,Manual,13619,771000.0,5,Surat
+98,Honda WR-V,Honda,2017,106869,Diesel,Manual,11181,503000.0,9,Surat
+99,Ford Figo Aspire,Ford,2017,85826,Petrol,Manual,5122,262000.0,9,Surat
+100,Maruti Wagon R 1.0,Maruti,2013,64760,Petrol,Manual,8050,171000.0,13,Surat
+101,Tata TIGOR,Tata,2019,47615,Petrol,Manual,5896,334000.0,7,Surat
+102,Volkswagen Vento,Volkswagen,2018,111005,Petrol,Auto,8497,382000.0,8,Surat
+103,Maruti Eeco,Maruti,2015,97876,Petrol,Manual,5425,206000.0,11,Surat
+104,Maruti Alto K10,Maruti,2024,9369,Petrol,Manual,6796,385000.0,2,Surat
+105,Tata Tiago,Tata,2016,100705,Diesel,Manual,5161,196000.0,10,Surat
+106,Maruti Ertiga,Maruti,2013,149878,Diesel,Manual,35540,400000.0,13,Surat
+107,Maruti Swift,Maruti,2018,77520,Diesel,Auto,7390,378000.0,8,Surat
+108,Maruti Alto 800,Maruti,2012,85216,Petrol,Manual,11995,135000.0,14,Surat
+109,Maruti Celerio,Maruti,2014,112897,Petrol,Manual,6909,208000.0,12,Surat
+110,Maruti Alto 800,Maruti,2017,117920,Petrol,Manual,5138,231000.0,9,Surat
+111,MG HECTOR,MG,2019,97572,Petrol,Manual,12233,693000.0,7,Surat
+112,Maruti Celerio,Maruti,2014,89107,Petrol,Manual,6709,202000.0,12,Surat
+113,Renault TRIBER,Renault,2019,45650,Petrol,Manual,6161,349000.0,7,Surat
+114,Maruti Swift,Maruti,2018,89001,Petrol,Manual,7061,400000.0,8,Surat
+115,Renault Kwid,Renault,2016,70485,Petrol,Manual,3292,148000.0,10,Surat
+116,Maruti Ciaz,Maruti,2018,80767,Diesel,Manual,6843,350000.0,8,Surat
+117,Maruti New Wagon-R,Maruti,2019,70515,Petrol,Manual,5472,310000.0,7,Surat
+118,Maruti Alto 800,Maruti,2015,25165,Petrol,Manual,5530,210000.0,11,Surat
+119,Maruti Eeco,Maruti,2020,49217,Petrol,Manual,6743,382000.0,6,Surat
+120,Volkswagen Polo,Volkswagen,2014,90876,Diesel,Manual,8097,172000.0,12,Surat
+121,Maruti Alto 800,Maruti,2014,101992,Petrol,Manual,5049,152000.0,12,Surat
+122,Hyundai i10,Hyundai,2013,214245,Petrol,Manual,9085,193000.0,13,Surat
+123,Hyundai i10,Hyundai,2012,106393,Petrol,Auto,16082,181000.0,14,Surat
+124,Maruti Swift Dzire,Maruti,2013,97882,Petrol,Manual,8790,187000.0,13,Surat
+125,Maruti Swift Dzire,Maruti,2013,72109,Petrol,Manual,8662,184000.0,13,Surat
+126,Hyundai Verna,Hyundai,2014,77471,Petrol,Manual,9533,287000.0,12,Surat
+127,Hyundai i20,Hyundai,2012,187648,Diesel,Manual,9533,156000.0,14,Surat
+128,KIA SYROS,KIA,2025,10837,Petrol,Manual,16181,944999.9999999999,1,Surat
+129,Renault Kwid,Renault,2018,26775,Petrol,Manual,3425,194000.0,8,Surat
+130,Maruti Alto 800,Maruti,2018,50031,Petrol,Manual,3495,198000.0,8,Surat
+131,Maruti Eeco,Maruti,2018,131786,Petrol,Manual,6629,298000.0,8,Surat
+132,Hyundai Eon,Hyundai,2015,123398,Petrol,Manual,4213,160000.0,11,Surat
+133,Maruti Dzire,Maruti,2022,44267,Petrol,Manual,10133,574000.0,4,Surat
+134,Hyundai Verna,Hyundai,2012,104002,Diesel,Auto,10133,149000.0,14,Surat
+135,Maruti Wagon R 1.0,Maruti,2013,165992,Petrol,Manual,8897,189000.0,13,Surat
+136,Maruti Wagon R 1.0,Maruti,2017,65300,Petrol,Manual,4809,246000.0,9,Surat
+137,Hyundai i10,Hyundai,2015,104444,Petrol,Manual,7031,267000.0,11,Surat
+138,Honda Brio,Honda,2014,36350,Petrol,Manual,7407,223000.0,12,Surat
+139,Maruti Alto 800,Maruti,2015,131681,Petrol,Manual,4082,155000.0,11,Surat
+140,Honda WR-V,Honda,2018,95198,Diesel,Manual,7136,365000.0,8,Surat
+141,Honda Amaze,Honda,2015,105258,Petrol,Manual,7268,276000.0,11,Surat
+142,Renault Kwid,Renault,2015,120871,Petrol,Manual,3871,147000.0,11,Surat
+143,Chevrolet Beat,Chevrolet,2013,250363,Diesel,Manual,6841,77000.0,13,Surat
+144,Volkswagen Vento,Volkswagen,2012,100339,Diesel,Manual,6841,151000.0,14,Surat
+145,Maruti Eeco,Maruti,2020,67533,Petrol,Manual,5772,327000.0,6,Surat
+146,Honda City,Honda,2014,101983,Petrol,Manual,7374,222000.00000000003,12,Surat
+147,Maruti New Wagon-R,Maruti,2020,54000,Petrol,Manual,6373,361000.0,6,Surat
+148,Hyundai i10,Hyundai,2013,83900,Petrol,Manual,8285,176000.0,13,Surat
+149,Maruti Alto 800,Maruti,2017,135730,Petrol,Manual,4315,194000.0,9,Surat
+150,Toyota Innova Crysta,Toyota,2018,89895,Diesel,Manual,19262,1011999.9999999999,8,Surat
+151,Maruti Wagon R 1.0,Maruti,2012,54155,Petrol,Manual,14038,158000.0,14,Surat
+152,Hyundai Eon,Hyundai,2014,40989,Petrol,Manual,5580,168000.0,12,Surat
+153,Maruti Ertiga,Maruti,2015,80650,Diesel,Manual,12190,367000.0,11,Surat
+154,Tata Manza,Tata,2011,75000,Petrol,Manual,12190,96000.0,15,Surat
+155,Hyundai Eon,Hyundai,2015,56686,Petrol,Manual,3897,148000.0,11,Surat
+156,Maruti Alto,Maruti,2021,53416,Petrol,Manual,4996,283000.0,5,Surat
+157,Datsun Redi Go,Datsun,2017,68610,Petrol,Manual,2776,142000.0,9,Surat
+158,Hyundai Elite i20,Hyundai,2014,85115,Petrol,Manual,10629,320000.0,12,Surat
+159,Maruti Swift Dzire,Maruti,2013,126215,Diesel,Manual,22212,250000.0,13,Surat
+160,Toyota Innova,Toyota,2010,168954,Diesel,Manual,22212,222000.00000000003,16,Surat
+161,Volkswagen Vento,Volkswagen,2012,114830,Diesel,Manual,22212,139000.0,14,Surat
+162,Hyundai VENUE,Hyundai,2022,95679,Diesel,Manual,13222,749000.0,4,Surat
+163,Hyundai i20,Hyundai,2013,30611,Petrol,Manual,9980,212000.0,13,Surat
+164,Maruti Swift,Maruti,2014,109066,Diesel,Manual,11384,242000.0,12,Surat
+165,Maruti Swift Dzire,Maruti,2013,217188,Diesel,Manual,27010,304000.0,13,Surat
+166,Volkswagen Vento,Volkswagen,2013,172856,Diesel,Manual,16437,185000.0,13,Surat
+167,Maruti Wagon R 1.0,Maruti,2015,94452,Petrol,Manual,3950,150000.0,11,Surat
+168,Maruti Eeco,Maruti,2014,180824,Petrol,Manual,7606,229000.0,12,Surat
+169,Datsun Redi Go,Datsun,2017,62335,Petrol,Manual,2600,133000.0,9,Surat
+170,Nissan MAGNITE,Nissan,2022,19440,Petrol,Manual,9903,561000.0,4,Surat
+171,Volkswagen Vento,Volkswagen,2015,120345,Petrol,Auto,6662,252999.99999999997,11,Surat
+172,Honda Amaze,Honda,2013,96955,Petrol,Manual,10592,225000.0,13,Surat
+173,Mahindra TUV300,Mahindra,2016,93379,Diesel,Manual,8875,337000.0,10,Surat
+174,Chevrolet Sail UVA,Chevrolet,2012,139918,Diesel,Manual,8875,95000.0,14,Surat
+175,Tata NEXON,Tata,2019,103918,Petrol,Manual,9587,430999.99999999994,7,Surat
+176,Volkswagen Vento,Volkswagen,2013,180516,Diesel,Manual,15460,174000.0,13,Surat
+177,Hyundai Eon,Hyundai,2012,100930,Petrol,Manual,6575,74000.0,14,Surat
+178,Volkswagen Vento,Volkswagen,2016,102959,Diesel,Auto,8611,327000.0,10,Surat
+179,Hyundai Creta,Hyundai,2018,77667,Petrol,Manual,9374,531000.0,8,Surat
+180,Hyundai Eon,Hyundai,2016,77237,Petrol,Manual,2825,127000.0,10,Surat
+181,Fiat Punto EVO,Fiat,2014,61907,Petrol,Manual,2890,87000.0,12,Surat
+182,KIA SONET,KIA,2021,19150,Petrol,Manual,11951,677000.0,5,Surat
+183,Maruti Baleno,Maruti,2021,50388,Petrol,Manual,8297,470000.0,5,Surat
+184,Maruti Eeco,Maruti,2020,27681,Petrol,Manual,8156,462000.0,6,Surat
+185,Maruti Swift,Maruti,2019,28931,Petrol,Manual,8932,505999.99999999994,7,Surat
+186,Tata Indigo ECS,Tata,2013,243092,Diesel,Manual,10775,121000.0,13,Surat
+187,Hyundai i10,Hyundai,2011,90974,Petrol,Manual,10775,113999.99999999999,15,Surat
+188,Hyundai Elite i20,Hyundai,2018,78623,Petrol,Manual,6867,389000.0,8,Surat
+189,Maruti Celerio,Maruti,2019,73357,Petrol,Manual,4643,263000.0,7,Surat
+190,Skoda SLAVIA,Skoda,2022,83462,Petrol,Auto,15307,894000.0,4,Surat
+191,MG ASTOR,MG,2023,42302,Petrol,Auto,20547,1200000.0,3,Surat
+192,Skoda Rapid,Skoda,2012,10489,Diesel,Manual,20547,192000.0,14,Surat
+193,Hyundai i20,Hyundai,2012,147710,Diesel,Manual,20547,155000.0,14,Surat
+194,Maruti Swift,Maruti,2018,84154,Petrol,Manual,7449,422000.0,8,Surat
+195,Hyundai i10,Hyundai,2011,84113,Petrol,Manual,7449,122000.0,15,Surat
+196,Tata Indica Vista,Tata,2012,139563,Diesel,Manual,7449,117000.0,14,Surat
+197,Hyundai Elite i20,Hyundai,2015,80306,Diesel,Manual,12621,380000.0,11,Surat
+198,Skoda Rapid,Skoda,2013,112880,Diesel,Manual,14394,162000.0,13,Surat
+199,Maruti Alto K10,Maruti,2012,139016,Petrol,Manual,8529,96000.0,14,Surat
+200,Maruti Eeco,Maruti,2011,129737,Petrol,Manual,8529,135000.0,15,Surat
+201,Mahindra XUV300,Mahindra,2019,86052,Diesel,Manual,11474,650000.0,7,Surat
+202,Skoda Fabia,Skoda,2011,135072,Diesel,Manual,11474,77000.0,15,Surat
+203,Maruti Vitara Brezza,Maruti,2017,83714,Diesel,Manual,10032,451000.0,9,Surat
+204,Maruti S Cross,Maruti,2018,97776,Diesel,Manual,9462,484000.0,8,Surat
+205,Chevrolet Sail UVA,Chevrolet,2012,115429,Diesel,Manual,9462,124000.0,14,Surat
+206,Maruti Alto K10,Maruti,2023,42247,Petrol,Manual,7785,441000.0,3,Surat
+207,Hyundai Grand i10,Hyundai,2014,79786,Petrol,Manual,7706,231999.99999999997,12,Surat
+208,Mahindra Kuv100,Mahindra,2015,70063,Diesel,Manual,4584,138000.0,11,Surat
+209,Renault Kwid,Renault,2017,71718,Petrol,Manual,2717,139000.0,9,Surat
+210,Mercedes Benz E Class,Mercedes,2012,51292,Petrol,Auto,35184,396000.0,14,Surat
+211,Skoda Fabia,Skoda,2011,167998,Diesel,Manual,35184,96000.0,15,Surat
+212,Maruti Swift Dzire,Maruti,2014,122854,Petrol,Manual,8304,250000.0,12,Surat
+213,MG ASTOR,MG,2022,19813,Petrol,Manual,18304,1069000.0,4,Surat
+214,Mahindra Kuv100,Mahindra,2017,7491,Diesel,Manual,4961,223000.0,9,Surat
+215,Toyota Etios,Toyota,2011,72737,Petrol,Manual,4961,143000.0,15,Surat
+216,Tata PUNCH,Tata,2024,11912,Petrol,Manual,12551,711000.0,2,Surat
+217,Maruti Ertiga,Maruti,2017,105758,Diesel,Manual,13347,600000.0,9,Surat
+218,Maruti Baleno,Maruti,2018,29368,Petrol,Manual,7185,407000.0,8,Surat
+219,Hyundai Grand i10,Hyundai,2015,74090,Diesel,Manual,8270,249000.00000000003,11,Surat
+220,Nissan Micra,Nissan,2014,75157,Diesel,Manual,7579,161000.0,12,Surat
+221,Tata Tiago,Tata,2018,173732,Petrol,Manual,6940,312000.0,8,Surat
+222,Hyundai NEW SANTRO,Hyundai,2021,64775,Petrol,Manual,7061,400000.0,5,Surat
+223,Honda WR-V,Honda,2017,129737,Diesel,Manual,8900,400000.0,9,Surat
+224,Chevrolet Beat,Chevrolet,2016,136116,Petrol,Manual,3737,168000.0,10,Surat
+225,Tata Indigo ECS,Tata,2016,224479,Diesel,Manual,3634,138000.0,10,Surat
+226,Chevrolet Beat,Chevrolet,2010,115332,Petrol,Manual,3634,62000.0,16,Surat
+227,Volkswagen Vento,Volkswagen,2011,118201,Petrol,Manual,3634,100000.0,15,Surat
+228,Skoda Rapid,Skoda,2017,212420,Diesel,Auto,13124,590000.0,9,Surat
+229,Maruti Grand Vitara,Maruti,2024,91268,Petrol,Manual,21865,1277000.0,2,Surat
+230,Hyundai Elite i20,Hyundai,2019,120832,Petrol,Manual,10166,457000.0,7,Surat
+231,Hyundai Xcent,Hyundai,2014,70726,Petrol,Manual,9964,300000.0,12,Surat
+232,Hyundai New Elantra,Hyundai,2012,145714,Diesel,Auto,9964,266000.0,14,Surat
+233,Tata Harrier,Tata,2022,56671,Diesel,Auto,23852,1393000.0,4,Surat
+234,Skoda Fabia,Skoda,2011,68600,Diesel,Manual,23852,135000.0,15,Surat
+235,Renault Pulse,Renault,2013,200000,Diesel,Manual,10928,123000.0,13,Surat
+236,Mahindra MARAZZO,Mahindra,2019,89149,Diesel,Manual,7961,451000.0,7,Surat
+237,Volkswagen Vento,Volkswagen,2016,94772,Diesel,Auto,9691,368000.0,10,Surat
+238,Hyundai Grand i10,Hyundai,2018,70587,Petrol,Manual,6990,396000.0,8,Surat
+239,Hyundai i10,Hyundai,2010,182685,Petrol,Manual,6990,96000.0,16,Surat
+240,Hyundai Grand i10,Hyundai,2015,75069,Diesel,Manual,9234,278000.0,11,Surat
+241,Maruti Wagon R 1.0,Maruti,2011,128649,Petrol,Manual,9234,122000.0,15,Surat
+242,Maruti Ciaz,Maruti,2017,124681,Petrol,Manual,10054,451999.99999999994,9,Surat
+243,Tata PUNCH,Tata,2024,9884,Petrol,Auto,11633,659000.0,2,Surat
+244,Volkswagen Vento,Volkswagen,2016,128938,Diesel,Auto,9480,360000.0,10,Surat
+245,Ford Ecosport,Ford,2014,100002,Diesel,Manual,14640,311000.0,12,Surat
+246,Volkswagen Ameo,Volkswagen,2017,87690,Diesel,Manual,7474,336000.0,9,Surat
+247,Mahindra Quanto,Mahindra,2013,110276,Diesel,Manual,9773,110000.00000000001,13,Surat
+248,Maruti Wagon R 1.0,Maruti,2011,114421,Petrol,Manual,9773,129000.0,15,Surat
+249,Honda City,Honda,2022,111912,Petrol,Manual,12835,577000.0,4,Surat
+250,Renault Pulse,Renault,2013,163958,Diesel,Manual,12261,138000.0,13,Surat
+251,Mahindra XUV500,Mahindra,2015,101937,Diesel,Manual,17936,540000.0,11,Surat
+252,Tata TIGOR,Tata,2022,95760,Petrol,Manual,8809,499000.0,4,Surat
+253,Hyundai Accent,Hyundai,2011,151272,Petrol,Manual,8809,95000.0,15,Surat
+254,Renault TRIBER,Renault,2021,160229,Petrol,Manual,10010,450000.0,5,Surat
+255,Honda Brio,Honda,2015,53295,Petrol,Auto,8163,310000.0,11,Surat
+256,Tata Manza,Tata,2013,167034,Diesel,Manual,15282,172000.0,13,Surat
+257,KIA SELTOS,KIA,2021,57536,Petrol,Manual,13593,770000.0,5,Surat
+258,Maruti Vitara Brezza,Maruti,2018,124608,Diesel,Auto,11033,496000.0,8,Surat
+259,Hyundai Creta,Hyundai,2016,84295,Petrol,Manual,14459,650000.0,10,Surat
+260,Jeep Compass,Jeep,2017,188308,Diesel,Manual,13347,600000.0,9,Surat
+261,Hyundai Elite i20,Hyundai,2015,212080,Petrol,Manual,8954,340000.0,11,Surat
+262,Maruti Baleno,Maruti,2020,64016,Petrol,Auto,8720,494000.00000000006,6,Surat
+263,Hyundai NEW I20,Hyundai,2025,21689,Petrol,Manual,13981,792000.0,1,Surat
+264,Maruti Alto,Maruti,2010,78556,Petrol,Manual,13981,90000.0,16,Surat
+265,Tata NEXON,Tata,2023,37290,Petrol,Auto,18972,1108000.0,3,Surat
+266,Tata NEXON,Tata,2020,61926,Diesel,Manual,12533,710000.0,6,Surat
+267,Hyundai Grand i10,Hyundai,2015,78205,Diesel,Manual,9964,300000.0,11,Surat
+268,Maruti Swift Dzire,Maruti,2016,77096,Diesel,Auto,11192,425000.0,10,Surat
+269,Hyundai Elite i20,Hyundai,2017,34498,Petrol,Manual,9071,463999.99999999994,9,Surat
+270,Hyundai Grand i10,Hyundai,2016,75709,Petrol,Manual,8230,370000.0,10,Surat
+271,Maruti Alto K10,Maruti,2023,35982,Petrol,Manual,7997,453000.0,3,Surat
+272,Volkswagen Vento,Volkswagen,2018,152673,Diesel,Auto,14459,650000.0,8,Surat
+273,Renault Duster,Renault,2016,71394,Diesel,Manual,9191,349000.0,10,Surat
+274,Maruti Baleno,Maruti,2018,64986,Petrol,Auto,7661,434000.0,8,Surat
+275,Mahindra XUV500,Mahindra,2017,112720,Diesel,Manual,14348,645000.0,9,Surat
+276,Tata NEXON,Tata,2024,24197,Petrol,Auto,13972,816000.0,2,Surat
+277,Honda City,Honda,2016,224000,Petrol,Manual,10099,454000.0,10,Surat
+278,Hyundai Grand i10,Hyundai,2015,7607,Petrol,Manual,9138,347000.0,11,Surat
+279,Hyundai Grand i10,Hyundai,2016,118073,Petrol,Manual,6718,302000.0,10,Surat
+280,Maruti New Wagon-R,Maruti,2023,11361,Petrol,Manual,9532,540000.0,3,Surat
+281,Skoda Rapid,Skoda,2017,178469,Diesel,Auto,13725,617000.0,9,Surat
+282,Hyundai Elite i20,Hyundai,2019,65458,Petrol,Manual,9074,513999.99999999994,7,Surat
+283,Honda Mobilio,Honda,2014,128000,Diesel,Manual,14122,300000.0,12,Surat
+284,Tata Zest,Tata,2017,74364,Diesel,Auto,6896,310000.0,9,Surat
+285,Ford Ecosport,Ford,2013,125006,Diesel,Manual,28254,318000.0,13,Surat
+286,Maruti New Wagon-R,Maruti,2021,71211,Petrol,Manual,7167,405999.99999999994,5,Surat
+287,Datsun Redi Go,Datsun,2019,89964,Petrol,Manual,2577,146000.0,7,Surat
+288,Honda WR-V,Honda,2018,85872,Diesel,Manual,9775,500000.0,8,Surat
+289,Maruti Ciaz,Maruti,2016,127520,Diesel,Manual,10033,381000.0,10,Surat
+290,Honda Amaze,Honda,2016,85639,Diesel,Manual,9138,347000.0,10,Surat
+291,Volkswagen VIRTUS,Volkswagen,2022,42256,Petrol,Manual,14554,850000.0,4,Surat
+292,Hyundai NEW SANTRO,Hyundai,2019,799850,Petrol,Auto,8164,367000.0,7,Surat
+293,Renault Kiger,Renault,2022,45252,Petrol,Manual,9603,544000.0,4,Surat
+294,Mahindra XUV500,Mahindra,2017,67973,Diesel,Manual,13547,609000.0,9,Surat
+295,Maruti Ciaz,Maruti,2015,70127,Diesel,Manual,14282,430000.0,11,Surat
+296,Hyundai VENUE,Hyundai,2020,82822,Diesel,Manual,13169,746000.0,6,Surat
+297,Volkswagen Vento,Volkswagen,2017,171508,Diesel,Auto,8987,404000.0,9,Surat
+298,KIA CARENS,KIA,2023,25206,Petrol,Manual,18578,1085000.0,3,Surat
+299,Tata ALTROZ,Tata,2022,57910,Diesel,Manual,12392,702000.0,4,Surat
+300,Skoda Superb,Skoda,2014,76086,Petrol,Auto,14946,450000.0,12,Surat
+301,Tata ALTROZ,Tata,2022,89122,Diesel,Manual,11174,633000.0,4,Surat
+302,Hyundai AURA,Hyundai,2022,27052,Petrol,Manual,11969,678000.0,4,Surat
+303,Tata ALTROZ,Tata,2022,27010,Petrol,Auto,11368,644000.0,4,Surat
+304,Tata NEXON,Tata,2022,66610,Diesel,Auto,14897,869999.9999999999,4,Surat
+305,Ford Ecosport,Ford,2017,116788,Diesel,Manual,8609,387000.0,9,Surat
+306,Maruti Swift,Maruti,2025,39273,Petrol,Manual,9974,565000.0,1,Surat
+307,Audi A4,Audi,2013,125000,Diesel,Auto,53309,600000.0,13,Surat
+308,Maruti Grand Vitara,Maruti,2025,900,Petrol,Manual,19862,1160000.0,1,Surat
+309,Maruti Swift Dzire,Maruti,2016,80532,Diesel,Manual,11824,449000.0,10,Surat
+310,Skoda Rapid,Skoda,2016,112344,Diesel,Auto,10428,396000.0,10,Surat
+311,Maruti Alto,Maruti,2020,74274,Petrol,Manual,4343,246000.0,6,Surat
+312,Maruti Ciaz,Maruti,2017,163232,Diesel,Manual,9053,407000.0,9,Surat
+313,Maruti Grand Vitara,Maruti,2023,42480,Petrol,Manual,18544,1083000.0,3,Surat
+314,Honda WR-V,Honda,2017,128338,Diesel,Manual,11589,521000.0,9,Surat
+315,Honda WR-V,Honda,2017,95157,Diesel,Manual,10010,450000.0,9,Surat
+316,Hyundai Elite i20,Hyundai,2019,65660,Petrol,Manual,8703,493000.0,7,Surat
+317,Tata ALTROZ,Tata,2023,29759,Petrol,Auto,12304,697000.0,3,Surat
+318,Maruti Ciaz,Maruti,2020,105100,Petrol,Manual,10766,484000.0,6,Surat
+319,Tata NEXON,Tata,2023,64902,Diesel,Manual,14486,846000.0000000001,3,Surat
+320,Maruti Celerio,Maruti,2022,44884,Petrol,Manual,7944,450000.0,4,Surat
+321,Hyundai Elite i20,Hyundai,2019,68209,Petrol,Auto,9038,512000.0,7,Surat
+322,Hyundai NEW I20,Hyundai,2023,33821,Petrol,Auto,14434,843000.0,3,Surat
+323,Hyundai Grand i10,Hyundai,2019,48805,Petrol,Manual,6902,391000.0,7,Surat
+324,Hyundai AURA,Hyundai,2023,19624,Petrol,Manual,12922,732000.0,3,Surat
+325,Honda City,Honda,2015,108348,Diesel,Manual,13585,409000.0,11,Surat
+326,Maruti Vitara Brezza,Maruti,2020,61770,Petrol,Manual,9903,561000.0,6,Surat
+327,Maruti Ciaz,Maruti,2017,164172,Diesel,Manual,9209,413999.99999999994,9,Surat
+328,Hyundai Creta,Hyundai,2018,220015,Diesel,Manual,15727,707000.0,8,Surat
+329,Volkswagen TAIGUN,Volkswagen,2024,7292,Petrol,Manual,22602,1320000.0,2,Surat
+330,Maruti Ciaz,Maruti,2015,149923,Diesel,Manual,13618,409999.99999999994,11,Surat
+331,Maruti Ertiga,Maruti,2016,76761,Diesel,Manual,16432,624000.0,10,Surat
+332,KIA CARENS,KIA,2022,84892,Diesel,Auto,22533,1316000.0,4,Surat
+333,Hyundai Creta,Hyundai,2016,81756,Diesel,Auto,16985,645000.0,10,Surat
+334,Honda Amaze,Honda,2024,10733,Petrol,Auto,12886,730000.0,2,Surat
+335,Ford Ecosport,Ford,2018,103745,Petrol,Auto,11701,526000.0,8,Surat
+336,Jeep Compass,Jeep,2018,57000,Diesel,Manual,15151,775000.0,8,Surat
+337,Volkswagen TAIGUN,Volkswagen,2022,24764,Petrol,Auto,17122,1000000.0,4,Surat
+338,Skoda Octavia,Skoda,2014,179443,Diesel,Auto,23066,490000.00000000006,12,Surat
+339,Maruti New Wagon-R,Maruti,2020,117543,Petrol,Manual,8675,390000.0,6,Surat
+340,Hyundai NEW SANTRO,Hyundai,2021,24855,Petrol,Auto,7944,450000.0,5,Surat
+341,Maruti Ertiga,Maruti,2018,97809,Diesel,Manual,13685,700000.0,8,Surat
+342,Skoda Laura,Skoda,2013,124750,Diesel,Auto,31097,350000.0,13,Surat
+343,Maruti Ertiga,Maruti,2023,59678,Petrol,Manual,16232,948000.0,3,Surat
+344,Skoda Octavia,Skoda,2014,152855,Diesel,Auto,18876,401000.0,12,Surat
+345,Volkswagen Passat,Volkswagen,2011,156189,Diesel,Auto,18876,447000.0,15,Surat
+346,Honda WR-V,Honda,2020,87672,Petrol,Manual,10768,610000.0,6,Surat
+347,Skoda Laura,Skoda,2013,129165,Diesel,Auto,36783,413999.99999999994,13,Surat
+348,Hyundai Creta,Hyundai,2017,88650,Diesel,Auto,16728,752000.0,9,Surat
+349,Skoda Laura,Skoda,2011,92361,Diesel,Auto,16728,316000.0,15,Surat
+350,Volvo S60,Volvo,2014,114445,Diesel,Auto,42227,906000.0,12,Surat
+351,KIA SONET,KIA,2020,102374,Diesel,Manual,16884,759000.0,6,Surat
+352,KIA SELTOS,KIA,2020,80805,Diesel,Auto,16506,964000.0,6,Surat
+353,Maruti S Cross,Maruti,2019,117415,Diesel,Manual,13525,608000.0,7,Surat
+354,Maruti Eeco,Maruti,2017,53041,Petrol,Manual,5885,301000.0,9,Surat
+355,Hyundai Creta,Hyundai,2023,31993,Diesel,Manual,24845,1451000.0,3,Surat
+356,Hyundai Accent,Hyundai,2010,87760,Petrol,Manual,24845,350000.0,16,Surat
+357,Hyundai VENUE,Hyundai,2022,63169,Petrol,Manual,11969,678000.0,4,Surat
+358,ISUZU D-MAX S-CAB,ISUZU,2020,63411,Diesel,Manual,12216,692000.0,6,Surat
+359,Tata TIAGO EV,Tata,2023,12512,Electric,Auto,12798,725000.0,3,Surat
+360,Skoda Superb,Skoda,2014,119430,Diesel,Auto,22360,475000.0,12,Surat
+361,Volkswagen Passat,Volkswagen,2012,198000,Diesel,Manual,22360,350000.0,14,Surat
+362,Hyundai Verna,Hyundai,2023,38358,Petrol,Manual,19434,1135000.0,3,Surat
+363,Maruti Vitara Brezza,Maruti,2020,80250,Petrol,Manual,11615,658000.0,6,Surat
+364,MG HECTOR PLUS,MG,2021,64007,Petrol,Manual,21095,1232000.0,5,Surat
+365,Jeep Compass,Jeep,2018,136198,Diesel,Manual,16416,738000.0,8,Surat
+366,MG HECTOR,MG,2020,86503,Petrol,Manual,15907,928999.9999999999,6,Surat
+367,Maruti Vitara Brezza,Maruti,2016,117168,Diesel,Manual,12535,476000.0,10,Surat
+368,Tata TIAGO EV,Tata,2023,43950,Electric,Auto,13240,750000.0,3,Surat
+369,KIA SELTOS,KIA,2020,153682,Diesel,Manual,17959,826000.0,6,Surat
+370,BMW X3,BMW,2012,122332,Diesel,Auto,17959,1363000.0,14,Surat
+371,Maruti BREZZA,Maruti,2024,13304,Petrol,Manual,16609,969999.9999999999,2,Surat
+372,Maruti Vitara Brezza,Maruti,2016,66726,Diesel,Manual,13852,526000.0,10,Surat
+373,Hyundai Tucson,Hyundai,2018,193163,Diesel,Manual,16661,749000.0,8,Surat
+374,BMW 3 Series,BMW,2012,153642,Diesel,Auto,16661,685000.0,14,Surat
+375,KIA SELTOS,KIA,2025,1962,Petrol,Manual,26232,1532000.0,1,Surat
+376,Skoda Kodiaq,Skoda,2023,80367,Petrol,Auto,47087,2750000.0,3,Surat
+377,MG HECTOR,MG,2019,80893,Petrol,Auto,15513,906000.0,7,Surat
+378,BMW 5 Series,BMW,2013,121786,Diesel,Auto,85730,969999.9999999999,13,Surat
+379,Maruti Alto K10,Maruti,2024,22843,Petrol,Manual,7396,419000.00000000006,2,Surat
+380,Ford Ecosport,Ford,2021,140041,Diesel,Manual,17284,777000.0,5,Surat
+381,Skoda Octavia,Skoda,2017,91612,Petrol,Auto,15380,808000.0,9,Surat
+382,Mercedes Benz E Class,Mercedes,2011,126365,Diesel,Auto,15380,1000000.0,15,Surat
+383,MG HECTOR,MG,2020,48598,Petrol,Manual,18287,1068000.0,6,Surat
+384,Jeep Compass,Jeep,2023,23234,Diesel,Manual,35118,2051000.0000000002,3,Surat
+385,Maruti Eeco,Maruti,2019,28204,Petrol,Manual,6479,367000.0,7,Surat
+386,Volkswagen VIRTUS,Volkswagen,2023,55867,Petrol,Auto,22396,1308000.0,3,Surat
+387,Jeep Compass,Jeep,2022,30168,Diesel,Manual,30564,1785000.0000000002,4,Surat
+388,Jeep Compass,Jeep,2022,14673,Petrol,Auto,37806,2208000.0,4,Surat
+389,Tata TIAGO EV,Tata,2023,52770,Electric,Auto,13784,805000.0000000001,3,Surat
+390,Mercedes Benz Ml Class,Mercedes,2013,81478,Diesel,Auto,110477,1250000.0,13,Surat
+391,Mercedes Benz GLC CLASS,Mercedes,2018,93906,Diesel,Auto,38258,2010000.0000000002,8,Surat
+392,Tata NEXON EV,Tata,2021,98216,Electric,Auto,13240,750000.0,5,Surat
+393,Maruti Swift,Maruti,2013,90562,Diesel,Manual,24967,281000.0,13,Surat
+394,KIA SELTOS,KIA,2021,91421,Diesel,Manual,15718,918000.0,5,Surat
+395,Ford Ecosport,Ford,2015,98852,Diesel,Manual,9665,291000.0,11,Surat
+396,Tata NEXON EV,Tata,2023,32520,Electric,Auto,17122,1000000.0,3,Surat
+397,Hyundai i20,Hyundai,2014,62,Diesel,Manual,9179,195000.0,12,Surat
+398,Tata Harrier,Tata,2021,95032,Diesel,Manual,19657,1148000.0,5,Surat
+399,Nissan Sunny,Nissan,2015,97969,Diesel,Manual,8403,252999.99999999997,11,Surat
+400,Tata NEXON,Tata,2017,128966,Diesel,Manual,7563,340000.0,9,Surat
+401,Mahindra Kuv100,Mahindra,2017,87283,Diesel,Manual,4093,184000.0,9,Surat
+402,Maruti XL6,Maruti,2021,61521,Petrol,Auto,13363,757000.0,5,Surat
+403,Nissan Kicks,Nissan,2019,139290,Diesel,Manual,13013,585000.0,7,Surat
+404,Hyundai Verna,Hyundai,2021,21508,Petrol,Manual,13862,810000.0,5,Surat
+405,Honda Amaze,Honda,2019,76692,Petrol,Auto,7679,434999.99999999994,7,Surat
+406,Hyundai Elite i20,Hyundai,2016,61356,Petrol,Manual,7680,345000.0,10,Surat
+407,Maruti Baleno,Maruti,2018,65018,Petrol,Manual,6964,395000.0,8,Surat
+408,Ford New Figo,Ford,2017,36596,Petrol,Manual,5470,280000.0,9,Surat
+409,Honda Amaze,Honda,2019,105693,Petrol,Manual,9751,438000.0,7,Surat
+410,Renault Kwid,Renault,2019,22100,Petrol,Manual,3584,202999.99999999997,7,Surat
+411,Ford Ecosport,Ford,2017,103592,Petrol,Manual,6740,303000.0,9,Surat
+412,Hyundai Creta,Hyundai,2022,86358,Diesel,Manual,16438,960000.0,4,Surat
+413,Tata NEXON,Tata,2022,62362,Diesel,Manual,12250,694000.0,4,Surat
+414,Mahindra XUV500,Mahindra,2015,76338,Diesel,Manual,13959,420000.0,11,Surat
+415,Maruti Ertiga,Maruti,2017,69460,Diesel,Manual,12977,583000.0,9,Surat
+416,Tata NEXON,Tata,2021,66390,Petrol,Auto,11209,635000.0,5,Surat
+417,Hyundai Grand i10,Hyundai,2019,89450,Petrol,Manual,6796,385000.0,7,Surat
+418,Honda Brio,Honda,2015,45133,Petrol,Manual,6847,260000.0,11,Surat
+419,Hyundai Creta,Hyundai,2018,85718,Petrol,Auto,11338,642000.0,8,Surat

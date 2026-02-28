@@ -1,0 +1,284 @@
+,car_name,brand,year_of_manufacture,kms_driven,fuel_type,transmission_type,emi,price,car_age_years,city
+0,Tata TIGOR,Tata,2019,82746,CNG,Manual,6657,341000.0,7,Vadodara
+1,Maruti Baleno,Maruti,2018,88861,Petrol,Manual,7308,413999.99999999994,8,Vadodara
+2,Mahindra XUV700,Mahindra,2022,69318,Petrol,Manual,19208,1122000.0,4,Vadodara
+3,Honda City,Honda,2015,77600,Diesel,Manual,14531,437000.0,11,Vadodara
+4,Maruti Wagon R 1.0,Maruti,2013,70066,Petrol,Manual,10436,222000.00000000003,13,Vadodara
+5,Ford Ecosport,Ford,2019,64389,Petrol,Auto,8605,487000.0,7,Vadodara
+6,Maruti Swift Dzire,Maruti,2016,72132,Petrol,Manual,7074,318000.0,10,Vadodara
+7,Nissan Sunny,Nissan,2016,128818,Petrol,Manual,5888,265000.0,10,Vadodara
+8,Hyundai Grand i10,Hyundai,2016,96930,Petrol,Manual,7602,342000.0,10,Vadodara
+9,Honda Brio,Honda,2014,79294,Petrol,Manual,7812,235000.0,12,Vadodara
+10,Jeep Compass,Jeep,2021,62540,Petrol,Auto,16686,974000.0,5,Vadodara
+11,Tata TIGOR,Tata,2019,124814,CNG,Manual,8119,365000.0,7,Vadodara
+12,Hyundai Eon,Hyundai,2016,55303,Petrol,Manual,3670,165000.0,10,Vadodara
+13,Maruti Alto,Maruti,2019,79039,Petrol,Manual,3795,215000.0,7,Vadodara
+14,Maruti Baleno,Maruti,2019,70211,Petrol,Manual,8473,480000.0,7,Vadodara
+15,Maruti S Cross,Maruti,2018,60172,Diesel,Manual,12414,635000.0,8,Vadodara
+16,Renault Kwid,Renault,2021,28245,Petrol,Manual,5099,289000.0,5,Vadodara
+17,Skoda Octavia,Skoda,2016,142130,Petrol,Manual,6569,295000.0,10,Vadodara
+18,Tata ALTROZ,Tata,2023,14624,Petrol,Manual,9610,544000.0,3,Vadodara
+19,KIA SELTOS,KIA,2020,21333,Petrol,Auto,16968,991000.0,6,Vadodara
+20,Honda WR-V,Honda,2018,66531,Petrol,Manual,8385,475000.0,8,Vadodara
+21,Hyundai NEW I20,Hyundai,2025,8856,Petrol,Auto,13572,769000.0,1,Vadodara
+22,Hyundai Elite i20,Hyundai,2014,77039,Petrol,Manual,10974,330000.0,12,Vadodara
+23,Mahindra XUV500,Mahindra,2021,70007,Diesel,Auto,16266,950000.0,5,Vadodara
+24,Maruti Celerio,Maruti,2014,73886,CNG,Manual,21324,240000.0,12,Vadodara
+25,Mahindra XUV300,Mahindra,2020,79449,Diesel,Manual,11386,645000.0,6,Vadodara
+26,Maruti Baleno,Maruti,2020,70289,Petrol,Manual,7414,420000.0,6,Vadodara
+27,Maruti Celerio,Maruti,2019,80595,CNG,Manual,6083,311000.0,7,Vadodara
+28,Maruti Eeco,Maruti,2019,26591,Petrol,Manual,6403,363000.0,7,Vadodara
+29,Volkswagen TAIGUN,Volkswagen,2023,44100,Petrol,Auto,16771,978999.9999999999,3,Vadodara
+30,Hyundai Elite i20,Hyundai,2017,37236,Petrol,Manual,8993,459999.99999999994,9,Vadodara
+31,Maruti IGNIS,Maruti,2018,29038,Petrol,Auto,6511,369000.0,8,Vadodara
+32,Honda City,Honda,2015,63245,Diesel,Manual,14448,434999.99999999994,11,Vadodara
+33,Mahindra XUV300,Mahindra,2021,58969,Petrol,Manual,10592,600000.0,5,Vadodara
+34,Hyundai i20,Hyundai,2014,116327,CNG,Manual,25084,282000.0,12,Vadodara
+35,Maruti Wagon R 1.0,Maruti,2017,57122,Petrol,Manual,4972,254000.0,9,Vadodara
+36,Honda Amaze,Honda,2019,82457,Petrol,Manual,8336,472000.0,7,Vadodara
+37,Maruti New Wagon-R,Maruti,2022,30961,Petrol,Manual,6540,370000.0,4,Vadodara
+38,Mahindra Kuv100,Mahindra,2017,58613,Diesel,Manual,6228,280000.0,9,Vadodara
+39,Maruti Alto 800,Maruti,2017,69623,Petrol,Manual,3578,183000.0,9,Vadodara
+40,Renault Duster,Renault,2015,118770,Diesel,Manual,9134,275000.0,11,Vadodara
+41,Tata Tiago,Tata,2018,83861,Petrol,Manual,4883,277000.0,8,Vadodara
+42,Mahindra TUV300,Mahindra,2017,20374,Diesel,Manual,10677,480000.0,9,Vadodara
+43,Tata NEXON,Tata,2025,8858,CNG,Manual,18837,1100000.0,1,Vadodara
+44,Maruti Swift,Maruti,2017,67233,Petrol,Manual,7820,400000.0,9,Vadodara
+45,Maruti Dzire,Maruti,2019,85316,Petrol,Manual,7729,438000.0,7,Vadodara
+46,Maruti Ertiga,Maruti,2016,107444,Diesel,Manual,12772,484999.99999999994,10,Vadodara
+47,Maruti Alto 800,Maruti,2014,52408,Petrol,Manual,6078,183000.0,12,Vadodara
+48,Renault Kwid,Renault,2019,95870,Petrol,Auto,4437,250999.99999999997,7,Vadodara
+49,Honda WR-V,Honda,2017,44386,Petrol,Manual,8993,459999.99999999994,9,Vadodara
+50,Maruti Wagon R 1.0,Maruti,2015,88204,Petrol,Manual,6188,235000.0,11,Vadodara
+51,KIA SELTOS,KIA,2023,71001,Diesel,Manual,21064,1230000.0,3,Vadodara
+52,Honda Brio,Honda,2017,98398,Petrol,Manual,5767,295000.0,9,Vadodara
+53,Maruti Alto 800,Maruti,2018,54561,Petrol,Manual,4237,240000.0,8,Vadodara
+54,Honda City,Honda,2016,94730,Petrol,Manual,9788,440000.00000000006,10,Vadodara
+55,Tata NEXON,Tata,2022,95062,Diesel,Manual,12886,730000.0,4,Vadodara
+56,Maruti Wagon R Stingray,Maruti,2014,59186,Petrol,Manual,8453,254000.0,12,Vadodara
+57,Renault Kwid,Renault,2017,20515,Petrol,Auto,4497,229999.99999999997,9,Vadodara
+58,Maruti Baleno,Maruti,2021,33038,Petrol,Manual,9699,549000.0,5,Vadodara
+59,Hyundai Eon,Hyundai,2015,42818,Petrol,Manual,4994,190000.0,11,Vadodara
+60,Hyundai Eon,Hyundai,2011,59600,Petrol,Manual,4994,137000.0,15,Vadodara
+61,Maruti XL6,Maruti,2021,67823,Petrol,Manual,12263,695000.0,5,Vadodara
+62,Tata NEXON,Tata,2025,23295,CNG,Manual,18111,1058000.0,1,Vadodara
+63,Hyundai Xcent,Hyundai,2015,39511,Petrol,Manual,9063,344000.0,11,Vadodara
+64,Hyundai i10,Hyundai,2013,67214,Petrol,Manual,8914,189000.0,13,Vadodara
+65,Maruti Alto 800,Maruti,2013,90646,Petrol,Manual,5555,118000.0,13,Vadodara
+66,Maruti Swift Dzire,Maruti,2013,32400,Petrol,Manual,12804,272000.0,13,Vadodara
+67,Maruti Swift Dzire,Maruti,2014,148893,Petrol,Manual,9333,281000.0,12,Vadodara
+68,Maruti Alto 800,Maruti,2017,138620,Petrol,Manual,5472,246000.0,9,Vadodara
+69,Mahindra XUV500,Mahindra,2013,117845,Diesel,Manual,30031,338000.0,13,Vadodara
+70,Hyundai i10,Hyundai,2012,77373,Petrol,Manual,12261,138000.0,14,Vadodara
+71,Honda Brio,Honda,2013,83645,Petrol,Manual,6637,141000.0,13,Vadodara
+72,Mahindra XUV500,Mahindra,2018,223991,Diesel,Manual,13213,594000.0,8,Vadodara
+73,Mahindra XUV500,Mahindra,2014,155227,Diesel,Manual,11957,254000.0,12,Vadodara
+74,Ford New Figo,Ford,2017,40478,Petrol,Manual,3793,194000.0,9,Vadodara
+75,Maruti Eeco,Maruti,2020,160816,Petrol,Manual,7941,357000.0,6,Vadodara
+76,Maruti Dzire,Maruti,2018,43927,Petrol,Manual,7079,401000.0,8,Vadodara
+77,Tata PUNCH,Tata,2022,38658,Petrol,Manual,8297,470000.0,4,Vadodara
+78,Nissan Micra,Nissan,2011,89287,Petrol,Manual,8297,92000.0,15,Vadodara
+79,Nissan MAGNITE,Nissan,2025,3859,Petrol,Manual,10503,595000.0,1,Vadodara
+80,Hyundai Eon,Hyundai,2013,182047,Petrol,Manual,6732,143000.0,13,Vadodara
+81,Hyundai VENUE,Hyundai,2020,137644,Petrol,Manual,11189,503000.0,6,Vadodara
+82,Hyundai i10,Hyundai,2012,111641,Petrol,Manual,12794,144000.0,14,Vadodara
+83,Tata PUNCH,Tata,2022,27639,Petrol,Manual,9038,512000.0,4,Vadodara
+84,Ford Figo,Ford,2011,146646,Petrol,Manual,9038,81000.0,15,Vadodara
+85,Hyundai i10,Hyundai,2011,87354,Petrol,Manual,9038,124000.0,15,Vadodara
+86,Hyundai i20,Hyundai,2013,60363,Petrol,Manual,9933,211000.0,13,Vadodara
+87,Skoda Laura,Skoda,2013,211032,Diesel,Manual,17770,200000.0,13,Vadodara
+88,Maruti Wagon R 1.0,Maruti,2012,108468,Petrol,Manual,14216,160000.0,14,Vadodara
+89,Audi A4,Audi,2011,89349,Diesel,Auto,14216,350000.0,15,Vadodara
+90,Maruti Celerio,Maruti,2015,89236,Petrol,Auto,5635,214000.0,11,Vadodara
+91,Datsun Redi Go,Datsun,2016,69263,Petrol,Manual,2781,125000.0,10,Vadodara
+92,Maruti Alto K10,Maruti,2015,137853,Petrol,Manual,4608,175000.0,11,Vadodara
+93,Maruti Swift Dzire,Maruti,2013,115345,Diesel,Manual,20080,225999.99999999997,13,Vadodara
+94,Chevrolet Sail,Chevrolet,2016,74006,Petrol,Manual,4137,186000.0,10,Vadodara
+95,BMW 3 Series,BMW,2011,131852,Diesel,Auto,4137,308000.0,15,Vadodara
+96,Hyundai i10,Hyundai,2012,74810,Petrol,Manual,13061,147000.0,14,Vadodara
+97,Hyundai i10,Hyundai,2015,114490,Petrol,Manual,5978,227000.0,11,Vadodara
+98,Maruti Swift,Maruti,2018,79117,Petrol,Manual,7414,420000.0,8,Vadodara
+99,Chevrolet Spark,Chevrolet,2011,90815,Petrol,Manual,7414,48000.0,15,Vadodara
+100,Renault Duster,Renault,2013,192487,Diesel,Manual,16615,187000.0,13,Vadodara
+101,Hyundai i20 Active,Hyundai,2016,37436,Petrol,Manual,8253,371000.0,10,Vadodara
+102,Honda Brio,Honda,2012,77266,Petrol,Manual,11728,132000.0,14,Vadodara
+103,Maruti Alto K10,Maruti,2012,116884,Petrol,Manual,10751,121000.0,14,Vadodara
+104,Renault Kwid,Renault,2017,98767,Petrol,Manual,3656,187000.0,9,Vadodara
+105,Hyundai Eon,Hyundai,2013,98824,Petrol,Manual,5790,123000.0,13,Vadodara
+106,Maruti Eeco,Maruti,2015,174429,Petrol,Manual,4892,186000.0,11,Vadodara
+107,Renault Kiger,Renault,2023,43333,Petrol,Manual,7944,450000.0,3,Vadodara
+108,Maruti Wagon R 1.0,Maruti,2015,129482,Petrol,Manual,6504,247000.00000000003,11,Vadodara
+109,Hyundai Verna,Hyundai,2013,86979,Diesel,Manual,31097,350000.0,13,Vadodara
+110,Maruti Wagon R 1.0,Maruti,2014,115280,Petrol,Manual,6344,191000.0,12,Vadodara
+111,Hyundai i20,Hyundai,2011,74607,Petrol,Manual,6344,148000.0,15,Vadodara
+112,Renault Duster,Renault,2013,90381,Diesel,Manual,14660,165000.0,13,Vadodara
+113,Maruti Vitara Brezza,Maruti,2017,98005,Diesel,Manual,12056,542000.0,9,Vadodara
+114,Volkswagen Polo,Volkswagen,2015,101314,Diesel,Manual,9765,294000.0,11,Vadodara
+115,Renault Kwid,Renault,2017,61257,Petrol,Manual,3363,172000.0,9,Vadodara
+116,Hyundai NEW SANTRO,Hyundai,2019,62016,Petrol,Manual,5084,288000.0,7,Vadodara
+117,Maruti Wagon R 1.0,Maruti,2014,119284,Petrol,Manual,3953,119000.0,12,Vadodara
+118,Tata NEXON,Tata,2018,150874,Diesel,Manual,11389,512000.0,8,Vadodara
+119,Maruti Eeco,Maruti,2023,41591,Petrol,Manual,10450,592000.0,3,Vadodara
+120,Hyundai i20,Hyundai,2011,93338,Diesel,Manual,10450,122000.0,15,Vadodara
+121,Maruti Vitara Brezza,Maruti,2016,94891,Diesel,Manual,13983,531000.0,10,Vadodara
+122,Maruti Baleno,Maruti,2021,78175,Petrol,Manual,8420,476999.99999999994,5,Vadodara
+123,Skoda Superb,Skoda,2012,109655,Diesel,Auto,8420,259000.0,14,Vadodara
+124,Maruti Swift,Maruti,2024,66952,Petrol,Manual,11598,657000.0,2,Vadodara
+125,Maruti Swift,Maruti,2012,129867,Diesel,Manual,11598,250999.99999999997,14,Vadodara
+126,Maruti Ertiga,Maruti,2024,36750,Petrol,Manual,18424,1076000.0,2,Vadodara
+127,Tata TIGOR,Tata,2024,53582,Petrol,Auto,13769,780000.0,2,Vadodara
+128,Hyundai i10,Hyundai,2014,50822,Petrol,Manual,7706,231999.99999999997,12,Vadodara
+129,Tata Indica Vista,Tata,2012,66022,Diesel,Manual,7706,56999.99999999999,14,Vadodara
+130,Hyundai i20,Hyundai,2012,154206,Petrol,Manual,15549,175000.0,14,Vadodara
+131,Hyundai Verna,Hyundai,2016,139342,Diesel,Manual,10455,397000.0,10,Vadodara
+132,Honda Jazz,Honda,2015,182182,Petrol,Manual,7294,277000.0,11,Vadodara
+133,Hyundai i10,Hyundai,2013,157348,Petrol,Manual,8991,191000.0,13,Vadodara
+134,Honda Brio,Honda,2012,38512,Petrol,Manual,14660,165000.0,14,Vadodara
+135,Maruti Swift,Maruti,2011,54485,Petrol,Manual,14660,194000.0,15,Vadodara
+136,Mahindra XUV500,Mahindra,2017,135923,Diesel,Manual,13280,597000.0,9,Vadodara
+137,Maruti Eeco,Maruti,2015,45128,Petrol,Manual,5109,194000.0,11,Vadodara
+138,Maruti Alto,Maruti,2020,44488,Petrol,Manual,4925,279000.0,6,Vadodara
+139,Honda Amaze,Honda,2014,57535,Petrol,Manual,6377,192000.0,12,Vadodara
+140,Hyundai AURA,Hyundai,2020,87078,Diesel,Auto,8526,483000.0,6,Vadodara
+141,Tata ALTROZ,Tata,2021,46522,Petrol,Manual,7944,450000.0,5,Vadodara
+142,Maruti Swift Dzire,Maruti,2014,105433,Diesel,Manual,7061,150000.0,12,Vadodara
+143,Maruti Baleno,Maruti,2018,113866,Petrol,Manual,7007,315000.0,8,Vadodara
+144,Maruti Ciaz,Maruti,2017,26060,Petrol,Manual,8328,426000.0,9,Vadodara
+145,Volkswagen Vento,Volkswagen,2018,75491,Diesel,Auto,13118,671000.0,8,Vadodara
+146,Ford Ecosport,Ford,2013,118502,Diesel,Manual,22390,252000.0,13,Vadodara
+147,Maruti Swift,Maruti,2013,76815,Petrol,Manual,13181,280000.0,13,Vadodara
+148,Volkswagen Vento,Volkswagen,2015,57956,Diesel,Auto,12954,390000.0,11,Vadodara
+149,Hyundai Verna,Hyundai,2018,95997,Diesel,Auto,13255,678000.0,8,Vadodara
+150,Maruti Alto K10,Maruti,2023,13355,Petrol,Manual,7538,426999.99999999994,3,Vadodara
+151,Maruti Eeco,Maruti,2014,95465,Petrol,Manual,5248,158000.0,12,Vadodara
+152,Hyundai i10,Hyundai,2015,154149,Petrol,Manual,5530,210000.0,11,Vadodara
+153,KIA CARENS,KIA,2022,67953,Diesel,Auto,23989,1401000.0,4,Vadodara
+154,Maruti Eeco,Maruti,2011,287655,Petrol,Manual,23989,174000.0,15,Vadodara
+155,Hyundai VENUE,Hyundai,2021,5968,Petrol,Manual,12586,713000.0,5,Vadodara
+156,Hyundai i20,Hyundai,2014,83525,Petrol,Manual,9566,288000.0,12,Vadodara
+157,Maruti IGNIS,Maruti,2018,56025,Petrol,Manual,5437,308000.0,8,Vadodara
+158,Hyundai Accent,Hyundai,2010,157666,Petrol,Manual,5437,67000.0,16,Vadodara
+159,KIA SONET,KIA,2022,28792,Petrol,Manual,12357,700000.0,4,Vadodara
+160,Maruti Swift,Maruti,2016,113510,Diesel,Manual,7900,300000.0,10,Vadodara
+161,Ford Ecosport,Ford,2015,96164,Petrol,Manual,7373,280000.0,11,Vadodara
+162,Maruti Wagon R,Maruti,2010,123241,Petrol,Manual,7373,108000.0,16,Vadodara
+163,Maruti Ertiga,Maruti,2014,161917,Diesel,Manual,18782,399000.0,12,Vadodara
+164,Mahindra XUV500,Mahindra,2015,77225,Diesel,Manual,16009,482000.0,11,Vadodara
+165,Maruti Eeco,Maruti,2011,155168,Petrol,Manual,16009,187000.0,15,Vadodara
+166,Maruti S PRESSO,Maruti,2022,8941,Petrol,Manual,6479,367000.0,4,Vadodara
+167,Hyundai i10,Hyundai,2011,57365,Petrol,Manual,6479,130000.0,15,Vadodara
+168,Maruti Eeco,Maruti,2011,27035,Petrol,Manual,6479,171000.0,15,Vadodara
+169,Honda Amaze,Honda,2018,71205,Petrol,Auto,8897,504000.0,8,Vadodara
+170,Skoda KUSHAQ,Skoda,2021,34414,Petrol,Auto,16095,940000.0,5,Vadodara
+171,Toyota Innova Crysta,Toyota,2024,12113,Diesel,Manual,34142,1994000.0000000002,2,Vadodara
+172,Ford Ecosport,Ford,2018,94076,Diesel,Manual,9736,498000.00000000006,8,Vadodara
+173,Maruti IGNIS,Maruti,2019,25984,Petrol,Manual,6973,395000.0,7,Vadodara
+174,Maruti Vitara Brezza,Maruti,2019,71557,Diesel,Manual,9568,542000.0,7,Vadodara
+175,Toyota Innova,Toyota,2015,182347,Diesel,Manual,17271,520000.0,11,Vadodara
+176,Maruti Ertiga,Maruti,2019,120390,Diesel,Manual,18481,850000.0,7,Vadodara
+177,Maruti Swift,Maruti,2014,88949,Petrol,Manual,10230,308000.0,12,Vadodara
+178,Ford Ecosport,Ford,2020,49088,Diesel,Manual,12269,695000.0,6,Vadodara
+179,Renault Lodgy,Renault,2015,193635,Diesel,Manual,8304,250000.0,11,Vadodara
+180,Mahindra XUV500,Mahindra,2019,52195,Diesel,Manual,15102,882000.0,7,Vadodara
+181,Maruti New Wagon-R,Maruti,2023,41315,Petrol,Manual,7767,440000.00000000006,3,Vadodara
+182,Maruti Zen Estilo,Maruti,2011,58890,Petrol,Manual,7767,96000.0,15,Vadodara
+183,Maruti S PRESSO,Maruti,2019,36274,Petrol,Manual,5331,302000.0,7,Vadodara
+184,Tata ALTROZ,Tata,2022,40610,Petrol,Manual,9621,545000.0,4,Vadodara
+185,Tata Harrier,Tata,2020,97397,Diesel,Manual,16609,969999.9999999999,6,Vadodara
+186,Hyundai Xcent,Hyundai,2015,50105,Petrol,Manual,8716,331000.0,11,Vadodara
+187,Skoda SLAVIA,Skoda,2022,87352,Petrol,Auto,14554,850000.0,4,Vadodara
+188,Maruti Baleno,Maruti,2019,57383,Petrol,Manual,7308,413999.99999999994,7,Vadodara
+189,Hyundai Creta,Hyundai,2018,80758,Diesel,Manual,12238,626000.0,8,Vadodara
+190,Hyundai Creta,Hyundai,2021,98260,Diesel,Manual,20085,1173000.0,5,Vadodara
+191,Ford Ecosport,Ford,2016,89247,Diesel,Manual,9744,370000.0,10,Vadodara
+192,Ford Ecosport,Ford,2017,129953,Diesel,Manual,9765,438999.99999999994,9,Vadodara
+193,Jeep Compass,Jeep,2017,76095,Petrol,Auto,13626,697000.0,9,Vadodara
+194,Ford Ecosport,Ford,2014,87493,Petrol,Manual,10894,328000.0,12,Vadodara
+195,Volkswagen Polo,Volkswagen,2016,88540,Diesel,Manual,10744,408000.0,10,Vadodara
+196,Hyundai Elite i20,Hyundai,2019,102016,Petrol,Manual,10054,451999.99999999994,7,Vadodara
+197,Tata NEXON,Tata,2022,59110,Petrol,Manual,10786,611000.0,4,Vadodara
+198,Maruti Vitara Brezza,Maruti,2020,49919,Petrol,Manual,9621,545000.0,6,Vadodara
+199,Mercedes Benz C Class,Mercedes,2012,40223,Petrol,Auto,53309,600000.0,14,Vadodara
+200,Hyundai Elite i20,Hyundai,2015,143171,Petrol,Manual,9823,373000.0,11,Vadodara
+201,Volkswagen Ameo,Volkswagen,2018,59762,Petrol,Manual,7944,450000.0,8,Vadodara
+202,Maruti Eeco,Maruti,2019,24965,Petrol,Manual,6355,360000.0,7,Vadodara
+203,Toyota YARIS,Toyota,2018,113395,Petrol,Auto,12390,557000.0,8,Vadodara
+204,Tata Harrier,Tata,2021,22120,Diesel,Auto,23115,1350000.0,5,Vadodara
+205,Skoda KUSHAQ,Skoda,2022,37848,Petrol,Manual,14605,852999.9999999999,4,Vadodara
+206,Maruti Baleno,Maruti,2022,53313,Petrol,Manual,9303,527000.0,4,Vadodara
+207,Mahindra MARAZZO,Mahindra,2019,112983,Diesel,Manual,13502,607000.0,7,Vadodara
+208,Hyundai New Elantra,Hyundai,2018,126688,Diesel,Auto,15571,700000.0,8,Vadodara
+209,Hyundai AURA,Hyundai,2024,32849,Petrol,Manual,13557,768000.0,2,Vadodara
+210,Mahindra XUV700,Mahindra,2024,5691,Petrol,Auto,26471,1546000.0,2,Vadodara
+211,Hyundai NEW SANTRO,Hyundai,2019,40530,Petrol,Manual,5914,335000.0,7,Vadodara
+212,Maruti Baleno,Maruti,2024,19346,Petrol,Manual,11969,678000.0,2,Vadodara
+213,Tata Tiago,Tata,2023,137891,Petrol,Manual,10833,487000.0,3,Vadodara
+214,Ford Ecosport,Ford,2019,24250,Petrol,Auto,10786,611000.0,7,Vadodara
+215,MG HECTOR,MG,2019,76365,Petrol,Auto,13240,750000.0,7,Vadodara
+216,Hyundai Grand i10,Hyundai,2018,21542,Petrol,Manual,7926,449000.0,8,Vadodara
+217,Hyundai Elite i20,Hyundai,2017,49507,Petrol,Manual,8309,425000.0,9,Vadodara
+218,Ford New Figo,Ford,2021,42149,Petrol,Auto,8738,495000.0,5,Vadodara
+219,Maruti Ciaz,Maruti,2019,75301,Petrol,Manual,10592,600000.0,7,Vadodara
+220,Maruti New Wagon-R,Maruti,2022,43256,Petrol,Manual,7132,404000.0,4,Vadodara
+221,Hyundai GRAND I10 NIOS,Hyundai,2024,51147,Petrol,Manual,10962,621000.0,2,Vadodara
+222,Hyundai Grand i10,Hyundai,2017,91274,Petrol,Manual,7273,372000.0,9,Vadodara
+223,Tata Tiago,Tata,2023,23333,Petrol,Manual,7944,450000.0,3,Vadodara
+224,Hyundai Xcent,Hyundai,2016,93878,Petrol,Manual,7674,345000.0,10,Vadodara
+225,Maruti Ciaz,Maruti,2015,84359,Petrol,Manual,11113,422000.0,11,Vadodara
+226,Hyundai New Elantra,Hyundai,2015,154361,Diesel,Auto,14315,430999.99999999994,11,Vadodara
+227,Renault Duster,Renault,2017,150539,Diesel,Manual,9120,409999.99999999994,9,Vadodara
+228,Hyundai Elite i20,Hyundai,2017,76681,Petrol,Manual,8152,417000.0,9,Vadodara
+229,Honda Amaze,Honda,2023,26339,Petrol,Manual,12639,716000.0,3,Vadodara
+230,Hyundai Elite i20,Hyundai,2016,51938,Petrol,Manual,8942,401999.99999999994,10,Vadodara
+231,MG HECTOR,MG,2021,41861,Petrol,Auto,17979,1050000.0,5,Vadodara
+232,Ford Ecosport,Ford,2016,58702,Diesel,Manual,13114,498000.00000000006,10,Vadodara
+233,Hyundai Creta,Hyundai,2024,6013,Petrol,Manual,22259,1300000.0,2,Vadodara
+234,Mahindra XUV300,Mahindra,2023,12477,Petrol,Manual,13151,745000.0,3,Vadodara
+235,Maruti S Cross,Maruti,2018,103665,Diesel,Manual,12568,565000.0,8,Vadodara
+236,Honda Amaze,Honda,2019,121095,Diesel,Auto,11523,518000.0,7,Vadodara
+237,Hyundai NEW SANTRO,Hyundai,2018,26507,Petrol,Manual,5631,319000.0,8,Vadodara
+238,Hyundai New Elantra,Hyundai,2014,103549,Petrol,Auto,13120,395000.0,12,Vadodara
+239,Maruti Ciaz,Maruti,2023,20524,Petrol,Manual,13928,789000.0,3,Vadodara
+240,Tata Tiago,Tata,2021,53620,Petrol,Manual,7750,438999.99999999994,5,Vadodara
+241,Hyundai Verna,Hyundai,2025,6000,Petrol,Auto,23937,1398000.0,1,Vadodara
+242,Maruti BREZZA,Maruti,2023,14652,Petrol,Manual,18321,1070000.0,3,Vadodara
+243,Maruti Eeco,Maruti,2024,22423,Petrol,Manual,10680,605000.0,2,Vadodara
+244,Maruti Baleno,Maruti,2024,7194,Petrol,Auto,12992,736000.0,2,Vadodara
+245,Hyundai VENUE,Hyundai,2021,161877,Diesel,Manual,17684,795000.0,5,Vadodara
+246,Mahindra XUV 3XO,Mahindra,2025,2644,Diesel,Manual,20804,1215000.0,1,Vadodara
+247,Mahindra Bolero,Mahindra,2013,142928,Diesel,Manual,28520,321000.0,13,Vadodara
+248,Jeep Compass,Jeep,2019,110418,Diesel,Manual,18481,850000.0,7,Vadodara
+249,MG HECTOR,MG,2021,78500,Petrol,Manual,16609,969999.9999999999,5,Vadodara
+250,Maruti Eeco,Maruti,2019,118908,Petrol,Manual,7719,347000.0,7,Vadodara
+251,MG HECTOR,MG,2024,15196,Diesel,Manual,32652,1907000.0,2,Vadodara
+252,Tata Hexa,Tata,2017,151034,Diesel,Auto,12234,550000.0,9,Vadodara
+253,Skoda Superb,Skoda,2012,65164,Petrol,Auto,37850,426000.0,14,Vadodara
+254,Datsun Go Plus,Datsun,2021,13627,Petrol,Manual,7061,400000.0,5,Vadodara
+255,Tata Hexa,Tata,2017,215222,Diesel,Manual,11701,526000.0,9,Vadodara
+256,MG HECTOR,MG,2020,100330,Petrol,Manual,21090,969999.9999999999,6,Vadodara
+257,Mahindra Xylo,Mahindra,2018,138200,Diesel,Manual,7229,325000.0,8,Vadodara
+258,Maruti FRONX,Maruti,2024,4628,Petrol,Manual,15051,878999.9999999999,2,Vadodara
+259,Mahindra XUV300,Mahindra,2021,58155,Petrol,Manual,12180,690000.0,5,Vadodara
+260,Maruti Vitara Brezza,Maruti,2020,74230,Petrol,Manual,10239,580000.0,6,Vadodara
+261,Mahindra MARAZZO,Mahindra,2020,116063,Diesel,Manual,17394,800000.0,6,Vadodara
+262,Hyundai New Elantra,Hyundai,2018,144555,Diesel,Auto,18742,861999.9999999999,8,Vadodara
+263,Maruti Eeco,Maruti,2022,123928,Petrol,Manual,10766,484000.0,4,Vadodara
+264,Tata Curvv,Tata,2025,2573,Diesel,Auto,31677,1850000.0,1,Vadodara
+265,Hyundai Santa Fe,Hyundai,2014,133874,Diesel,Auto,29609,629000.0,12,Vadodara
+266,Tata NEXON EV,Tata,2023,53734,Electric,Auto,21814,1274000.0,3,Vadodara
+267,Maruti Wagon R 1.0,Maruti,2012,217383,Petrol,Manual,12083,136000.0,14,Vadodara
+268,Skoda Kylaq,Skoda,2025,1150,Petrol,Auto,17979,1050000.0,1,Vadodara
+269,Hyundai Eon,Hyundai,2013,80151,Petrol,Manual,4707,100000.0,13,Vadodara
+270,Hyundai Grand i10,Hyundai,2018,27862,Petrol,Auto,7344,416000.0,8,Vadodara
+271,Maruti Ertiga,Maruti,2022,72105,Petrol,Manual,15342,896000.0000000001,4,Vadodara
+272,Hyundai Elite i20,Hyundai,2020,35037,Petrol,Manual,9321,528000.0,6,Vadodara
+273,Tata Tiago,Tata,2017,34833,Petrol,Manual,5767,295000.0,9,Vadodara
+274,Maruti Alto,Maruti,2019,81998,Petrol,Manual,4448,252000.0,7,Vadodara
+275,Maruti Wagon R 1.0,Maruti,2014,42164,Petrol,Manual,7274,219000.0,12,Vadodara
+276,Maruti Baleno,Maruti,2021,102085,Petrol,Manual,10789,484999.99999999994,5,Vadodara
+277,Tata TIGOR,Tata,2024,4335,CNG,Manual,11028,625000.0,2,Vadodara
+278,Maruti Swift,Maruti,2021,51841,Petrol,Manual,9003,509999.99999999994,5,Vadodara
+279,Maruti Alto,Maruti,2021,49854,CNG,Manual,5261,298000.0,5,Vadodara
+280,Tata NEXON,Tata,2019,31891,Petrol,Auto,10062,570000.0,7,Vadodara
+281,Hyundai Grand i10,Hyundai,2015,51122,Petrol,Manual,9152,348000.0,11,Vadodara
+282,Hyundai GRAND I10 NIOS,Hyundai,2022,25069,Petrol,Manual,8046,455999.99999999994,4,Vadodara
